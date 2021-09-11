@@ -1,0 +1,1690 @@
+{
+    "DerrickHenry":{
+       "AnyTime Touchdown Scorer":0.7222222222222222,
+       "ToScore 2+ Touchdowns":0.2631578947368421,
+       "PlayerReceiving Yds":9.018779342723004,
+       "PlayerRushing Yds":111.93896713615024
+    },
+    "AJBrown":{
+       "AnyTime Touchdown Scorer":0.5348837209302325,
+       "ToScore 2+ Touchdowns":0.14285714285714285
+    },
+    "DeAndreHopkins":{
+       "AnyTime Touchdown Scorer":0.5238095238095238,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerReceiving Yds":89.65727699530517
+    },
+    "ChaseEdmonds":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.10526315789473684,
+       "PlayerReceiving Yds":23.87323943661972,
+       "PlayerRushing Yds":39.78873239436619
+    },
+    "KylerMurray":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.10526315789473684,
+       "PlayerRushing Yds":45.093896713615024,
+       "PlayerPassing TDs":1.6652465003043213,
+       "PlayerPassing Yds":277.4600938967136
+    },
+    "JulioJones":{
+       "AnyTime Touchdown Scorer":0.45454545454545453,
+       "ToScore 2+ Touchdowns":0.1
+    },
+    "RyanTannehill":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.043478260869565216,
+       "PlayerRushing Yds":18.533553355335535,
+       "PlayerPassing TDs":1.6652465003043213,
+       "PlayerPassing Yds":267.9107981220657
+    },
+    "JamesConner":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.037037037037037035,
+       "PlayerReceiving Yds":12.2018779342723,
+       "PlayerRushing Yds":29.178403755868544
+    },
+    "AJGreen":{
+       "AnyTime Touchdown Scorer":0.2777777777777778,
+       "ToScore 2+ Touchdowns":0.037037037037037035,
+       "PlayerReceiving Yds":38.72769953051643
+    },
+    "RondaleMoore":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.03125,
+       "PlayerReceiving Yds":34.483568075117375
+    },
+    "ChristianKirk":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.029411764705882353,
+       "PlayerReceiving Yds":30.23943661971831
+    },
+    "JoshReynolds":{
+       "AnyTime Touchdown Scorer":0.23255813953488372,
+       "ToScore 2+ Touchdowns":0.02702702702702703
+    },
+    "AnthonyFirkser":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.020833333333333332
+    },
+    "ArizonaD/ST":{
+       "AnyTime Touchdown Scorer":0.17857142857142858,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "CameronBatson":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.011627906976744186
+    },
+    "MaxxWilliams":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.010416666666666666
+    },
+    "TennesseeD/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.01098901098901099
+    },
+    "JeremyMcNichols":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "AndyIsabella":{
+       "AnyTime Touchdown Scorer":0.125,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "GeoffSwaim":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DarrellDaniels":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "ChesterRogers":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "NickWestbrook - Ikhine":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KhariBlasingame":{
+       "AnyTime Touchdown Scorer":0.07142857142857142
+    },
+    "MekhiSargent":{
+       "AnyTime Touchdown Scorer":0.07142857142857142
+    },
+    "TommyHudson":{
+       "AnyTime Touchdown Scorer":0.0625,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DemetriusHarris":{
+       "AnyTime Touchdown Scorer":0.058823529411764705,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JonathanWard":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "CalvinRidley":{
+       "AnyTime Touchdown Scorer":0.5348837209302325,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerReceiving Yds":92.84037558685446
+    },
+    "MikeDavis":{
+       "AnyTime Touchdown Scorer":0.5,
+       "ToScore 2+ Touchdowns":0.13333333333333333,
+       "PlayerReceiving Yds":17.474845542806705,
+       "PlayerRushing Yds":47.21596244131456
+    },
+    "MilesSanders":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.1111111111111111,
+       "PlayerReceiving Yds":14.323943661971832,
+       "PlayerRushing Yds":69.49765258215962
+    },
+    "KylePitts":{
+       "AnyTime Touchdown Scorer":0.36363636363636365,
+       "ToScore 2+ Touchdowns":0.07142857142857142
+    },
+    "JalenHurts":{
+       "AnyTime Touchdown Scorer":0.35714285714285715,
+       "ToScore 2+ Touchdowns":0.06666666666666667,
+       "PlayerRushing Yds":52.52112676056338,
+       "PlayerPassing TDs":1.4795360767257724,
+       "PlayerPassing Yds":255.17840375586854
+    },
+    "RussellGage":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":53.582159624413144
+    },
+    "DeVontaSmith":{
+       "AnyTime Touchdown Scorer":0.29411764705882354,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":46.154929577464785
+    },
+    "DallasGoedert":{
+       "AnyTime Touchdown Scorer":0.2777777777777778,
+       "ToScore 2+ Touchdowns":0.034482758620689655,
+       "PlayerReceiving Yds":42.97183098591549
+    },
+    "JalenReagor":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.02857142857142857,
+       "PlayerReceiving Yds":42.97183098591549
+    },
+    "WayneGallman":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.03333333333333333
+    },
+    "HaydenHurst":{
+       "AnyTime Touchdown Scorer":0.23255813953488372,
+       "ToScore 2+ Touchdowns":0.029411764705882353
+    },
+    "ZachErtz":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.0196078431372549
+    },
+    "QuezWatkins":{
+       "AnyTime Touchdown Scorer":0.2127659574468085,
+       "ToScore 2+ Touchdowns":0.022222222222222223
+    },
+    "OlamideZaccheaus":{
+       "AnyTime Touchdown Scorer":0.2,
+       "ToScore 2+ Touchdowns":0.01639344262295082
+    },
+    "BostonScott":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.014084507042253521
+    },
+    "CordarrellePatterson":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.014084507042253521
+    },
+    "AtlantaD/ST":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.014084507042253521
+    },
+    "PhiladelphiaD/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KennethGainwell":{
+       "AnyTime Touchdown Scorer":0.15384615384615385
+    },
+    "GregWard":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MattRyan":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing TDs":1.735363125443335,
+       "PlayerPassing Yds":306.1079812206573
+    },
+    "ChristianBlake":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "TajaeSharpe":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JJArcega-Whiteside":{
+       "AnyTime Touchdown Scorer":0.05555555555555555
+    },
+    "LeeSmith":{
+       "AnyTime Touchdown Scorer":0.05263157894736842
+    },
+    "StefonDiggs":{
+       "AnyTime Touchdown Scorer":0.5238095238095238,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerReceiving Yds":93.90140845070422
+    },
+    "JoshAllen":{
+       "AnyTime Touchdown Scorer":0.4878048780487805,
+       "ToScore 2+ Touchdowns":0.125,
+       "PlayerRushing Yds":30.23943661971831,
+       "PlayerPassing TDs":2.5278700627537836,
+       "PlayerPassing Yds":300.80281690140845
+    },
+    "NajeeHarris":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.11764705882352941,
+       "PlayerReceiving Yds":23.87323943661972,
+       "PlayerRushing Yds":64.1924882629108
+    },
+    "ZackMoss":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.09090909090909091,
+       "PlayerRushing Yds":30.23943661971831
+    },
+    "ChaseClaypool":{
+       "AnyTime Touchdown Scorer":0.3448275862068966,
+       "ToScore 2+ Touchdowns":0.0625,
+       "PlayerReceiving Yds":53.582159624413144
+    },
+    "JuJuSmith-Schuster":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.047619047619047616,
+       "PlayerReceiving Yds":55.70422535211267
+    },
+    "ColeBeasley":{
+       "AnyTime Touchdown Scorer":0.3125,
+       "ToScore 2+ Touchdowns":0.043478260869565216,
+       "PlayerReceiving Yds":53.582159624413144
+    },
+    "DevinSingletary":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerReceiving Yds":12.238095238095237,
+       "PlayerRushing Yds":34.483568075117375
+    },
+    "DiontaeJohnson":{
+       "AnyTime Touchdown Scorer":0.29411764705882354,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerReceiving Yds":62.070422535211264
+    },
+    "DawsonKnox":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.02857142857142857
+    },
+    "GabrielDavis":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.03125
+    },
+    "EricEbron":{
+       "AnyTime Touchdown Scorer":0.2127659574468085,
+       "ToScore 2+ Touchdowns":0.020833333333333332
+    },
+    "EmmanuelSanders":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.0196078431372549
+    },
+    "BuffaloD/ST":{
+       "AnyTime Touchdown Scorer":0.19607843137254902,
+       "ToScore 2+ Touchdowns":0.01639344262295082
+    },
+    "PatFreiermuth":{
+       "AnyTime Touchdown Scorer":0.19230769230769232,
+       "ToScore 2+ Touchdowns":0.034482758620689655
+    },
+    "BennySnell Jr":{
+       "AnyTime Touchdown Scorer":0.1724137931034483,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "PittsburghD/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.010416666666666666
+    },
+    "TommySweeney":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JamesWashington":{
+       "AnyTime Touchdown Scorer":0.125,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MattBreida":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "IsaiahMcKenzie":{
+       "AnyTime Touchdown Scorer":0.10526315789473684,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JakeKumerow":{
+       "AnyTime Touchdown Scorer":0.10526315789473684,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KalenBallage":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "Ray-RayMcCloud III":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "BenRoethlisberger":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing TDs":1.6870916718244964,
+       "PlayerPassing Yds":281.70422535211264
+    },
+    "ReggieGilliam":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "ZachGentry":{
+       "AnyTime Touchdown Scorer":0.041666666666666664
+    },
+    "DerekWatt":{
+       "AnyTime Touchdown Scorer":0.04
+    },
+    "ChristianMcCaffrey":{
+       "AnyTime Touchdown Scorer":0.7222222222222222,
+       "ToScore 2+ Touchdowns":0.2702702702702703,
+       "PlayerReceiving Yds":47.21596244131456,
+       "PlayerRushing Yds":75.86384976525821
+    },
+    "RobbyAnderson":{
+       "AnyTime Touchdown Scorer":0.38461538461538464,
+       "ToScore 2+ Touchdowns":0.07692307692307693,
+       "PlayerReceiving Yds":53.582159624413144
+    },
+    "DJMoore":{
+       "AnyTime Touchdown Scorer":0.38461538461538464,
+       "ToScore 2+ Touchdowns":0.07692307692307693,
+       "PlayerReceiving Yds":61.009389671361504
+    },
+    "CoreyDavis":{
+       "AnyTime Touchdown Scorer":0.36363636363636365,
+       "ToScore 2+ Touchdowns":0.06666666666666667,
+       "PlayerReceiving Yds":59.948356807511736
+    },
+    "TevinColeman":{
+       "AnyTime Touchdown Scorer":0.3333333333333333,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerRushing Yds":32.36150234741784
+    },
+    "MichaelCarter":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.045454545454545456,
+       "PlayerRushing Yds":19.629107981220656
+    },
+    "KeelanCole":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.041666666666666664
+    },
+    "TerraceMarshall":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.045454545454545456,
+       "PlayerReceiving Yds":40.84976525821597
+    },
+    "ElijahMoore":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerReceiving Yds":49.33802816901408
+    },
+    "TylerKroft":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.025
+    },
+    "DenzelMims":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.020833333333333332
+    },
+    "ZachWilson":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.014084507042253521,
+       "PlayerRushing Yds":20.690140845070424,
+       "PlayerPassing TDs":1.4795360767257724,
+       "PlayerPassing Yds":245.62910798122067
+    },
+    "DanArnold":{
+       "AnyTime Touchdown Scorer":0.2,
+       "ToScore 2+ Touchdowns":0.0196078431372549
+    },
+    "SamDarnold":{
+       "AnyTime Touchdown Scorer":0.17857142857142858,
+       "ToScore 2+ Touchdowns":0.015151515151515152,
+       "PlayerRushing Yds":9.018779342723004,
+       "PlayerPassing TDs":1.5981308411214952,
+       "PlayerPassing Yds":265.7887323943662
+    },
+    "TyJohnson":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "CarolinaD/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "ChubaHubbard":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "BraxtonBerrios":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "BrandonZylstra":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "NewYork Jets D/ST":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "RoyceFreeman":{
+       "AnyTime Touchdown Scorer":0.1,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JeffSmith":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "ColinThompson":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "TommyTremble":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "RyanGriffin":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "IanThomas":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DanielBrown":{
+       "AnyTime Touchdown Scorer":0.0625,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "TrevonWesco":{
+       "AnyTime Touchdown Scorer":0.05555555555555555,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DarrellHenderson":{
+       "AnyTime Touchdown Scorer":0.5555555555555556,
+       "ToScore 2+ Touchdowns":0.16666666666666666,
+       "PlayerRushing Yds":57
+    },
+    "RobertWoods":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.10526315789473684,
+       "PlayerReceiving Yds":66.58878504672896
+    },
+    "DavidMontgomery":{
+       "AnyTime Touchdown Scorer":0.4444444444444444,
+       "ToScore 2+ Touchdowns":0.1,
+       "PlayerRushing Yds":59.13084112149532
+    },
+    "CooperKupp":{
+       "AnyTime Touchdown Scorer":0.40816326530612246,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":67.65420560747663
+    },
+    "AllenRobinson":{
+       "AnyTime Touchdown Scorer":0.37735849056603776,
+       "ToScore 2+ Touchdowns":0.07142857142857142,
+       "PlayerReceiving Yds":69.78504672897196
+    },
+    "TylerHigbee":{
+       "AnyTime Touchdown Scorer":0.37037037037037035,
+       "ToScore 2+ Touchdowns":0.06666666666666667
+    },
+    "SonyMichel":{
+       "AnyTime Touchdown Scorer":0.35714285714285715,
+       "ToScore 2+ Touchdowns":0.07142857142857142
+    },
+    "DeSeanJackson":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.047619047619047616
+    },
+    "ColeKmet":{
+       "AnyTime Touchdown Scorer":0.23809523809523808,
+       "ToScore 2+ Touchdowns":0.02702702702702703
+    },
+    "DamienWilliams":{
+       "AnyTime Touchdown Scorer":0.2127659574468085,
+       "ToScore 2+ Touchdowns":0.0196078431372549
+    },
+    "DarnellMooney":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.017857142857142856,
+       "PlayerReceiving Yds":48.47663551401868
+    },
+    "JimmyGraham":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.017857142857142856
+    },
+    "LosAngeles Rams D/ST":{
+       "AnyTime Touchdown Scorer":0.19230769230769232,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "VanJefferson":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MarquiseGoodwin":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "ChicagoD/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MatthewStafford":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":288.19626168224295,
+       "PlayerPassing TDs": 1.7171717171
+    },
+    "JakeFunk":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "TutuAtwell":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "AndyDalton":{
+       "AnyTime Touchdown Scorer":0.1,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":227.46728971962614,
+       "PlayerPassing TDs": 1.423976608
+    },
+    "KhalilHerbert":{
+       "AnyTime Touchdown Scorer":0.09523809523809523,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "BreshadPerriman":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "NsimbaWebster":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JacobHarris":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DamiereByrd":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JohnnyMundt":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JesseJames":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "BrycenHopkins":{
+       "AnyTime Touchdown Scorer":0.06666666666666667
+    },
+    "DalvinCook":{
+       "AnyTime Touchdown Scorer":0.7058823529411765,
+       "ToScore 2+ Touchdowns":0.25,
+       "PlayerRushing Yds":102.38967136150235
+    },
+    "JoeMixon":{
+       "AnyTime Touchdown Scorer":0.5833333333333334,
+       "ToScore 2+ Touchdowns":0.16666666666666666,
+       "PlayerReceiving Yds":23.83495145631068,
+       "PlayerRushing Yds":69.55263157894737
+    },
+    "JustinJefferson":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.11764705882352941
+    },
+    "AdamThielen":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.10526315789473684,
+       "PlayerReceiving Yds":62.02647837599294
+    },
+    "TeeHiggins":{
+       "AnyTime Touchdown Scorer":0.37735849056603776,
+       "ToScore 2+ Touchdowns":0.07692307692307693,
+       "PlayerReceiving Yds":63.0864960282436
+    },
+    "Ja'MarrChase":{
+       "AnyTime Touchdown Scorer":0.3333333333333333,
+       "ToScore 2+ Touchdowns":0.05555555555555555,
+       "PlayerReceiving Yds":52.48631950573698
+    },
+    "TylerBoyd":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.05263157894736842,
+       "PlayerReceiving Yds":53.582159624413144
+    },
+    "AlexanderMattison":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.022727272727272728
+    },
+    "JoeBurrow":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.020833333333333332,
+       "PlayerRushing Yds":7.991228070175438,
+       "PlayerPassing TDs":1.6353852776582005,
+       "PlayerPassing Yds":280.6431924882629
+    },
+    "ChrisHerndon":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.02040816326530612
+    },
+    "C.J.Uzomah":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.012345679012345678,
+       "PlayerReceiving Yds":23.87323943661972
+    },
+    "TylerConklin":{
+       "AnyTime Touchdown Scorer":0.1724137931034483,
+       "ToScore 2+ Touchdowns":0.010416666666666666,
+       "PlayerReceiving Yds":25.995305164319248
+    },
+    "SamajePerine":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MinnesotaD/ST":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "CincinnatiD/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.010416666666666666
+    },
+    "DrewSample":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "AudenTate":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KirkCousins":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerRushing Yds":7.928492849284929,
+       "PlayerPassing TDs":1.6835217978806627,
+       "PlayerPassing Yds":272.1549295774648
+    },
+    "KJOsborn":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DedeWestbrook":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "IhmirSmith-Marsette":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "CJHam":{
+       "AnyTime Touchdown Scorer":0.06666666666666667
+    },
+    "BrandonDillon":{
+       "AnyTime Touchdown Scorer":0.05,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "StanleyMorgan":{
+       "AnyTime Touchdown Scorer":0.05,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MitchellWilcox":{
+       "AnyTime Touchdown Scorer":0.05,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "ChrisEvans":{
+       "AnyTime Touchdown Scorer":0.05,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "TyreekHill":{
+       "AnyTime Touchdown Scorer":0.6666666666666666,
+       "ToScore 2+ Touchdowns":0.2127659574468085,
+       "PlayerReceiving Yds":88.9626168224299
+    },
+    "TravisKelce":{
+       "AnyTime Touchdown Scorer":0.6491228070175439,
+       "ToScore 2+ Touchdowns":0.20833333333333334,
+       "PlayerReceiving Yds":93.22429906542055
+    },
+    "NickChubb":{
+       "AnyTime Touchdown Scorer":0.6226415094339622,
+       "ToScore 2+ Touchdowns":0.18867924528301888,
+       "PlayerReceiving Yds":13.317757009345794,
+       "PlayerRushing Yds":76.17757009345794
+    },
+    "ClydeEdwards-Helaire":{
+       "AnyTime Touchdown Scorer":0.5348837209302325,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerRushing Yds":51.67289719626167
+    },
+    "KareemHunt":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.1,
+       "PlayerReceiving Yds":17.57943925233645,
+       "PlayerRushing Yds":35.691588785046726
+    },
+    "OdellBeckham Jr.":{
+       "AnyTime Touchdown Scorer":0.4166666666666667,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":56.095807345807344
+    },
+    "RashardHiggins":{
+       "AnyTime Touchdown Scorer":0.38461538461538464,
+       "ToScore 2+ Touchdowns":0.07142857142857142
+    },
+    "JarvisLandry":{
+       "AnyTime Touchdown Scorer":0.38461538461538464,
+       "ToScore 2+ Touchdowns":0.07142857142857142,
+       "PlayerReceiving Yds":61.261682242990645
+    },
+    "MecoleHardman":{
+       "AnyTime Touchdown Scorer":0.3389830508474576,
+       "ToScore 2+ Touchdowns":0.0625
+    },
+    "DarrelWilliams":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.047619047619047616
+    },
+    "AustinHooper":{
+       "AnyTime Touchdown Scorer":0.29411764705882354,
+       "ToScore 2+ Touchdowns":0.043478260869565216
+    },
+    "PatrickMahomes":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.03333333333333333,
+       "PlayerRushing Yds":14.413374913374914,
+       "PlayerPassing Yds":332.9439252336448,
+       "PlayerPassing TDs": 2.666666667
+    },
+    "ByronPringle":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.02702702702702703
+    },
+    "DemarcusRobinson":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.02702702702702703
+    },
+    "KansasCity D/ST":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.024390243902439025
+    },
+    "ClevelandD/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.017857142857142856
+    },
+    "BakerMayfield":{
+       "AnyTime Touchdown Scorer":0.1724137931034483,
+       "ToScore 2+ Touchdowns":0.013157894736842105,
+       "PlayerRushing Yds":8.031011781011781,
+       "PlayerPassing Yds":274.3457943925233,
+       "PlayerPassing TDs": 1.645994832
+    },
+    "JerickMcKinnon":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "HarrisonBryant":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "DavidNjoku":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "DonovanPeoples-Jones":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerReceiving Yds":27.168224299065418
+    },
+    "NoahGray":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "BlakeBell":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MarcusKemp":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "AndyJanovich":{
+       "AnyTime Touchdown Scorer":0.047619047619047616
+    },
+    "D'ErnestJohnson":{
+       "AnyTime Touchdown Scorer":0.03571428571428571
+    },
+    "SaquonBarkley":{
+       "AnyTime Touchdown Scorer":0.5238095238095238,
+       "ToScore 2+ Touchdowns":0.13333333333333333,
+       "PlayerRushing Yds":59.13084112149532
+    },
+    "MelvinGordon":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.09090909090909091,
+       "PlayerRushing Yds":51.67289719626167
+    },
+    "JavonteWilliams":{
+       "AnyTime Touchdown Scorer":0.37037037037037035,
+       "ToScore 2+ Touchdowns":0.07142857142857142,
+       "PlayerRushing Yds":42.0841121495327
+    },
+    "CourtlandSutton":{
+       "AnyTime Touchdown Scorer":0.3389830508474576,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerReceiving Yds":51.67289719626167
+    },
+    "KennyGolladay":{
+       "AnyTime Touchdown Scorer":0.3125,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":43.14953271028037
+    },
+    "JerryJeudy":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.043478260869565216,
+       "PlayerReceiving Yds":53.80373831775701
+    },
+    "SterlingShepard":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.04,
+       "PlayerReceiving Yds":55.93457943925233
+    },
+    "NoahFant":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.03225806451612903,
+       "PlayerReceiving Yds":42.0841121495327
+    },
+    "KyleRudolph":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.03125
+    },
+    "GaryBrightwell":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.023809523809523808
+    },
+    "DevontaeBooker":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.023809523809523808
+    },
+    "DariusSlayton":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.02631578947368421,
+       "PlayerReceiving Yds":39.95327102803738
+    },
+    "DanielJones":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.0196078431372549,
+       "PlayerRushing Yds":20.775700934579437,
+       "PlayerPassing TDs":1.4731182795698925,
+       "PlayerPassing Yds":232.79439252336448
+    },
+    "TeddyBridgewater":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.012345679012345678,
+       "PlayerRushing Yds":13.317757009345794,
+       "PlayerPassing TDs":1.5981308411214952,
+       "PlayerPassing Yds":263.69158878504675
+    },
+    "KJHamler":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.014084507042253521
+    },
+    "TimPatrick":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "DenverD/ST":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "AlbertOkwuegbunam":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.010416666666666666
+    },
+    "NYGiants D/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KadariusToney":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KadenSmith":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DiontaeSpencer":{
+       "AnyTime Touchdown Scorer":0.0625,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "EricSaubert":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "AndrewBeck":{
+       "AnyTime Touchdown Scorer":0.041666666666666664,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "RaheemMostert":{
+       "AnyTime Touchdown Scorer":0.5833333333333334,
+       "ToScore 2+ Touchdowns":0.16666666666666666,
+       "PlayerRushing Yds":69.49765258215962
+    },
+    "GeorgeKittle":{
+       "AnyTime Touchdown Scorer":0.425531914893617,
+       "ToScore 2+ Touchdowns":0.09090909090909091,
+       "PlayerReceiving Yds":67.3755868544601
+    },
+    "D'AndreSwift":{
+       "AnyTime Touchdown Scorer":0.4166666666666667,
+       "ToScore 2+ Touchdowns":0.09090909090909091,
+       "PlayerReceiving Yds":21.751173708920188,
+       "PlayerRushing Yds":46.154929577464785
+    },
+    "BrandonAiyuk":{
+       "AnyTime Touchdown Scorer":0.4166666666666667,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":51.460093896713616
+    },
+    "TreySermon":{
+       "AnyTime Touchdown Scorer":0.4,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerRushing Yds":44.03286384976526
+    },
+    "DeeboSamuel":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerReceiving Yds":49.33802816901408
+    },
+    "TreyLance":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705
+    },
+    "T.J.Hockenson":{
+       "AnyTime Touchdown Scorer":0.29411764705882354,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerReceiving Yds":46.154929577464785
+    },
+    "JamaalWilliams":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.04
+    },
+    "TyrellWilliams":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.03125,
+       "PlayerReceiving Yds":49.33802816901408
+    },
+    "MohamedSanu":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.030303030303030304
+    },
+    "SanFrancisco D/ST":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.017857142857142856
+    },
+    "KyleJuszczyk":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "Amon-RaSt. Brown":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.013157894736842105,
+       "PlayerReceiving Yds":39.78873239436619
+    },
+    "JimmyGaroppolo":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":238.20187793427232,
+       "PlayerPassing TDs": 1.676190476
+    },
+    "KalifRaymond":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JaredGoff":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":237.14084507042253,
+       "PlayerPassing TDs": 1.4666667
+    },
+    "DarrenFells":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "QuintezCephus":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DetroitD/ST":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "RossDwelley":{
+       "AnyTime Touchdown Scorer":0.125,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JamycalHasty":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JermarJefferson":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "CharlieWoerner":{
+       "AnyTime Touchdown Scorer":0.08333333333333333
+    },
+    "ElijahMitchell":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KhaDarelHodge":{
+       "AnyTime Touchdown Scorer":0.058823529411764705,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JasonCabinda":{
+       "AnyTime Touchdown Scorer":0.03225806451612903
+    },
+    "AlvinKamara":{
+       "AnyTime Touchdown Scorer":0.6491228070175439,
+       "ToScore 2+ Touchdowns":0.21739130434782608,
+       "PlayerReceiving Yds":49.54205607476635,
+       "PlayerRushing Yds":61.261682242990645
+    },
+    "DavanteAdams":{
+       "AnyTime Touchdown Scorer":0.6078431372549019,
+       "ToScore 2+ Touchdowns":0.17857142857142858,
+       "PlayerReceiving Yds":93.22429906542055
+    },
+    "AaronJones":{
+       "AnyTime Touchdown Scorer":0.6,
+       "ToScore 2+ Touchdowns":0.18518518518518517,
+       "PlayerReceiving Yds":21.8411214953271,
+       "PlayerRushing Yds":68.7196261682243
+    },
+    "RobertTonyan Jr":{
+       "AnyTime Touchdown Scorer":0.36363636363636365,
+       "ToScore 2+ Touchdowns":0.0625,
+       "PlayerReceiving Yds":31.429906542056074
+    },
+    "MarquezCallaway":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.0625
+    },
+    "AJDillon":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.043478260869565216
+    },
+    "DeonteHarris":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.05
+    },
+    "LataviusMurray":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.047619047619047616
+    },
+    "TaysomHill":{
+       
+    },
+    "AllenLazard":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.029411764705882353
+    },
+    "RandallCobb":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.034482758620689655
+    },
+    "TonyJones Jr.":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.024390243902439025
+    },
+    "Lil'JordanHumphrey":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.017857142857142856
+    },
+    "MarquezValdes-Scantling":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.013157894736842105
+    },
+    "GreenBay D/ST":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "AaronRodgers":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":297.7850467289719,
+       "PlayerPassing TDs": 2.560344828
+    },
+    "AdamTrautman":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.014084507042253521
+    },
+    "NewOrleans D/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JuwanJohnson":{
+       "AnyTime Touchdown Scorer":0.14285714285714285
+    },
+    "JameisWinston":{
+       "AnyTime Touchdown Scorer":0.09523809523809523,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":276.47663551401865,
+       "PlayerPassing TDs": 1.625
+    },
+    "AmariRodgers":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MarcedesLewis":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DominiqueDafney":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KylinHill":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JosiahDeguara":{
+       "AnyTime Touchdown Scorer":0.07142857142857142
+    },
+    "DwayneWashington":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "TyMontgomery":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "ChrisHogan":{
+       "AnyTime Touchdown Scorer":0.0625,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "Tre'QuanSmith":{
+       "AnyTime Touchdown Scorer":0.045454545454545456,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "GarrettGriffin":{
+       
+    },
+    "JamesRobinson":{
+       "AnyTime Touchdown Scorer":0.5238095238095238,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerReceiving Yds":20.654898499558694,
+       "PlayerRushing Yds":72.68075117370893
+    },
+    "MarvinJones":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.09523809523809523,
+       "PlayerReceiving Yds":59.87555163283318
+    },
+    "LaviskaShenault Jr.":{
+       "AnyTime Touchdown Scorer":0.4,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":51.42630185348632
+    },
+    "DJChark":{
+       "AnyTime Touchdown Scorer":0.39215686274509803,
+       "ToScore 2+ Touchdowns":0.07692307692307693,
+       "PlayerReceiving Yds":50.33539276257723
+    },
+    "BrandinCooks":{
+       "AnyTime Touchdown Scorer":0.3448275862068966,
+       "ToScore 2+ Touchdowns":0.0625,
+       "PlayerReceiving Yds":59.948356807511736
+    },
+    "PhillipLindsay":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":4.7469746974697475,
+       "PlayerRushing Yds":41.91079812206573
+    },
+    "TyrodTaylor":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.045454545454545456,
+       "PlayerRushing Yds":20.690140845070424,
+       "PlayerPassing TDs":1.4235055724417427,
+       "PlayerPassing Yds":221.22535211267603
+    },
+    "TrevorLawrence":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerRushing Yds":19.59488084730803,
+       "PlayerPassing TDs":1.588011088011088,
+       "PlayerPassing Yds":262.6056338028169
+    },
+    "MarkIngram":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.03571428571428571
+    },
+    "NicoCollins":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.02857142857142857
+    },
+    "ChrisConley":{
+       "AnyTime Touchdown Scorer":0.23809523809523808,
+       "ToScore 2+ Touchdowns":0.02564102564102564
+    },
+    "DavidJohnson":{
+       "AnyTime Touchdown Scorer":0.23809523809523808,
+       "ToScore 2+ Touchdowns":0.023255813953488372
+    },
+    "CarlosHyde":{
+       "AnyTime Touchdown Scorer":0.23255813953488372,
+       "ToScore 2+ Touchdowns":0.022727272727272728
+    },
+    "JordanAkins":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.022727272727272728,
+       "PlayerReceiving Yds":17.505736981465134
+    },
+    "JacksonvilleD/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "JamesO'Shaughnessy":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.01098901098901099
+    },
+    "HoustonD/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DannyAmendola":{
+       "AnyTime Touchdown Scorer":0.125,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "PharaohBrown":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "TyronJohnson":{
+       "AnyTime Touchdown Scorer":0.09523809523809523,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "ChrisManhertz":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JacobHollister":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JamalAgnew":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DareOgunbowale":{
+       "AnyTime Touchdown Scorer":0.07692307692307693
+    },
+    "AndreRoberts":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JonathanTaylor":{
+       "AnyTime Touchdown Scorer":0.5348837209302325,
+       "ToScore 2+ Touchdowns":0.15384615384615385,
+       "PlayerReceiving Yds":12.2018779342723,
+       "PlayerRushing Yds":76.92488262910798
+    },
+    "DKMetcalf":{
+       "AnyTime Touchdown Scorer":0.5,
+       "ToScore 2+ Touchdowns":0.125,
+       "PlayerReceiving Yds":81.16901408450704
+    },
+    "ChrisCarson":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.1111111111111111,
+       "PlayerReceiving Yds":16.44600938967136,
+       "PlayerRushing Yds":59.948356807511736
+    },
+    "TylerLockett":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.1111111111111111,
+       "PlayerReceiving Yds":71.61971830985915
+    },
+    "MichaelPittman Jr.":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705
+    },
+    "NyheimHines":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.037037037037037035,
+       "PlayerReceiving Yds":25.995305164319248,
+       "PlayerRushing Yds":18.568075117370892
+    },
+    "RashaadPenny":{
+       "AnyTime Touchdown Scorer":0.2777777777777778,
+       "ToScore 2+ Touchdowns":0.041666666666666664
+    },
+    "AlexCollins":{
+       "AnyTime Touchdown Scorer":0.2777777777777778,
+       "ToScore 2+ Touchdowns":0.041666666666666664
+    },
+    "JackDoyle":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.03125
+    },
+    "ZachPascal":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.03225806451612903
+    },
+    "GeraldEverett":{
+       "AnyTime Touchdown Scorer":0.23809523809523808,
+       "ToScore 2+ Touchdowns":0.030303030303030304,
+       "PlayerReceiving Yds":25.995305164319248
+    },
+    "MarlonMack":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.023809523809523808
+    },
+    "ParrisCampbell":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.022727272727272728
+    },
+    "D'WayneEskridge":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.024390243902439025
+    },
+    "RussellWilson":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.02040816326530612,
+       "PlayerRushing Yds":25.995305164319248,
+       "PlayerPassing TDs":1.735363125443335,
+       "PlayerPassing Yds":285.94835680751174
+    },
+    "MoAlie-Cox":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.013157894736842105
+    },
+    "CarsonWentz":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.013157894736842105,
+       "PlayerRushing Yds":13.23477493380406,
+       "PlayerPassing TDs":1.4795360767257724,
+       "PlayerPassing Yds":257.30046948356807
+    },
+    "SeattleD/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "IndianapolisD/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.013157894736842105
+    },
+    "FreddieSwain":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.011627906976744186
+    },
+    "WillDissly":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.013157894736842105,
+       "PlayerReceiving Yds":16.44600938967136
+    },
+    "TravisHomer":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KylenGranson":{
+       "AnyTime Touchdown Scorer":0.09523809523809523,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MikeStrachan":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JordanWilkins":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "TylerMabry":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "PennyHart":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "NickBellore":{
+       "AnyTime Touchdown Scorer":0.05263157894736842
+    },
+    "CurtisSamuel":{
+       "AnyTime Touchdown Scorer":0.5652173913043478
+    },
+    "AntonioGibson":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.15384615384615385,
+       "PlayerReceiving Yds":16.44600938967136,
+       "PlayerRushing Yds":64.1924882629108
+    },
+    "JustinJackson":{
+       "ToScore 2+ Touchdowns":0.1111111111111111
+    },
+    "AustinEkeler":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.1111111111111111,
+       "PlayerReceiving Yds":35.544600938967136,
+       "PlayerRushing Yds":52.52112676056338
+    },
+    "KeenanAllen":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.09523809523809523,
+       "PlayerReceiving Yds":57.82629107981221
+    },
+    "TerryMcLaurin":{
+       "AnyTime Touchdown Scorer":0.4,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":73.74178403755869
+    },
+    "LoganThomas":{
+       "AnyTime Touchdown Scorer":0.3333333333333333,
+       "ToScore 2+ Touchdowns":0.05263157894736842,
+       "PlayerReceiving Yds":45.093896713615024
+    },
+    "MikeWilliams":{
+       "AnyTime Touchdown Scorer":0.3125,
+       "ToScore 2+ Touchdowns":0.045454545454545456,
+       "PlayerReceiving Yds":39.78873239436619
+    },
+    "JaredCook":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.04,
+       "PlayerReceiving Yds":34.483568075117375
+    },
+    "AdamHumphries":{
+       "AnyTime Touchdown Scorer":0.2702702702702703,
+       "ToScore 2+ Touchdowns":0.03571428571428571
+    },
+    "J.D.McKissic":{
+       "AnyTime Touchdown Scorer":0.2631578947368421,
+       "ToScore 2+ Touchdowns":0.034482758620689655
+    },
+    "JoshuaKelley":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.021739130434782608
+    },
+    "JustinHerbert":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.023809523809523808,
+       "PlayerPassing Yds":273.21596244131456,
+       "PlayerPassing TDs": 1.666666667
+    },
+    "RyanFitzpatrick":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.02,
+       "PlayerPassing Yds":279.5821596244132,
+       "PlayerPassing TDs": 1.6253229
+    },
+    "DyamiBrown":{
+       "AnyTime Touchdown Scorer":0.19230769230769232,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "JalenGuyton":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.0196078431372549
+    },
+    "JoshPalmer":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.0196078431372549
+    },
+    "WashingtonD/ST":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "LAChargers D/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "StephenAnderson":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.01098901098901099
+    },
+    "DonaldParham":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "CamSims":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JohnBates":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "RickySeals Jones":{
+       "AnyTime Touchdown Scorer":0.05263157894736842
+    },
+    "KJHill":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "SammisReyes":{
+       "AnyTime Touchdown Scorer":0.05263157894736842
+    },
+    "JaretPatterson":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DamienHarris":{
+       "AnyTime Touchdown Scorer":0.5,
+       "ToScore 2+ Touchdowns":0.11764705882352941,
+       "PlayerRushing Yds":74.04672897196261
+    },
+    "JakobiMeyers":{
+       "AnyTime Touchdown Scorer":0.37735849056603776,
+       "ToScore 2+ Touchdowns":0.06666666666666667,
+       "PlayerReceiving Yds":52.73831775700934
+    },
+    "MylesGaskin":{
+       "AnyTime Touchdown Scorer":0.37037037037037035,
+       "ToScore 2+ Touchdowns":0.06666666666666667,
+       "PlayerReceiving Yds":19.828239345673694,
+       "PlayerRushing Yds":47.41121495327103
+    },
+    "HunterHenry":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerReceiving Yds":29.299065420560744
+    },
+    "NelsonAgholor":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705
+    },
+    "MikeGesicki":{
+       "AnyTime Touchdown Scorer":0.3389830508474576,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerReceiving Yds":42.0841121495327
+    },
+    "DeVanteParker":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":51.67289719626167
+    },
+    "JonnuSmith":{
+       "AnyTime Touchdown Scorer":0.3125,
+       "ToScore 2+ Touchdowns":0.05263157894736842,
+       "PlayerReceiving Yds":30.36448598130841
+    },
+    "JaylenWaddle":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.030303030303030304
+    },
+    "JamesWhite":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.02857142857142857
+    },
+    "KendrickBourne":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.02857142857142857
+    },
+    "TuaTagovailoa":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.017857142857142856,
+       "PlayerRushing Yds":14.41713301764959,
+       "PlayerPassing TDs":1.5377540424269396,
+       "PlayerPassing Yds":243.4485981308411
+    },
+    "MalcolmBrown":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.01639344262295082
+    },
+    "RhamondreStevenson":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.0196078431372549
+    },
+    "J.J.Taylor":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.0196078431372549
+    },
+    "NewEngland D/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.013157894736842105
+    },
+    "MiamiD/ST":{
+       "AnyTime Touchdown Scorer":0.1724137931034483,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "MacJones":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing TDs":1.4975579975579976,
+       "PlayerPassing Yds":238.1214953271028
+    },
+    "GunnerOlszewski":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JakeemGrant":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "AlbertWilson":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DurhamSmythe":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "PrestonWiliams":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MackHollins":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "SalvonAhmed":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "HunterLong":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DevinAsiasi":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "BrandonBolden":{
+       "AnyTime Touchdown Scorer":0.06666666666666667
+    },
+    "JakobJohnson":{
+       "AnyTime Touchdown Scorer":0.05555555555555555
+    }
+ }

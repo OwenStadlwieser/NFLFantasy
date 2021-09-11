@@ -1,0 +1,2299 @@
+{
+    "DerrickHenry":{
+       "AnyTime Touchdown Scorer":0.7222222222222222,
+       "ToScore 2+ Touchdowns":0.2631578947368421,
+       "PlayerReceiving Yds":9.018779342723004,
+       "PlayerRushing Yds":111.93896713615024,
+       "position":"RB",
+       "salary":8900
+    },
+    "AJBrown":{
+       "AnyTime Touchdown Scorer":0.5348837209302325,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "position":"WR",
+       "salary":7800
+    },
+    "DeAndreHopkins":{
+       "AnyTime Touchdown Scorer":0.5238095238095238,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerReceiving Yds":89.65727699530517,
+       "position":"WR",
+       "salary":8200
+    },
+    "ChaseEdmonds":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.10526315789473684,
+       "PlayerReceiving Yds":23.87323943661972,
+       "PlayerRushing Yds":39.78873239436619,
+       "position":"RB",
+       "salary":5900
+    },
+    "KylerMurray":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.10526315789473684,
+       "PlayerRushing Yds":45.093896713615024,
+       "PlayerPassing TDs":1.6652465003043213,
+       "PlayerPassing Yds":277.4600938967136,
+       "position":"QB",
+       "salary":7600
+    },
+    "JulioJones":{
+       "AnyTime Touchdown Scorer":0.45454545454545453,
+       "ToScore 2+ Touchdowns":0.1,
+       "position":"WR",
+       "salary":7000
+    },
+    "RyanTannehill":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.043478260869565216,
+       "PlayerRushing Yds":18.533553355335535,
+       "PlayerPassing TDs":1.6652465003043213,
+       "PlayerPassing Yds":267.9107981220657,
+       "position":"QB",
+       "salary":6500
+    },
+    "JamesConner":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.037037037037037035,
+       "PlayerReceiving Yds":12.2018779342723,
+       "PlayerRushing Yds":29.178403755868544,
+       "position":"RB",
+       "salary":5500
+    },
+    "AJGreen":{
+       "AnyTime Touchdown Scorer":0.2777777777777778,
+       "ToScore 2+ Touchdowns":0.037037037037037035,
+       "PlayerReceiving Yds":38.72769953051643,
+       "position":"WR",
+       "salary":5400
+    },
+    "RondaleMoore":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.03125,
+       "PlayerReceiving Yds":34.483568075117375,
+       "position":"WR",
+       "salary":4900
+    },
+    "ChristianKirk":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.029411764705882353,
+       "PlayerReceiving Yds":30.23943661971831,
+       "position":"WR",
+       "salary":5200
+    },
+    "JoshReynolds":{
+       "AnyTime Touchdown Scorer":0.23255813953488372,
+       "ToScore 2+ Touchdowns":0.02702702702702703,
+       "position":"WR",
+       "salary":4900
+    },
+    "AnthonyFirkser":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.020833333333333332,
+       "position":"TE",
+       "salary":4700
+    },
+    "ArizonaD/ST":{
+       "AnyTime Touchdown Scorer":0.17857142857142858,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "CameronBatson":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.011627906976744186,
+       "position":"WR",
+       "salary":4700
+    },
+    "MaxxWilliams":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.010416666666666666,
+       "position":"TE",
+       "salary":4300
+    },
+    "TennesseeD/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.01098901098901099
+    },
+    "JeremyMcNichols":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4500
+    },
+    "AndyIsabella":{
+       "AnyTime Touchdown Scorer":0.125,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "GeoffSwaim":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4200
+    },
+    "DarrellDaniels":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4200
+    },
+    "ChesterRogers":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "NickWestbrook - Ikhine":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KhariBlasingame":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "position":"RB",
+       "salary":4500
+    },
+    "MekhiSargent":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "position":"RB",
+       "salary":4500
+    },
+    "TommyHudson":{
+       "AnyTime Touchdown Scorer":0.0625,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "DemetriusHarris":{
+       "AnyTime Touchdown Scorer":0.058823529411764705,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "JonathanWard":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4500
+    },
+    "CalvinRidley":{
+       "AnyTime Touchdown Scorer":0.5348837209302325,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerReceiving Yds":92.84037558685446,
+       "position":"WR",
+       "salary":8100
+    },
+    "MikeDavis":{
+       "AnyTime Touchdown Scorer":0.5,
+       "ToScore 2+ Touchdowns":0.13333333333333333,
+       "PlayerReceiving Yds":17.474845542806705,
+       "PlayerRushing Yds":47.21596244131456,
+       "position":"RB",
+       "salary":6200
+    },
+    "MilesSanders":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.1111111111111111,
+       "PlayerReceiving Yds":14.323943661971832,
+       "PlayerRushing Yds":69.49765258215962,
+       "position":"RB",
+       "salary":6600
+    },
+    "KylePitts":{
+       "AnyTime Touchdown Scorer":0.36363636363636365,
+       "ToScore 2+ Touchdowns":0.07142857142857142,
+       "position":"TE",
+       "salary":6000
+    },
+    "JalenHurts":{
+       "AnyTime Touchdown Scorer":0.35714285714285715,
+       "ToScore 2+ Touchdowns":0.06666666666666667,
+       "PlayerRushing Yds":52.52112676056338,
+       "PlayerPassing TDs":1.4795360767257724,
+       "PlayerPassing Yds":255.17840375586854,
+       "position":"QB",
+       "salary":6400
+    },
+    "RussellGage":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":53.582159624413144,
+       "position":"WR",
+       "salary":5700
+    },
+    "DeVontaSmith":{
+       "AnyTime Touchdown Scorer":0.29411764705882354,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":46.154929577464785,
+       "position":"WR",
+       "salary":5300
+    },
+    "DallasGoedert":{
+       "AnyTime Touchdown Scorer":0.2777777777777778,
+       "ToScore 2+ Touchdowns":0.034482758620689655,
+       "PlayerReceiving Yds":42.97183098591549,
+       "position":"TE",
+       "salary":5900
+    },
+    "JalenReagor":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.02857142857142857,
+       "PlayerReceiving Yds":42.97183098591549,
+       "position":"WR",
+       "salary":5400
+    },
+    "WayneGallman":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.03333333333333333
+    },
+    "HaydenHurst":{
+       "AnyTime Touchdown Scorer":0.23255813953488372,
+       "ToScore 2+ Touchdowns":0.029411764705882353,
+       "position":"TE",
+       "salary":4900
+    },
+    "ZachErtz":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.0196078431372549,
+       "position":"TE",
+       "salary":5000
+    },
+    "QuezWatkins":{
+       "AnyTime Touchdown Scorer":0.2127659574468085,
+       "ToScore 2+ Touchdowns":0.022222222222222223,
+       "position":"WR",
+       "salary":4600
+    },
+    "OlamideZaccheaus":{
+       "AnyTime Touchdown Scorer":0.2,
+       "ToScore 2+ Touchdowns":0.01639344262295082,
+       "position":"WR",
+       "salary":5000
+    },
+    "BostonScott":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.014084507042253521,
+       "position":"RB",
+       "salary":4600
+    },
+    "CordarrellePatterson":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.014084507042253521,
+       "position":"WR",
+       "salary":5200
+    },
+    "AtlantaD/ST":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.014084507042253521
+    },
+    "PhiladelphiaD/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KennethGainwell":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "position":"RB",
+       "salary":4700
+    },
+    "GregWard":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":5000
+    },
+    "MattRyan":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing TDs":1.735363125443335,
+       "PlayerPassing Yds":306.1079812206573,
+       "position":"QB",
+       "salary":6000
+    },
+    "ChristianBlake":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4800
+    },
+    "TajaeSharpe":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "JJArcega-Whiteside":{
+       "AnyTime Touchdown Scorer":0.05555555555555555
+    },
+    "LeeSmith":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "position":"TE",
+       "salary":4300
+    },
+    "StefonDiggs":{
+       "AnyTime Touchdown Scorer":0.5238095238095238,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerReceiving Yds":93.90140845070422,
+       "position":"WR",
+       "salary":7900
+    },
+    "JoshAllen":{
+       "AnyTime Touchdown Scorer":0.4878048780487805,
+       "ToScore 2+ Touchdowns":0.125,
+       "PlayerRushing Yds":30.23943661971831,
+       "PlayerPassing TDs":2.5278700627537836,
+       "PlayerPassing Yds":300.80281690140845,
+       "position":"QB",
+       "salary":7400
+    },
+    "NajeeHarris":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.11764705882352941,
+       "PlayerReceiving Yds":23.87323943661972,
+       "PlayerRushing Yds":64.1924882629108,
+       "position":"RB",
+       "salary":6500
+    },
+    "ZackMoss":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.09090909090909091,
+       "PlayerRushing Yds":30.23943661971831,
+       "position":"RB",
+       "salary":5400
+    },
+    "ChaseClaypool":{
+       "AnyTime Touchdown Scorer":0.3448275862068966,
+       "ToScore 2+ Touchdowns":0.0625,
+       "PlayerReceiving Yds":53.582159624413144,
+       "position":"WR",
+       "salary":6000
+    },
+    "JuJuSmith-Schuster":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.047619047619047616,
+       "PlayerReceiving Yds":55.70422535211267
+    },
+    "ColeBeasley":{
+       "AnyTime Touchdown Scorer":0.3125,
+       "ToScore 2+ Touchdowns":0.043478260869565216,
+       "PlayerReceiving Yds":53.582159624413144,
+       "position":"WR",
+       "salary":5500
+    },
+    "DevinSingletary":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerReceiving Yds":12.238095238095237,
+       "PlayerRushing Yds":34.483568075117375,
+       "position":"RB",
+       "salary":5300
+    },
+    "DiontaeJohnson":{
+       "AnyTime Touchdown Scorer":0.29411764705882354,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerReceiving Yds":62.070422535211264,
+       "position":"WR",
+       "salary":6600
+    },
+    "DawsonKnox":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.02857142857142857,
+       "position":"TE",
+       "salary":5000
+    },
+    "GabrielDavis":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.03125,
+       "position":"WR",
+       "salary":4900
+    },
+    "EricEbron":{
+       "AnyTime Touchdown Scorer":0.2127659574468085,
+       "ToScore 2+ Touchdowns":0.020833333333333332,
+       "position":"TE",
+       "salary":5200
+    },
+    "EmmanuelSanders":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.0196078431372549,
+       "position":"WR",
+       "salary":5300
+    },
+    "BuffaloD/ST":{
+       "AnyTime Touchdown Scorer":0.19607843137254902,
+       "ToScore 2+ Touchdowns":0.01639344262295082
+    },
+    "PatFreiermuth":{
+       "AnyTime Touchdown Scorer":0.19230769230769232,
+       "ToScore 2+ Touchdowns":0.034482758620689655,
+       "position":"TE",
+       "salary":4400
+    },
+    "BennySnell Jr":{
+       "AnyTime Touchdown Scorer":0.1724137931034483,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "PittsburghD/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.010416666666666666
+    },
+    "TommySweeney":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4100
+    },
+    "JamesWashington":{
+       "AnyTime Touchdown Scorer":0.125,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4900
+    },
+    "MattBreida":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4900
+    },
+    "IsaiahMcKenzie":{
+       "AnyTime Touchdown Scorer":0.10526315789473684,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4600
+    },
+    "JakeKumerow":{
+       "AnyTime Touchdown Scorer":0.10526315789473684,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "KalenBallage":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4500
+    },
+    "Ray-RayMcCloud III":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "BenRoethlisberger":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing TDs":1.6870916718244964,
+       "PlayerPassing Yds":281.70422535211264,
+       "position":"QB",
+       "salary":6100
+    },
+    "ReggieGilliam":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "ZachGentry":{
+       "AnyTime Touchdown Scorer":0.041666666666666664,
+       "position":"TE",
+       "salary":4000
+    },
+    "DerekWatt":{
+       "AnyTime Touchdown Scorer":0.04,
+       "position":"RB",
+       "salary":4500
+    },
+    "ChristianMcCaffrey":{
+       "AnyTime Touchdown Scorer":0.7222222222222222,
+       "ToScore 2+ Touchdowns":0.2702702702702703,
+       "PlayerReceiving Yds":47.21596244131456,
+       "PlayerRushing Yds":75.86384976525821,
+       "position":"RB",
+       "salary":10400
+    },
+    "RobbyAnderson":{
+       "AnyTime Touchdown Scorer":0.38461538461538464,
+       "ToScore 2+ Touchdowns":0.07692307692307693,
+       "PlayerReceiving Yds":53.582159624413144,
+       "position":"WR",
+       "salary":6200
+    },
+    "DJMoore":{
+       "AnyTime Touchdown Scorer":0.38461538461538464,
+       "ToScore 2+ Touchdowns":0.07692307692307693,
+       "PlayerReceiving Yds":61.009389671361504,
+       "position":"WR",
+       "salary":6700
+    },
+    "CoreyDavis":{
+       "AnyTime Touchdown Scorer":0.36363636363636365,
+       "ToScore 2+ Touchdowns":0.06666666666666667,
+       "PlayerReceiving Yds":59.948356807511736,
+       "position":"WR",
+       "salary":5800
+    },
+    "TevinColeman":{
+       "AnyTime Touchdown Scorer":0.3333333333333333,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerRushing Yds":32.36150234741784,
+       "position":"RB",
+       "salary":5400
+    },
+    "MichaelCarter":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.045454545454545456,
+       "PlayerRushing Yds":19.629107981220656,
+       "position":"RB",
+       "salary":5300
+    },
+    "KeelanCole":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.041666666666666664
+    },
+    "TerraceMarshall":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.045454545454545456,
+       "PlayerReceiving Yds":40.84976525821597
+    },
+    "ElijahMoore":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerReceiving Yds":49.33802816901408,
+       "position":"WR",
+       "salary":5000
+    },
+    "TylerKroft":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.025,
+       "position":"TE",
+       "salary":4700
+    },
+    "DenzelMims":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.020833333333333332,
+       "position":"WR",
+       "salary":4900
+    },
+    "ZachWilson":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.014084507042253521,
+       "PlayerRushing Yds":20.690140845070424,
+       "PlayerPassing TDs":1.4795360767257724,
+       "PlayerPassing Yds":245.62910798122067,
+       "position":"QB",
+       "salary":5000
+    },
+    "DanArnold":{
+       "AnyTime Touchdown Scorer":0.2,
+       "ToScore 2+ Touchdowns":0.0196078431372549,
+       "position":"TE",
+       "salary":4500
+    },
+    "SamDarnold":{
+       "AnyTime Touchdown Scorer":0.17857142857142858,
+       "ToScore 2+ Touchdowns":0.015151515151515152,
+       "PlayerRushing Yds":9.018779342723004,
+       "PlayerPassing TDs":1.5981308411214952,
+       "PlayerPassing Yds":265.7887323943662,
+       "position":"QB",
+       "salary":5000
+    },
+    "TyJohnson":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.012345679012345678,
+       "position":"RB",
+       "salary":4700
+    },
+    "CarolinaD/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "ChubaHubbard":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4700
+    },
+    "BraxtonBerrios":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4600
+    },
+    "BrandonZylstra":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "NewYork Jets D/ST":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "RoyceFreeman":{
+       "AnyTime Touchdown Scorer":0.1,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4700
+    },
+    "JeffSmith":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "ColinThompson":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "TommyTremble":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4100
+    },
+    "RyanGriffin":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "IanThomas":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4400
+    },
+    "DanielBrown":{
+       "AnyTime Touchdown Scorer":0.0625,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "TrevonWesco":{
+       "AnyTime Touchdown Scorer":0.05555555555555555,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4100
+    },
+    "DarrellHenderson":{
+       "AnyTime Touchdown Scorer":0.5555555555555556,
+       "ToScore 2+ Touchdowns":0.16666666666666666,
+       "PlayerRushing Yds":57,
+       "position":"RB",
+       "salary":6400
+    },
+    "RobertWoods":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.10526315789473684,
+       "PlayerReceiving Yds":66.58878504672896,
+       "position":"WR",
+       "salary":6500
+    },
+    "DavidMontgomery":{
+       "AnyTime Touchdown Scorer":0.4444444444444444,
+       "ToScore 2+ Touchdowns":0.1,
+       "PlayerRushing Yds":59.13084112149532,
+       "position":"RB",
+       "salary":7100
+    },
+    "CooperKupp":{
+       "AnyTime Touchdown Scorer":0.40816326530612246,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":67.65420560747663,
+       "position":"WR",
+       "salary":6200
+    },
+    "AllenRobinson":{
+       "AnyTime Touchdown Scorer":0.37735849056603776,
+       "ToScore 2+ Touchdowns":0.07142857142857142,
+       "PlayerReceiving Yds":69.78504672897196
+    },
+    "TylerHigbee":{
+       "AnyTime Touchdown Scorer":0.37037037037037035,
+       "ToScore 2+ Touchdowns":0.06666666666666667,
+       "position":"TE",
+       "salary":5400
+    },
+    "SonyMichel":{
+       "AnyTime Touchdown Scorer":0.35714285714285715,
+       "ToScore 2+ Touchdowns":0.07142857142857142,
+       "position":"RB",
+       "salary":5200
+    },
+    "DeSeanJackson":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.047619047619047616,
+       "position":"WR",
+       "salary":5300
+    },
+    "ColeKmet":{
+       "AnyTime Touchdown Scorer":0.23809523809523808,
+       "ToScore 2+ Touchdowns":0.02702702702702703,
+       "position":"TE",
+       "salary":5100
+    },
+    "DamienWilliams":{
+       "AnyTime Touchdown Scorer":0.2127659574468085,
+       "ToScore 2+ Touchdowns":0.0196078431372549,
+       "position":"RB",
+       "salary":5000
+    },
+    "DarnellMooney":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.017857142857142856,
+       "PlayerReceiving Yds":48.47663551401868,
+       "position":"WR",
+       "salary":5500
+    },
+    "JimmyGraham":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.017857142857142856,
+       "position":"TE",
+       "salary":5000
+    },
+    "LosAngeles Rams D/ST":{
+       "AnyTime Touchdown Scorer":0.19230769230769232,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "VanJefferson":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4900
+    },
+    "MarquiseGoodwin":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4700
+    },
+    "ChicagoD/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MatthewStafford":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":288.19626168224295,
+       "PlayerPassing TDs":1.7171717171,
+       "position":"QB",
+       "salary":0
+    },
+    "JakeFunk":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4600
+    },
+    "TutuAtwell":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4600
+    },
+    "AndyDalton":{
+       "AnyTime Touchdown Scorer":0.1,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":227.46728971962614,
+       "PlayerPassing TDs":1.423976608,
+       "position":"QB",
+       "salary":0
+    },
+    "KhalilHerbert":{
+       "AnyTime Touchdown Scorer":0.09523809523809523,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4600
+    },
+    "BreshadPerriman":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":5600
+    },
+    "NsimbaWebster":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "JacobHarris":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "DamiereByrd":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":5100
+    },
+    "JohnnyMundt":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "JesseJames":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4400
+    },
+    "BrycenHopkins":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "position":"TE",
+       "salary":4200
+    },
+    "DalvinCook":{
+       "AnyTime Touchdown Scorer":0.7058823529411765,
+       "ToScore 2+ Touchdowns":0.25,
+       "PlayerRushing Yds":102.38967136150235,
+       "position":"RB",
+       "salary":9400
+    },
+    "JoeMixon":{
+       "AnyTime Touchdown Scorer":0.5833333333333334,
+       "ToScore 2+ Touchdowns":0.16666666666666666,
+       "PlayerReceiving Yds":23.83495145631068,
+       "PlayerRushing Yds":69.55263157894737,
+       "position":"RB",
+       "salary":7200
+    },
+    "JustinJefferson":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.11764705882352941,
+       "position":"WR",
+       "salary":8000
+    },
+    "AdamThielen":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.10526315789473684,
+       "PlayerReceiving Yds":62.02647837599294,
+       "position":"WR",
+       "salary":7300
+    },
+    "TeeHiggins":{
+       "AnyTime Touchdown Scorer":0.37735849056603776,
+       "ToScore 2+ Touchdowns":0.07692307692307693,
+       "PlayerReceiving Yds":63.0864960282436,
+       "position":"WR",
+       "salary":6000
+    },
+    "Ja'MarrChase":{
+       "AnyTime Touchdown Scorer":0.3333333333333333,
+       "ToScore 2+ Touchdowns":0.05555555555555555,
+       "PlayerReceiving Yds":52.48631950573698
+    },
+    "TylerBoyd":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.05263157894736842,
+       "PlayerReceiving Yds":53.582159624413144,
+       "position":"WR",
+       "salary":5900
+    },
+    "AlexanderMattison":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.022727272727272728,
+       "position":"RB",
+       "salary":4800
+    },
+    "JoeBurrow":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.020833333333333332,
+       "PlayerRushing Yds":7.991228070175438,
+       "PlayerPassing TDs":1.6353852776582005,
+       "PlayerPassing Yds":280.6431924882629,
+       "position":"QB",
+       "salary":5700
+    },
+    "ChrisHerndon":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.02040816326530612
+    },
+    "C.J.Uzomah":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.012345679012345678,
+       "PlayerReceiving Yds":23.87323943661972
+    },
+    "TylerConklin":{
+       "AnyTime Touchdown Scorer":0.1724137931034483,
+       "ToScore 2+ Touchdowns":0.010416666666666666,
+       "PlayerReceiving Yds":25.995305164319248,
+       "position":"TE",
+       "salary":4400
+    },
+    "SamajePerine":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4900
+    },
+    "MinnesotaD/ST":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "CincinnatiD/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.010416666666666666
+    },
+    "DrewSample":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4300
+    },
+    "AudenTate":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4700
+    },
+    "KirkCousins":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerRushing Yds":7.928492849284929,
+       "PlayerPassing TDs":1.6835217978806627,
+       "PlayerPassing Yds":272.1549295774648,
+       "position":"QB",
+       "salary":6300
+    },
+    "KJOsborn":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "DedeWestbrook":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4700
+    },
+    "IhmirSmith-Marsette":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "CJHam":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "position":"RB",
+       "salary":4500
+    },
+    "BrandonDillon":{
+       "AnyTime Touchdown Scorer":0.05,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4100
+    },
+    "StanleyMorgan":{
+       "AnyTime Touchdown Scorer":0.05,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MitchellWilcox":{
+       "AnyTime Touchdown Scorer":0.05,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "ChrisEvans":{
+       "AnyTime Touchdown Scorer":0.05,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4600
+    },
+    "TyreekHill":{
+       "AnyTime Touchdown Scorer":0.6666666666666666,
+       "ToScore 2+ Touchdowns":0.2127659574468085,
+       "PlayerReceiving Yds":88.9626168224299,
+       "position":"WR",
+       "salary":8500
+    },
+    "TravisKelce":{
+       "AnyTime Touchdown Scorer":0.6491228070175439,
+       "ToScore 2+ Touchdowns":0.20833333333333334,
+       "PlayerReceiving Yds":93.22429906542055,
+       "position":"TE",
+       "salary":8500
+    },
+    "NickChubb":{
+       "AnyTime Touchdown Scorer":0.6226415094339622,
+       "ToScore 2+ Touchdowns":0.18867924528301888,
+       "PlayerReceiving Yds":13.317757009345794,
+       "PlayerRushing Yds":76.17757009345794,
+       "position":"RB",
+       "salary":7700
+    },
+    "ClydeEdwards-Helaire":{
+       "AnyTime Touchdown Scorer":0.5348837209302325,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerRushing Yds":51.67289719626167
+    },
+    "KareemHunt":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.1,
+       "PlayerReceiving Yds":17.57943925233645,
+       "PlayerRushing Yds":35.691588785046726,
+       "position":"RB",
+       "salary":6000
+    },
+    "OdellBeckham Jr.":{
+       "AnyTime Touchdown Scorer":0.4166666666666667,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":56.095807345807344
+    },
+    "RashardHiggins":{
+       "AnyTime Touchdown Scorer":0.38461538461538464,
+       "ToScore 2+ Touchdowns":0.07142857142857142,
+       "position":"WR",
+       "salary":5000
+    },
+    "JarvisLandry":{
+       "AnyTime Touchdown Scorer":0.38461538461538464,
+       "ToScore 2+ Touchdowns":0.07142857142857142,
+       "PlayerReceiving Yds":61.261682242990645,
+       "position":"WR",
+       "salary":6400
+    },
+    "MecoleHardman":{
+       "AnyTime Touchdown Scorer":0.3389830508474576,
+       "ToScore 2+ Touchdowns":0.0625,
+       "position":"WR",
+       "salary":5400
+    },
+    "DarrelWilliams":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.047619047619047616,
+       "position":"RB",
+       "salary":5100
+    },
+    "AustinHooper":{
+       "AnyTime Touchdown Scorer":0.29411764705882354,
+       "ToScore 2+ Touchdowns":0.043478260869565216,
+       "position":"TE",
+       "salary":5100
+    },
+    "PatrickMahomes":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.03333333333333333,
+       "PlayerRushing Yds":14.413374913374914,
+       "PlayerPassing Yds":332.9439252336448,
+       "PlayerPassing TDs":2.666666667,
+       "salary": 8100
+    },
+    "ByronPringle":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.02702702702702703,
+       "position":"WR",
+       "salary":4700
+    },
+    "DemarcusRobinson":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.02702702702702703,
+       "position":"WR",
+       "salary":4900
+    },
+    "KansasCity D/ST":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.024390243902439025
+    },
+    "ClevelandD/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.017857142857142856
+    },
+    "BakerMayfield":{
+       "AnyTime Touchdown Scorer":0.1724137931034483,
+       "ToScore 2+ Touchdowns":0.013157894736842105,
+       "PlayerRushing Yds":8.031011781011781,
+       "PlayerPassing Yds":274.3457943925233,
+       "PlayerPassing TDs":1.645994832,
+       "position":"QB",
+       "salary":5900
+    },
+    "JerickMcKinnon":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4700
+    },
+    "HarrisonBryant":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.012345679012345678,
+       "position":"TE",
+       "salary":4700
+    },
+    "DavidNjoku":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.012345679012345678,
+       "position":"TE",
+       "salary":4600
+    },
+    "DonovanPeoples-Jones":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerReceiving Yds":27.168224299065418
+    },
+    "NoahGray":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "BlakeBell":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4100
+    },
+    "MarcusKemp":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "AndyJanovich":{
+       "AnyTime Touchdown Scorer":0.047619047619047616,
+       "position":"RB",
+       "salary":4500
+    },
+    "D'ErnestJohnson":{
+       "AnyTime Touchdown Scorer":0.03571428571428571
+    },
+    "SaquonBarkley":{
+       "AnyTime Touchdown Scorer":0.5238095238095238,
+       "ToScore 2+ Touchdowns":0.13333333333333333,
+       "PlayerRushing Yds":59.13084112149532,
+       "position":"RB",
+       "salary":8500
+    },
+    "MelvinGordon":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.09090909090909091,
+       "PlayerRushing Yds":51.67289719626167
+    },
+    "JavonteWilliams":{
+       "AnyTime Touchdown Scorer":0.37037037037037035,
+       "ToScore 2+ Touchdowns":0.07142857142857142,
+       "PlayerRushing Yds":42.0841121495327,
+       "position":"RB",
+       "salary":5600
+    },
+    "CourtlandSutton":{
+       "AnyTime Touchdown Scorer":0.3389830508474576,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerReceiving Yds":51.67289719626167,
+       "position":"WR",
+       "salary":5800
+    },
+    "KennyGolladay":{
+       "AnyTime Touchdown Scorer":0.3125,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":43.14953271028037,
+       "position":"WR",
+       "salary":6200
+    },
+    "JerryJeudy":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.043478260869565216,
+       "PlayerReceiving Yds":53.80373831775701,
+       "position":"WR",
+       "salary":5500
+    },
+    "SterlingShepard":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.04,
+       "PlayerReceiving Yds":55.93457943925233,
+       "position":"WR",
+       "salary":5500
+    },
+    "NoahFant":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.03225806451612903,
+       "PlayerReceiving Yds":42.0841121495327,
+       "position":"TE",
+       "salary":5400
+    },
+    "KyleRudolph":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.03125,
+       "position":"TE",
+       "salary":4500
+    },
+    "GaryBrightwell":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.023809523809523808,
+       "position":"RB",
+       "salary":4600
+    },
+    "DevontaeBooker":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.023809523809523808,
+       "position":"RB",
+       "salary":5300
+    },
+    "DariusSlayton":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.02631578947368421,
+       "PlayerReceiving Yds":39.95327102803738,
+       "position":"WR",
+       "salary":5000
+    },
+    "DanielJones":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.0196078431372549,
+       "PlayerRushing Yds":20.775700934579437,
+       "PlayerPassing TDs":1.4731182795698925,
+       "PlayerPassing Yds":232.79439252336448,
+       "position":"QB",
+       "salary":5300
+    },
+    "TeddyBridgewater":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.012345679012345678,
+       "PlayerRushing Yds":13.317757009345794,
+       "PlayerPassing TDs":1.5981308411214952,
+       "PlayerPassing Yds":263.69158878504675,
+       "position":"QB",
+       "salary":4800
+    },
+    "KJHamler":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.014084507042253521,
+       "position":"WR",
+       "salary":5100
+    },
+    "TimPatrick":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.015151515151515152,
+       "position":"WR",
+       "salary":4900
+    },
+    "DenverD/ST":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "AlbertOkwuegbunam":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.010416666666666666,
+       "position":"TE",
+       "salary":4200
+    },
+    "NYGiants D/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "KadariusToney":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4900
+    },
+    "KadenSmith":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4100
+    },
+    "DiontaeSpencer":{
+       "AnyTime Touchdown Scorer":0.0625,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4600
+    },
+    "EricSaubert":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4100
+    },
+    "AndrewBeck":{
+       "AnyTime Touchdown Scorer":0.041666666666666664,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "RaheemMostert":{
+       "AnyTime Touchdown Scorer":0.5833333333333334,
+       "ToScore 2+ Touchdowns":0.16666666666666666,
+       "PlayerRushing Yds":69.49765258215962,
+       "position":"RB",
+       "salary":6100
+    },
+    "GeorgeKittle":{
+       "AnyTime Touchdown Scorer":0.425531914893617,
+       "ToScore 2+ Touchdowns":0.09090909090909091,
+       "PlayerReceiving Yds":67.3755868544601,
+       "position":"TE",
+       "salary":7000
+    },
+    "D'AndreSwift":{
+       "AnyTime Touchdown Scorer":0.4166666666666667,
+       "ToScore 2+ Touchdowns":0.09090909090909091,
+       "PlayerReceiving Yds":21.751173708920188,
+       "PlayerRushing Yds":46.154929577464785
+    },
+    "BrandonAiyuk":{
+       "AnyTime Touchdown Scorer":0.4166666666666667,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":51.460093896713616,
+       "position":"WR",
+       "salary":6500
+    },
+    "TreySermon":{
+       "AnyTime Touchdown Scorer":0.4,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerRushing Yds":44.03286384976526,
+       "position":"RB",
+       "salary":5200
+    },
+    "DeeboSamuel":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerReceiving Yds":49.33802816901408,
+       "position":"WR",
+       "salary":6300
+    },
+    "TreyLance":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "position":"QB",
+       "salary":6300
+    },
+    "T.J.Hockenson":{
+       "AnyTime Touchdown Scorer":0.29411764705882354,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerReceiving Yds":46.154929577464785
+    },
+    "JamaalWilliams":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.04,
+       "position":"RB",
+       "salary":4900
+    },
+    "TyrellWilliams":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.03125,
+       "PlayerReceiving Yds":49.33802816901408,
+       "position":"WR",
+       "salary":5400
+    },
+    "MohamedSanu":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.030303030303030304,
+       "position":"WR",
+       "salary":4700
+    },
+    "SanFrancisco D/ST":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.017857142857142856
+    },
+    "KyleJuszczyk":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.015151515151515152,
+       "position":"RB",
+       "salary":4500
+    },
+    "Amon-RaSt. Brown":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.013157894736842105,
+       "PlayerReceiving Yds":39.78873239436619
+    },
+    "JimmyGaroppolo":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":238.20187793427232,
+       "PlayerPassing TDs":1.676190476,
+       "position":"QB",
+       "salary":5500
+    },
+    "KalifRaymond":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "JaredGoff":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":237.14084507042253,
+       "PlayerPassing TDs":1.4666667,
+       "position":"QB",
+       "salary":5100
+    },
+    "DarrenFells":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4400
+    },
+    "QuintezCephus":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4700
+    },
+    "DetroitD/ST":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "RossDwelley":{
+       "AnyTime Touchdown Scorer":0.125,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4200
+    },
+    "JamycalHasty":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JermarJefferson":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4600
+    },
+    "CharlieWoerner":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "position":"TE",
+       "salary":4100
+    },
+    "ElijahMitchell":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4500
+    },
+    "KhaDarelHodge":{
+       "AnyTime Touchdown Scorer":0.058823529411764705,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "JasonCabinda":{
+       "AnyTime Touchdown Scorer":0.03225806451612903
+    },
+    "AlvinKamara":{
+       "AnyTime Touchdown Scorer":0.6491228070175439,
+       "ToScore 2+ Touchdowns":0.21739130434782608,
+       "PlayerReceiving Yds":49.54205607476635,
+       "PlayerRushing Yds":61.261682242990645,
+       "position":"RB",
+       "salary":8600
+    },
+    "DavanteAdams":{
+       "AnyTime Touchdown Scorer":0.6078431372549019,
+       "ToScore 2+ Touchdowns":0.17857142857142858,
+       "PlayerReceiving Yds":93.22429906542055,
+       "position":"WR",
+       "salary":8600
+    },
+    "AaronJones":{
+       "AnyTime Touchdown Scorer":0.6,
+       "ToScore 2+ Touchdowns":0.18518518518518517,
+       "PlayerReceiving Yds":21.8411214953271,
+       "PlayerRushing Yds":68.7196261682243,
+       "position":"RB",
+       "salary":7400
+    },
+    "RobertTonyan Jr":{
+       "AnyTime Touchdown Scorer":0.36363636363636365,
+       "ToScore 2+ Touchdowns":0.0625,
+       "PlayerReceiving Yds":31.429906542056074
+    },
+    "MarquezCallaway":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.0625,
+       "position":"WR",
+       "salary":5200
+    },
+    "AJDillon":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.043478260869565216,
+       "position":"RB",
+       "salary":5000
+    },
+    "DeonteHarris":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.05,
+       "position":"WR",
+       "salary":5300
+    },
+    "LataviusMurray":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.047619047619047616,
+       "position":"RB",
+       "salary":5300
+    },
+    "TaysomHill":{
+       "position":"QB",
+       "salary":6700
+    },
+    "AllenLazard":{
+       "AnyTime Touchdown Scorer":0.25,
+       "ToScore 2+ Touchdowns":0.029411764705882353,
+       "position":"WR",
+       "salary":5600
+    },
+    "RandallCobb":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.034482758620689655,
+       "position":"WR",
+       "salary":5400
+    },
+    "TonyJones Jr.":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.024390243902439025
+    },
+    "Lil'JordanHumphrey":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.017857142857142856
+    },
+    "MarquezValdes-Scantling":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.013157894736842105
+    },
+    "GreenBay D/ST":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.012345679012345678
+    },
+    "AaronRodgers":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":297.7850467289719,
+       "PlayerPassing TDs":2.560344828,
+       "position":"QB",
+       "salary":6800
+    },
+    "AdamTrautman":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.014084507042253521,
+       "position":"TE",
+       "salary":4600
+    },
+    "NewOrleans D/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "JuwanJohnson":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "position":"WR",
+       "salary":4500
+    },
+    "JameisWinston":{
+       "AnyTime Touchdown Scorer":0.09523809523809523,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing Yds":276.47663551401865,
+       "PlayerPassing TDs":1.625,
+       "position":"QB",
+       "salary":5200
+    },
+    "AmariRodgers":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "MarcedesLewis":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4300
+    },
+    "DominiqueDafney":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4100
+    },
+    "KylinHill":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4600
+    },
+    "JosiahDeguara":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "position":"TE",
+       "salary":4200
+    },
+    "DwayneWashington":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4500
+    },
+    "TyMontgomery":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4600
+    },
+    "ChrisHogan":{
+       "AnyTime Touchdown Scorer":0.0625,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4900
+    },
+    "Tre'QuanSmith":{
+       "AnyTime Touchdown Scorer":0.045454545454545456,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "GarrettGriffin":{
+       "position":"TE",
+       "salary":4100
+    },
+    "JamesRobinson":{
+       "AnyTime Touchdown Scorer":0.5238095238095238,
+       "ToScore 2+ Touchdowns":0.14285714285714285,
+       "PlayerReceiving Yds":20.654898499558694,
+       "PlayerRushing Yds":72.68075117370893,
+       "position":"RB",
+       "salary":5900
+    },
+    "MarvinJones":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.09523809523809523,
+       "PlayerReceiving Yds":59.87555163283318
+    },
+    "LaviskaShenault Jr.":{
+       "AnyTime Touchdown Scorer":0.4,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":51.42630185348632
+    },
+    "DJChark":{
+       "AnyTime Touchdown Scorer":0.39215686274509803,
+       "ToScore 2+ Touchdowns":0.07692307692307693,
+       "PlayerReceiving Yds":50.33539276257723
+    },
+    "BrandinCooks":{
+       "AnyTime Touchdown Scorer":0.3448275862068966,
+       "ToScore 2+ Touchdowns":0.0625,
+       "PlayerReceiving Yds":59.948356807511736,
+       "position":"WR",
+       "salary":6300
+    },
+    "PhillipLindsay":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":4.7469746974697475,
+       "PlayerRushing Yds":41.91079812206573,
+       "position":"RB",
+       "salary":5200
+    },
+    "TyrodTaylor":{
+       "AnyTime Touchdown Scorer":0.30303030303030304,
+       "ToScore 2+ Touchdowns":0.045454545454545456,
+       "PlayerRushing Yds":20.690140845070424,
+       "PlayerPassing TDs":1.4235055724417427,
+       "PlayerPassing Yds":221.22535211267603,
+       "position":"QB",
+       "salary":5300
+    },
+    "TrevorLawrence":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "PlayerRushing Yds":19.59488084730803,
+       "PlayerPassing TDs":1.588011088011088,
+       "PlayerPassing Yds":262.6056338028169,
+       "position":"QB",
+       "salary":6200
+    },
+    "MarkIngram":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.03571428571428571
+    },
+    "NicoCollins":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.02857142857142857,
+       "position":"WR",
+       "salary":4900
+    },
+    "ChrisConley":{
+       "AnyTime Touchdown Scorer":0.23809523809523808,
+       "ToScore 2+ Touchdowns":0.02564102564102564,
+       "position":"WR",
+       "salary":5100
+    },
+    "DavidJohnson":{
+       "AnyTime Touchdown Scorer":0.23809523809523808,
+       "ToScore 2+ Touchdowns":0.023255813953488372,
+       "position":"RB",
+       "salary":5700
+    },
+    "CarlosHyde":{
+       "AnyTime Touchdown Scorer":0.23255813953488372,
+       "ToScore 2+ Touchdowns":0.022727272727272728,
+       "position":"RB",
+       "salary":4800
+    },
+    "JordanAkins":{
+       "AnyTime Touchdown Scorer":0.2222222222222222,
+       "ToScore 2+ Touchdowns":0.022727272727272728,
+       "PlayerReceiving Yds":17.505736981465134,
+       "position":"TE",
+       "salary":4800
+    },
+    "JacksonvilleD/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "JamesO'Shaughnessy":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.01098901098901099
+    },
+    "HoustonD/ST":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "DannyAmendola":{
+       "AnyTime Touchdown Scorer":0.125,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "PharaohBrown":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4300
+    },
+    "TyronJohnson":{
+       "AnyTime Touchdown Scorer":0.09523809523809523,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4800
+    },
+    "ChrisManhertz":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4200
+    },
+    "JacobHollister":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4400
+    },
+    "JamalAgnew":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "DareOgunbowale":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "position":"RB",
+       "salary":4500
+    },
+    "AndreRoberts":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "JonathanTaylor":{
+       "AnyTime Touchdown Scorer":0.5348837209302325,
+       "ToScore 2+ Touchdowns":0.15384615384615385,
+       "PlayerReceiving Yds":12.2018779342723,
+       "PlayerRushing Yds":76.92488262910798,
+       "position":"RB",
+       "salary":7900
+    },
+    "DKMetcalf":{
+       "AnyTime Touchdown Scorer":0.5,
+       "ToScore 2+ Touchdowns":0.125,
+       "PlayerReceiving Yds":81.16901408450704,
+       "position":"WR",
+       "salary":7700
+    },
+    "ChrisCarson":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.1111111111111111,
+       "PlayerReceiving Yds":16.44600938967136,
+       "PlayerRushing Yds":59.948356807511736,
+       "position":"RB",
+       "salary":6700
+    },
+    "TylerLockett":{
+       "AnyTime Touchdown Scorer":0.46511627906976744,
+       "ToScore 2+ Touchdowns":0.1111111111111111,
+       "PlayerReceiving Yds":71.61971830985915,
+       "position":"WR",
+       "salary":6800
+    },
+    "MichaelPittman Jr.":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705
+    },
+    "NyheimHines":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.037037037037037035,
+       "PlayerReceiving Yds":25.995305164319248,
+       "PlayerRushing Yds":18.568075117370892,
+       "position":"RB",
+       "salary":5400
+    },
+    "RashaadPenny":{
+       "AnyTime Touchdown Scorer":0.2777777777777778,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "position":"RB",
+       "salary":4800
+    },
+    "AlexCollins":{
+       "AnyTime Touchdown Scorer":0.2777777777777778,
+       "ToScore 2+ Touchdowns":0.041666666666666664,
+       "position":"RB",
+       "salary":4500
+    },
+    "JackDoyle":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.03125,
+       "position":"TE",
+       "salary":4800
+    },
+    "ZachPascal":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.03225806451612903,
+       "position":"WR",
+       "salary":4900
+    },
+    "GeraldEverett":{
+       "AnyTime Touchdown Scorer":0.23809523809523808,
+       "ToScore 2+ Touchdowns":0.030303030303030304,
+       "PlayerReceiving Yds":25.995305164319248,
+       "position":"TE",
+       "salary":4800
+    },
+    "MarlonMack":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.023809523809523808,
+       "position":"RB",
+       "salary":4800
+    },
+    "ParrisCampbell":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.022727272727272728,
+       "position":"WR",
+       "salary":5000
+    },
+    "D'WayneEskridge":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.024390243902439025
+    },
+    "RussellWilson":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.02040816326530612,
+       "PlayerRushing Yds":25.995305164319248,
+       "PlayerPassing TDs":1.735363125443335,
+       "PlayerPassing Yds":285.94835680751174,
+       "position":"QB",
+       "salary":7000
+    },
+    "MoAlie-Cox":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.013157894736842105
+    },
+    "CarsonWentz":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.013157894736842105,
+       "PlayerRushing Yds":13.23477493380406,
+       "PlayerPassing TDs":1.4795360767257724,
+       "PlayerPassing Yds":257.30046948356807,
+       "position":"QB",
+       "salary":5600
+    },
+    "SeattleD/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "IndianapolisD/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.013157894736842105
+    },
+    "FreddieSwain":{
+       "AnyTime Touchdown Scorer":0.1694915254237288,
+       "ToScore 2+ Touchdowns":0.011627906976744186,
+       "position":"WR",
+       "salary":4700
+    },
+    "WillDissly":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.013157894736842105,
+       "PlayerReceiving Yds":16.44600938967136,
+       "position":"TE",
+       "salary":4400
+    },
+    "TravisHomer":{
+       "AnyTime Touchdown Scorer":0.1111111111111111,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4700
+    },
+    "KylenGranson":{
+       "AnyTime Touchdown Scorer":0.09523809523809523,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "MikeStrachan":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "JordanWilkins":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4600
+    },
+    "TylerMabry":{
+       "AnyTime Touchdown Scorer":0.07692307692307693,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "PennyHart":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4600
+    },
+    "NickBellore":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "position":"RB",
+       "salary":4500
+    },
+    "CurtisSamuel":{
+       "AnyTime Touchdown Scorer":0.5652173913043478,
+       "position":"WR",
+       "salary":5500
+    },
+    "AntonioGibson":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.15384615384615385,
+       "PlayerReceiving Yds":16.44600938967136,
+       "PlayerRushing Yds":64.1924882629108,
+       "position":"RB",
+       "salary":7000
+    },
+    "JustinJackson":{
+       "ToScore 2+ Touchdowns":0.1111111111111111,
+       "position":"RB",
+       "salary":4800
+    },
+    "AustinEkeler":{
+       "AnyTime Touchdown Scorer":0.47619047619047616,
+       "ToScore 2+ Touchdowns":0.1111111111111111,
+       "PlayerReceiving Yds":35.544600938967136,
+       "PlayerRushing Yds":52.52112676056338,
+       "position":"RB",
+       "salary":6900
+    },
+    "KeenanAllen":{
+       "AnyTime Touchdown Scorer":0.43478260869565216,
+       "ToScore 2+ Touchdowns":0.09523809523809523,
+       "PlayerReceiving Yds":57.82629107981221,
+       "position":"WR",
+       "salary":7400
+    },
+    "TerryMcLaurin":{
+       "AnyTime Touchdown Scorer":0.4,
+       "ToScore 2+ Touchdowns":0.08333333333333333,
+       "PlayerReceiving Yds":73.74178403755869,
+       "position":"WR",
+       "salary":6900
+    },
+    "LoganThomas":{
+       "AnyTime Touchdown Scorer":0.3333333333333333,
+       "ToScore 2+ Touchdowns":0.05263157894736842,
+       "PlayerReceiving Yds":45.093896713615024,
+       "position":"TE",
+       "salary":5600
+    },
+    "MikeWilliams":{
+       "AnyTime Touchdown Scorer":0.3125,
+       "ToScore 2+ Touchdowns":0.045454545454545456,
+       "PlayerReceiving Yds":39.78873239436619,
+       "position":"WR",
+       "salary":5700
+    },
+    "JaredCook":{
+       "AnyTime Touchdown Scorer":0.2857142857142857,
+       "ToScore 2+ Touchdowns":0.04,
+       "PlayerReceiving Yds":34.483568075117375,
+       "position":"TE",
+       "salary":5200
+    },
+    "AdamHumphries":{
+       "AnyTime Touchdown Scorer":0.2702702702702703,
+       "ToScore 2+ Touchdowns":0.03571428571428571,
+       "position":"WR",
+       "salary":4900
+    },
+    "J.D.McKissic":{
+       "AnyTime Touchdown Scorer":0.2631578947368421,
+       "ToScore 2+ Touchdowns":0.034482758620689655
+    },
+    "JoshuaKelley":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.021739130434782608,
+       "position":"RB",
+       "salary":5300
+    },
+    "JustinHerbert":{
+       "AnyTime Touchdown Scorer":0.22727272727272727,
+       "ToScore 2+ Touchdowns":0.023809523809523808,
+       "PlayerPassing Yds":273.21596244131456,
+       "PlayerPassing TDs":1.666666667,
+       "position":"QB",
+       "salary":6700
+    },
+    "RyanFitzpatrick":{
+       "AnyTime Touchdown Scorer":0.21739130434782608,
+       "ToScore 2+ Touchdowns":0.02,
+       "PlayerPassing Yds":279.5821596244132,
+       "PlayerPassing TDs":1.6253229,
+       "position":"QB",
+       "salary":5500
+    },
+    "DyamiBrown":{
+       "AnyTime Touchdown Scorer":0.19230769230769232,
+       "ToScore 2+ Touchdowns":0.012345679012345678,
+       "position":"WR",
+       "salary":4700
+    },
+    "JalenGuyton":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.0196078431372549,
+       "position":"WR",
+       "salary":5100
+    },
+    "JoshPalmer":{
+       "AnyTime Touchdown Scorer":0.18867924528301888,
+       "ToScore 2+ Touchdowns":0.0196078431372549,
+       "position":"WR",
+       "salary":5000
+    },
+    "WashingtonD/ST":{
+       "AnyTime Touchdown Scorer":0.17543859649122806,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "LAChargers D/ST":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "StephenAnderson":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.01098901098901099,
+       "position":"TE",
+       "salary":4000
+    },
+    "DonaldParham":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "CamSims":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "JohnBates":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4100
+    },
+    "RickySeals Jones":{
+       "AnyTime Touchdown Scorer":0.05263157894736842
+    },
+    "KJHill":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "SammisReyes":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "position":"TE",
+       "salary":4000
+    },
+    "JaretPatterson":{
+       "AnyTime Touchdown Scorer":0.05263157894736842,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":4500
+    },
+    "DamienHarris":{
+       "AnyTime Touchdown Scorer":0.5,
+       "ToScore 2+ Touchdowns":0.11764705882352941,
+       "PlayerRushing Yds":74.04672897196261,
+       "position":"RB",
+       "salary":5800
+    },
+    "JakobiMeyers":{
+       "AnyTime Touchdown Scorer":0.37735849056603776,
+       "ToScore 2+ Touchdowns":0.06666666666666667,
+       "PlayerReceiving Yds":52.73831775700934,
+       "position":"WR",
+       "salary":5400
+    },
+    "MylesGaskin":{
+       "AnyTime Touchdown Scorer":0.37037037037037035,
+       "ToScore 2+ Touchdowns":0.06666666666666667,
+       "PlayerReceiving Yds":19.828239345673694,
+       "PlayerRushing Yds":47.41121495327103,
+       "position":"RB",
+       "salary":6000
+    },
+    "HunterHenry":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerReceiving Yds":29.299065420560744,
+       "position":"TE",
+       "salary":5300
+    },
+    "NelsonAgholor":{
+       "AnyTime Touchdown Scorer":0.3508771929824561,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "position":"WR",
+       "salary":5600
+    },
+    "MikeGesicki":{
+       "AnyTime Touchdown Scorer":0.3389830508474576,
+       "ToScore 2+ Touchdowns":0.058823529411764705,
+       "PlayerReceiving Yds":42.0841121495327,
+       "position":"TE",
+       "salary":5500
+    },
+    "DeVanteParker":{
+       "AnyTime Touchdown Scorer":0.3225806451612903,
+       "ToScore 2+ Touchdowns":0.05,
+       "PlayerReceiving Yds":51.67289719626167,
+       "position":"WR",
+       "salary":6100
+    },
+    "JonnuSmith":{
+       "AnyTime Touchdown Scorer":0.3125,
+       "ToScore 2+ Touchdowns":0.05263157894736842,
+       "PlayerReceiving Yds":30.36448598130841,
+       "position":"TE",
+       "salary":4900
+    },
+    "JaylenWaddle":{
+       "AnyTime Touchdown Scorer":0.2564102564102564,
+       "ToScore 2+ Touchdowns":0.030303030303030304,
+       "position":"WR",
+       "salary":5200
+    },
+    "JamesWhite":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.02857142857142857,
+       "position":"RB",
+       "salary":4800
+    },
+    "KendrickBourne":{
+       "AnyTime Touchdown Scorer":0.24390243902439024,
+       "ToScore 2+ Touchdowns":0.02857142857142857,
+       "position":"WR",
+       "salary":4900
+    },
+    "TuaTagovailoa":{
+       "AnyTime Touchdown Scorer":0.20833333333333334,
+       "ToScore 2+ Touchdowns":0.017857142857142856,
+       "PlayerRushing Yds":14.41713301764959,
+       "PlayerPassing TDs":1.5377540424269396,
+       "PlayerPassing Yds":243.4485981308411,
+       "position":"QB",
+       "salary":5400
+    },
+    "MalcolmBrown":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.01639344262295082,
+       "position":"RB",
+       "salary":5000
+    },
+    "RhamondreStevenson":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.0196078431372549,
+       "position":"RB",
+       "salary":4600
+    },
+    "J.J.Taylor":{
+       "AnyTime Touchdown Scorer":0.20408163265306123,
+       "ToScore 2+ Touchdowns":0.0196078431372549
+    },
+    "NewEngland D/ST":{
+       "AnyTime Touchdown Scorer":0.18518518518518517,
+       "ToScore 2+ Touchdowns":0.013157894736842105
+    },
+    "MiamiD/ST":{
+       "AnyTime Touchdown Scorer":0.1724137931034483,
+       "ToScore 2+ Touchdowns":0.015151515151515152
+    },
+    "MacJones":{
+       "AnyTime Touchdown Scorer":0.16666666666666666,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "PlayerPassing TDs":1.4975579975579976,
+       "PlayerPassing Yds":238.1214953271028,
+       "position":"QB",
+       "salary":4400
+    },
+    "GunnerOlszewski":{
+       "AnyTime Touchdown Scorer":0.15384615384615385,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4600
+    },
+    "JakeemGrant":{
+       "AnyTime Touchdown Scorer":0.14285714285714285,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "AlbertWilson":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "DurhamSmythe":{
+       "AnyTime Touchdown Scorer":0.13333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4600
+    },
+    "PrestonWiliams":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901
+    },
+    "MackHollins":{
+       "AnyTime Touchdown Scorer":0.11764705882352941,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"WR",
+       "salary":4500
+    },
+    "SalvonAhmed":{
+       "AnyTime Touchdown Scorer":0.09090909090909091,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"RB",
+       "salary":5100
+    },
+    "HunterLong":{
+       "AnyTime Touchdown Scorer":0.08333333333333333,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4000
+    },
+    "DevinAsiasi":{
+       "AnyTime Touchdown Scorer":0.07142857142857142,
+       "ToScore 2+ Touchdowns":0.009900990099009901,
+       "position":"TE",
+       "salary":4200
+    },
+    "BrandonBolden":{
+       "AnyTime Touchdown Scorer":0.06666666666666667,
+       "position":"RB",
+       "salary":4500
+    },
+    "JakobJohnson":{
+       "AnyTime Touchdown Scorer":0.05555555555555555,
+       "position":"RB",
+       "salary":4500
+    }
+ }
