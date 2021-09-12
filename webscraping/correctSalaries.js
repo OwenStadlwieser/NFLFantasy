@@ -8,7 +8,7 @@ import AdblockerPlugin  from 'puppeteer-extra-plugin-adblocker'
 
 
 (async () => {
-    let rawdata = fs.readFileSync('nflWeek1WithSalariesAndPoints.json');
+    let rawdata = fs.readFileSync('json/nflWeek1WithSalariesAndPoints.json');
     let players = JSON.parse(rawdata);
     puppeteer.use(AdblockerPlugin())
     puppeteer.use(StealthPlugin())
@@ -44,7 +44,7 @@ import AdblockerPlugin  from 'puppeteer-extra-plugin-adblocker'
             } 
         }
     }   
-    fs.writeFile("nflWeek1WithCorrectSalariesAndPoints.json", JSON.stringify(players), function(err) {
+    fs.writeFile("json/nflWeek1WithCorrectSalariesAndPoints.json", JSON.stringify(players), function(err) {
         if (err) {
             console.log(err);
         }

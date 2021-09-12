@@ -5,7 +5,7 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth'
 import fs, { stat } from 'fs'
 
 (async () => {
-    let rawdata = fs.readFileSync('nflWeek1.json');
+    let rawdata = fs.readFileSync('json/nflWeek1BearsVsRams.json');
     let players = JSON.parse(rawdata);
     console.log(players);
     puppeteer.use(StealthPlugin())
@@ -57,7 +57,7 @@ import fs, { stat } from 'fs'
             // }
         }
     }
-    fs.writeFile("nflWeek1WithSalaries.json", JSON.stringify(players), function(err) {
+    fs.writeFile("json/nflWeek1WithSalariesChiLa.json", JSON.stringify(players), function(err) {
         if (err) {
             console.log(err);
         }

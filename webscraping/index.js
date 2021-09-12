@@ -209,7 +209,7 @@ async function calculateExpectedValues(page, selector) {
   // for (let i = 0; i < games.length; i++) {
   //   await games[i].click()
   // }
-  fs.writeFile("nflWeek1.json", JSON.stringify(allPlayers), function(err) {
+  fs.writeFile("json/nflWeek1.json", JSON.stringify(allPlayers), function(err) {
     if (err) {
         console.log(err);
     }

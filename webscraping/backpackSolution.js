@@ -27,14 +27,14 @@ function compare( a, b ) {
         for (let j = 0; j < runningBacks.length; j++)  {
             console.log(rbCount)
             rbCount++
-            for (let k = 0; k < runningBacks.length; k++)  {
+            for (let k = j; k < runningBacks.length; k++)  {
                 if ( k === j ) { 
                     continue
                 }
                 for (let l = 0; l < wideRecievers.length; l++)  {
-                    for (let m = 0; m <wideRecievers.length; m++)  {
+                    for (let m = l; m <wideRecievers.length; m++)  {
                         if(l === m) continue
-                        for (let q = 0; q < wideRecievers.length; q++)  {
+                        for (let q = m; q < wideRecievers.length; q++)  {
                             if( q === l || m === q) continue
                             for (let r = 0; r < tightEnds.length; r++)  {
                                 for (let s = 0; s < flex.length; s++)  {
@@ -58,6 +58,7 @@ function compare( a, b ) {
                                             }
 
                                             for(let i = 0; i < returnObject.length + 1; i++) {
+                                                
                                                 if(!returnObject[i]){ 
                                                     returnObject.push({ score, lineup }) 
                                                     break
@@ -81,7 +82,7 @@ function compare( a, b ) {
 }
 
 (async () => {
-        let rawdata = fs.readFileSync('nflWeek1WithCorrectSalariesAndPoints.json');
+        let rawdata = fs.readFileSync('json/nflWeek1WithCorrectSalariesAndPoints.json');
         let players = JSON.parse(rawdata);
         let quarterBacks = []
         let runningBacks = []
@@ -110,11 +111,11 @@ function compare( a, b ) {
         wideRecievers.sort(compare)
         tightEnds.sort(compare)
         quarterBacks = quarterBacks.slice(0, 12)
-        runningBacks = runningBacks.slice(0, 15)
-        wideRecievers = wideRecievers.slice(0,25)
+        runningBacks = runningBacks.slice(0, 25)
+        wideRecievers = wideRecievers.slice(0,30)
         tightEnds = tightEnds.slice(0,15)
         let prefferedLineups = knapSack(quarterBacks, runningBacks, wideRecievers, tightEnds)
-        fs.writeFile("prefferedLineupsWeek1.json", JSON.stringify(prefferedLineups), function(err) {
+        fs.writeFile("json/prefferedLineupsWeek1.json", JSON.stringify(prefferedLineups), function(err) {
             if (err) {
                 console.log(err);
             }
