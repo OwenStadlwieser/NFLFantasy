@@ -1,0 +1,130 @@
+{
+    "WashingtonFootballTeam":{
+        "salary":3900 ,
+        "points":8.2
+    },
+    "NewOrleansSaints":{
+        "salary": 3100,
+        "points":8
+    },
+    "TampaBayBuccaneers":{
+        "salary": 4100,
+        "points":7.7
+    },
+    "ClevelandBrowns":{
+        "salary": 3500,
+        "points":7.6
+    },
+    "NewEnglandPatriots":{
+        "salary": 3700,
+        "points":7.5
+    },
+    "DenverBroncos":{
+        "salary": 3800,
+        "points":7.5
+    },
+    "GreenBayPackers":{
+        "salary": 2900,
+        "points":7.2
+    },
+    "LosAngelesRams":{
+        "salary": 4500,
+        "points":7
+    },
+    "SanFrancisco49ers":{
+        "salary": 3600,
+        "points":6.9
+    },
+    "NewYorkGiants":{
+        "salary": 3200,
+        "points":6.8
+    },
+    "PhiladelphiaEagles":{
+        "salary": 2400,
+        "points":6.7
+    },
+    "CarolinaPanthers":{
+        "salary": 2700,
+        "points":6.5
+    },
+    "ChicagoBears":{
+        "salary": 2800,
+        "points":6.5
+    },
+    "ArizonaCardinals":{
+        "salary": 2900,
+        "points":6.5
+    },
+    "PittsburghSteelers":{
+        "salary": 3000,
+        "points":6.4
+    },
+    "BuffaloBills":{
+        "salary": 3300,
+        "points":6.2
+    },
+    "KansasCityChiefs":{
+        "salary": 3200,
+        "points":6.1
+    },
+    "MinnesotaVikings":{
+        "salary": 2100,
+        "points":6.1
+    },
+    "IndianapolisColts":{
+        "salary": 2500,
+        "points":6.1
+    },
+    "TennesseeTitans":{
+        "salary": 2200,
+        "points":6.1
+    },
+    "MiamiDolphins":{
+        "salary": 2500,
+        "points":6
+    },
+    "CincinnatiBengals":{
+        "salary": 2900,
+        "points":5.9
+    },
+    "LosAngelesChargers":{
+        "salary": 2600,
+        "points":5.7
+    },
+    "DallasCowboys":{
+        "salary": 2400,
+        "points":5.7
+    },
+    "SeattleSeahawks":{
+        "salary": 3000,
+        "points":5.6
+    },
+    "NewYorkJets":{
+        "salary": 2200,
+        "points":5.6
+    },
+    "JacksonvilleJaguars":{
+        "salary": 2300,
+        "points":5.5
+    },
+    "BaltimoreRavens":{
+        "salary": 3100,
+        "points":5.1
+    },
+    "HoustonTexans":{
+        "salary": 2000,
+        "points":5.1
+    },
+    "AtlantaFalcons":{
+        "salary": 2100,
+        "points":4.9
+    },
+    "LasVegasRaiders":{
+        "salary": 2800,
+        "points":4.9
+    },
+    "DetroitLions":{
+        "salary": 2700,
+        "points":4.5
+    }
+ }

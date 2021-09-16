@@ -7,31 +7,43 @@ function calculatePlayerPoints(player) {
     let touchdown1 = player['AnyTime Touchdown Scorer'] ? player['AnyTime Touchdown Scorer'] : 0
     let touchdown2 = player['ToScore 2+ Touchdowns'] ? player['ToScore 2+ Touchdowns'] : 0
     let passingTds = player['PlayerPassing TDs'] ? player['PlayerPassing TDs'] : 0
-    let totalPoints = ( passingYards * 0.04 + rushingYards * 0.1 +
-        passingTds * 4  + receivingYards * 0.1 + touchdown1 * 6 + touchdown2 * 8)
-    if(receivingYards > 100) totalPoints = totalPoints + 3
-    if(rushingYards > 100) totalPoints = totalPoints + 3
-    if(passingYards > 300) totalPoints = totalPoints + 3
+    let totalPoints = (passingYards * 0.04 + rushingYards * 0.1 +
+        passingTds * 4 + receivingYards * 0.1 + touchdown1 * 6 + touchdown2 * 8)
+    if (receivingYards > 100) totalPoints = totalPoints + 3
+    if (rushingYards > 100) totalPoints = totalPoints + 3
+    if (passingYards > 300) totalPoints = totalPoints + 3
     return totalPoints
 
 }
 
 (async () => {
-        let rawdata = fs.readFileSync('json/nflWeek1WithCorrectSalaries.json');
-        let players = JSON.parse(rawdata);
-        for (let key in players) {
-            let player = players[key]
-            if(player.salary && player.salary > 0) {
-                let totalPoints = calculatePlayerPoints(player)
-                player.totalPoints = totalPoints
-                player.ratio = player.totalPoints / player.salary
-            }
+    let rawdata = fs.readFileSync('json/nflWeek2WithProjectedPoints.json');
+    let defenseRawData = fs.readFileSync('json/nflWeek2Defenses.json')
+    let players = JSON.parse(rawdata);
+    let defenses = JSON.parse(defenseRawData);
+    for (let key in defenses) {
+        let defense = defenses[key]
+        if (defense.salary && defense.salary > 0) {
+            defense.ratio = defense.points / defense.salary
         }
-        fs.writeFile("json/nflWeek1WithCorrectSalariesAndPoints.json", JSON.stringify(players), function(err) {
-            if (err) {
-                console.log(err);
-            }
-          });
-          console.log('done')
     }
+    for (let key in players) {
+        let player = players[key]
+        player.points = player.Points
+        if (player.salary && player.salary > 0) {
+            player.ratio = player.points / player.salary
+        }
+    }
+    fs.writeFile("json/nflWeek2WithCorrectSalariesAndPoints.json", JSON.stringify(players), function (err) {
+        if (err) {
+            console.log(err);
+        }
+    });
+    fs.writeFile("json/nflWeek2DefensesWithCorrectSalariesAndPoints.json", JSON.stringify(defenses), function (err) {
+        if (err) {
+            console.log(err);
+        }
+    });
+    console.log('done')
+}
 )()
