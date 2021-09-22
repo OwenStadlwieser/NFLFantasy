@@ -1,0 +1,130 @@
+{
+    "DenverBroncos": {
+        "points": 8.2,
+        "salary": 4300
+    },
+    "NewEnglandPatriots": {
+        "points": 8.1,
+        "salary": 4100
+    },
+    "PittsburghSteelers": {
+        "points": 8,
+        "salary": 3900
+    },
+    "BuffaloBills": {
+        "points": 7.8,
+        "salary": 3800
+    },
+    "CarolinaPanthers": {
+        "points": 7.8,
+        "salary": 3300
+    },
+    "ClevelandBrowns": {
+        "points": 7.7,
+        "salary": 3200
+    },
+    "BaltimoreRavens": {
+        "points": 7.1,
+        "salary": 3600
+    },
+    "ArizonaCardinals": {
+        "points": 6.9,
+        "salary": 3000
+    },
+    "MinnesotaVikings": {
+        "points": 6.5,
+        "salary": 2900
+    },
+    "DallasCowboys": {
+        "points": 6.3,
+        "salary": 3200
+    },
+    "AtlantaFalcons": {
+        "points": 6.2,
+        "salary": 2500
+    },
+    "TennesseeTitans": {
+        "points": 6.2,
+        "salary": 2400
+    },
+    "GreenBayPackers": {
+        "points": 6.2,
+        "salary": 3100
+    },
+    "TampaBayBuccaneers": {
+        "points": 6.2,
+        "salary": 3700
+    },
+    "WashingtonFootballTeam": {
+        "points": 6.1,
+        "salary": 2600
+    },
+    "LasVegasRaiders": {
+        "points": 6.1,
+        "salary": 3400
+    },
+    "LosAngelesRams": {
+        "points": 6,
+        "salary": 3500
+    },
+    "NewYorkGiants": {
+        "points": 6,
+        "salary": 3300
+    },
+    "KansasCityChiefs": {
+        "points": 6,
+        "salary": 3100
+    },
+    "SeattleSeahawks": {
+        "points": 6,
+        "salary": 2800
+    },
+    "PhiladelphiaEagles": {
+        "points": 5.9,
+        "salary": 2900
+    },
+    "NewOrleansSaints": {
+        "points": 5.9,
+        "salary": 3100
+    },
+    "ChicagoBears": {
+        "points": 5.9,
+        "salary": 3000
+    },
+    "MiamiDolphins": {
+        "points": 5.8,
+        "salary": 2700
+    },
+    "HoustonTexans": {
+        "points": 5.7,
+        "salary": 2300
+    },
+    "IndianapolisColts": {
+        "points": 5.7,
+        "salary": 2700
+    },
+    "DetroitLions": {
+        "points": 5.7,
+        "salary": 2000
+    },
+    "NewYorkJets": {
+        "points": 5.5,
+        "salary": 2200
+    },
+    "JacksonvilleJaguars": {
+        "points": 5.4,
+        "salary": 2000
+    },
+    "SanFrancisco49ers": {
+        "points": 5.2,
+        "salary": 3000
+    },
+    "CincinnatiBengals": {
+        "points": 5,
+        "salary": 2100
+    },
+    "LosAngelesChargers": {
+        "points": 4.5,
+        "salary": 2300
+    }
+}

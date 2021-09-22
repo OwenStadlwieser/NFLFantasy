@@ -1,0 +1,6704 @@
+{
+    "NickFoles": {
+        "position": "QB",
+        "team": "CHI",
+        "salary": 5000
+    },
+    "JacobyBrissett": {
+        "position": "QB",
+        "team": "MIA",
+        "salary": 4900
+    },
+    "NickMullens": {
+        "position": "QB",
+        "team": "CLE",
+        "salary": 4900
+    },
+    "DwayneHaskins": {
+        "position": "QB",
+        "team": "PIT",
+        "salary": 4700
+    },
+    "CaseKeenum": {
+        "position": "QB",
+        "team": "CLE",
+        "salary": 5100
+    },
+    "DerekCarr": {
+        "position": "QB",
+        "team": "LV",
+        "salary": 5900,
+        "Pass Cmp": 23.7,
+        "Pass Att": 35.6,
+        "Pass Yds": 268,
+        "Pass Tds": 1.9,
+        "Pass Ints": 0.7,
+        "Rush Att": 2.6,
+        "Rush Yds": 8.3,
+        "Rush Tds": 0.2,
+        "Fumbles": 0.3,
+        "Points": 18.9
+    },
+    "DavidBlough": {
+        "position": "QB",
+        "team": "DET",
+        "salary": 4600
+    },
+    "CarsonWentz": {
+        "position": "QB",
+        "team": "IND",
+        "salary": 5700,
+        "Pass Cmp": 21.7,
+        "Pass Att": 33.3,
+        "Pass Yds": 243.9,
+        "Pass Tds": 1.5,
+        "Pass Ints": 0.7,
+        "Rush Att": 3.9,
+        "Rush Yds": 17.2,
+        "Rush Tds": 0.2,
+        "Fumbles": 0.3,
+        "Points": 17.2
+    },
+    "DanielJones": {
+        "position": "QB",
+        "team": "NYG",
+        "salary": 5800,
+        "Pass Cmp": 21.1,
+        "Pass Att": 33.5,
+        "Pass Yds": 246,
+        "Pass Tds": 1.7,
+        "Pass Ints": 0.7,
+        "Rush Att": 5.1,
+        "Rush Yds": 30.6,
+        "Rush Tds": 0.2,
+        "Fumbles": 0.3,
+        "Points": 19.8
+    },
+    "TeddyBridgewater": {
+        "position": "QB",
+        "team": "DEN",
+        "salary": 5800,
+        "Pass Cmp": 21.3,
+        "Pass Att": 32.6,
+        "Pass Yds": 248.6,
+        "Pass Tds": 1.8,
+        "Pass Ints": 0.6,
+        "Rush Att": 3.9,
+        "Rush Yds": 13.7,
+        "Rush Tds": 0.2,
+        "Fumbles": 0.2,
+        "Points": 18.5
+    },
+    "MasonRudolph": {
+        "position": "QB",
+        "team": "PIT",
+        "salary": 4800
+    },
+    "LamarJackson": {
+        "position": "QB",
+        "team": "BAL",
+        "salary": 7800,
+        "Pass Cmp": 17.3,
+        "Pass Att": 27.1,
+        "Pass Yds": 214.9,
+        "Pass Tds": 1.8,
+        "Pass Ints": 0.6,
+        "Rush Att": 10.1,
+        "Rush Yds": 62,
+        "Rush Tds": 0.6,
+        "Fumbles": 0.4,
+        "Points": 23.9
+    },
+    "JustinFields": {
+        "position": "QB",
+        "team": "CHI",
+        "salary": 5200,
+        "Pass Cmp": 0.9,
+        "Pass Att": 1.4,
+        "Pass Yds": 10.5,
+        "Pass Tds": 0.1,
+        "Pass Ints": 0,
+        "Rush Att": 1.5,
+        "Rush Yds": 5.9,
+        "Rush Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.6
+    },
+    "JaredGoff": {
+        "position": "QB",
+        "team": "DET",
+        "salary": 5200,
+        "Pass Cmp": 24.8,
+        "Pass Att": 38.2,
+        "Pass Yds": 278.5,
+        "Pass Tds": 1.4,
+        "Pass Ints": 0.8,
+        "Rush Att": 2.6,
+        "Rush Yds": 5.7,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 16.8
+    },
+    "TylerHuntley": {
+        "position": "QB",
+        "team": "BAL",
+        "salary": 4700
+    },
+    "RussellWilson": {
+        "position": "QB",
+        "team": "SEA",
+        "salary": 7600,
+        "Pass Cmp": 22.2,
+        "Pass Att": 33.9,
+        "Pass Yds": 277.4,
+        "Pass Tds": 2.1,
+        "Pass Ints": 0.5,
+        "Rush Att": 4.7,
+        "Rush Yds": 25.2,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 21.8
+    },
+    "KirkCousins": {
+        "position": "QB",
+        "team": "MIN",
+        "salary": 6300,
+        "Pass Cmp": 23,
+        "Pass Att": 33.8,
+        "Pass Yds": 258.8,
+        "Pass Tds": 1.9,
+        "Pass Ints": 0.6,
+        "Rush Att": 2.1,
+        "Rush Yds": 7,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.3,
+        "Points": 17.9
+    },
+    "MarcusMariota": {
+        "position": "QB",
+        "team": "LV",
+        "salary": 4900
+    },
+    "KylerMurray": {
+        "position": "QB",
+        "team": "ARI",
+        "salary": 8300,
+        "Pass Cmp": 22,
+        "Pass Att": 33.8,
+        "Pass Yds": 257,
+        "Pass Tds": 2.3,
+        "Pass Ints": 0.8,
+        "Rush Att": 7.4,
+        "Rush Yds": 42.7,
+        "Rush Tds": 0.5,
+        "Fumbles": 0.2,
+        "Points": 25.4
+    },
+    "BrianHoyer": {
+        "position": "QB",
+        "team": "NE",
+        "salary": 4000
+    },
+    "ChadHenne": {
+        "position": "QB",
+        "team": "KC",
+        "salary": 4000
+    },
+    "JoshJohnson": {
+        "position": "RB",
+        "team": "SEA",
+        "salary": 4000
+    },
+    "ChaseDaniel": {
+        "position": "QB",
+        "team": "LAC",
+        "salary": 4000
+    },
+    "ColtMcCoy": {
+        "position": "QB",
+        "team": "ARI",
+        "salary": 4000
+    },
+    "AndyDalton": {
+        "position": "QB",
+        "team": "CHI",
+        "salary": 5200,
+        "Pass Cmp": 22.2,
+        "Pass Att": 34.7,
+        "Pass Yds": 237.2,
+        "Pass Tds": 1.2,
+        "Pass Ints": 0.9,
+        "Rush Att": 2.4,
+        "Rush Yds": 9.8,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 14.6
+    },
+    "MatthewStafford": {
+        "position": "QB",
+        "team": "LAR",
+        "salary": 6400,
+        "Pass Cmp": 25.2,
+        "Pass Att": 38.2,
+        "Pass Yds": 290.1,
+        "Pass Tds": 1.9,
+        "Pass Ints": 0.8,
+        "Rush Att": 2.4,
+        "Rush Yds": 7.1,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 19.1
+    },
+    "MikeGlennon": {
+        "position": "QB",
+        "team": "NYG",
+        "salary": 4000
+    },
+    "RyanGriffin": {
+        "position": "TE",
+        "team": "NYJ",
+        "salary": 2600,
+        "Recs": 1.2,
+        "Rec Yds": 12,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "MattBarkley": {
+        "position": "QB",
+        "team": "TEN",
+        "salary": 4000
+    },
+    "GenoSmith": {
+        "position": "QB",
+        "team": "SEA",
+        "salary": 4300
+    },
+    "TrevorSiemian": {
+        "position": "QB",
+        "team": "NO",
+        "salary": 4000
+    },
+    "TaylorHeinicke": {
+        "position": "QB",
+        "team": "WAS",
+        "salary": 5600,
+        "Pass Cmp": 24.5,
+        "Pass Att": 37.6,
+        "Pass Yds": 256.6,
+        "Pass Tds": 1.2,
+        "Pass Ints": 0.9,
+        "Rush Att": 2.9,
+        "Rush Yds": 13.8,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 15.9
+    },
+    "BrandonAllen": {
+        "position": "QB",
+        "team": "CIN",
+        "salary": 4000
+    },
+    "NathanPeterman": {
+        "position": "QB",
+        "team": "LV",
+        "salary": 4000
+    },
+    "CJBeathard": {
+        "position": "QB",
+        "team": "JAC",
+        "salary": 4000
+    },
+    "DannyEtling": {
+        "position": "QB",
+        "team": "MIN",
+        "salary": 4100
+    },
+    "LoganWoodside": {
+        "position": "QB",
+        "team": "TEN",
+        "salary": 4000
+    },
+    "DavisWebb": {
+        "position": "QB",
+        "team": "BUF",
+        "salary": 4000
+    },
+    "TimBoyle": {
+        "position": "QB",
+        "team": "DET",
+        "salary": 4000
+    },
+    "MikeWhite": {
+        "position": "QB",
+        "team": "NYJ",
+        "salary": 4000
+    },
+    "BakerMayfield": {
+        "position": "QB",
+        "team": "CLE",
+        "salary": 6000,
+        "Pass Cmp": 19,
+        "Pass Att": 29.5,
+        "Pass Yds": 226.2,
+        "Pass Tds": 1.5,
+        "Pass Ints": 0.8,
+        "Rush Att": 3.6,
+        "Rush Yds": 12.5,
+        "Rush Tds": 0.2,
+        "Fumbles": 0.2,
+        "Points": 16.3
+    },
+    "JakeLuton": {
+        "position": "QB",
+        "team": "SEA",
+        "salary": 4600
+    },
+    "KyleAllen": {
+        "position": "QB",
+        "team": "WAS",
+        "salary": 4800
+    },
+    "AlexMcGough": {
+        "position": "QB",
+        "team": "SEA",
+        "salary": 4000
+    },
+    "EastonStick": {
+        "position": "QB",
+        "team": "LAC",
+        "salary": 4000
+    },
+    "TraceMcSorley": {
+        "position": "QB",
+        "team": "BAL",
+        "salary": 4000
+    },
+    "JohnWolford": {
+        "position": "QB",
+        "team": "LAR",
+        "salary": 4100
+    },
+    "DevlinHodges": {
+        "position": "QB",
+        "team": "LAR",
+        "salary": 4000
+    },
+    "BrycePerkins": {
+        "position": "QB",
+        "team": "LAR",
+        "salary": 4000
+    },
+    "BrettRypien": {
+        "position": "QB",
+        "team": "DEN",
+        "salary": 4000
+    },
+    "StevenMontez": {
+        "position": "QB",
+        "team": "DET",
+        "salary": 4000
+    },
+    "ReidSinnett": {
+        "position": "QB",
+        "team": "MIA",
+        "salary": 4000
+    },
+    "CaseCookus": {
+        "position": "QB",
+        "team": "LV",
+        "salary": 4000
+    },
+    "KyleTrask": {
+        "position": "QB",
+        "team": "TB",
+        "salary": 4000
+    },
+    "ShaneBuechele": {
+        "position": "QB",
+        "team": "KC",
+        "salary": 4000
+    },
+    "JalenMorton": {
+        "position": "QB",
+        "team": "IND",
+        "salary": 4000
+    },
+    "JacobEason": {
+        "position": "QB",
+        "team": "IND",
+        "salary": 4000
+    },
+    "KJCostello": {
+        "position": "QB",
+        "team": "LAC",
+        "salary": 4000
+    },
+    "NateStanley": {
+        "position": "QB",
+        "team": "MIN",
+        "salary": 4000
+    },
+    "IanBook": {
+        "position": "QB",
+        "team": "NO",
+        "salary": 4000
+    },
+    "KellenMond": {
+        "position": "QB",
+        "team": "MIN",
+        "salary": 4000
+    },
+    "JakeFromm": {
+        "position": "QB",
+        "team": "BUF",
+        "salary": 4000
+    },
+    "SamEhlinger": {
+        "position": "QB",
+        "team": "IND",
+        "salary": 4000
+    },
+    "ZachWilson": {
+        "position": "QB",
+        "team": "NYJ",
+        "salary": 5000,
+        "Pass Cmp": 21.2,
+        "Pass Att": 33.9,
+        "Pass Yds": 235.7,
+        "Pass Tds": 0.9,
+        "Pass Ints": 1,
+        "Rush Att": 2.3,
+        "Rush Yds": 9.7,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 13
+    },
+    "TomBrady": {
+        "position": "QB",
+        "team": "TB",
+        "salary": 6800,
+        "Pass Cmp": 26.6,
+        "Pass Att": 41.6,
+        "Pass Yds": 295.1,
+        "Pass Tds": 2.2,
+        "Pass Ints": 0.8,
+        "Rush Att": 1.6,
+        "Rush Yds": 1.4,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 20.4
+    },
+    "RyanTannehill": {
+        "position": "QB",
+        "team": "TEN",
+        "salary": 6200,
+        "Pass Cmp": 19.2,
+        "Pass Att": 29.5,
+        "Pass Yds": 239.2,
+        "Pass Tds": 1.6,
+        "Pass Ints": 0.6,
+        "Rush Att": 3,
+        "Rush Yds": 13.5,
+        "Rush Tds": 0.2,
+        "Fumbles": 0.3,
+        "Points": 17.3
+    },
+    "BlaineGabbert": {
+        "position": "QB",
+        "team": "TB",
+        "salary": 4000
+    },
+    "TaysomHill": {
+        "position": "QB",
+        "team": "NO",
+        "salary": 4600,
+        "Pass Cmp": 0.6,
+        "Pass Att": 0.9,
+        "Pass Yds": 6.6,
+        "Pass Tds": 0.1,
+        "Pass Ints": 0,
+        "Rush Att": 2.7,
+        "Rush Yds": 14.1,
+        "Rush Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.6
+    },
+    "SeanMannion": {
+        "position": "QB",
+        "team": "MIN",
+        "salary": 4200
+    },
+    "PatrickMahomesII": {
+        "position": "QB",
+        "team": "KC",
+        "salary": 8200,
+        "Pass Cmp": 23.3,
+        "Pass Att": 35.1,
+        "Pass Yds": 285.4,
+        "Pass Tds": 2.4,
+        "Pass Ints": 0.5,
+        "Rush Att": 4.2,
+        "Rush Yds": 20,
+        "Rush Tds": 0.3,
+        "Fumbles": 0.2,
+        "Points": 23.6
+    },
+    "JoshRosen": {
+        "position": "QB",
+        "team": "ATL",
+        "salary": 4000
+    },
+    "DrewLock": {
+        "position": "QB",
+        "team": "DEN",
+        "salary": 4700
+    },
+    "MattRyan": {
+        "position": "QB",
+        "team": "ATL",
+        "salary": 5400,
+        "Pass Cmp": 25.5,
+        "Pass Att": 38.3,
+        "Pass Yds": 270.3,
+        "Pass Tds": 1.5,
+        "Pass Ints": 0.9,
+        "Rush Att": 2.1,
+        "Rush Yds": 8.4,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.3,
+        "Points": 16.7
+    },
+    "BenRoethlisberger": {
+        "position": "QB",
+        "team": "PIT",
+        "salary": 5700,
+        "Pass Cmp": 25,
+        "Pass Att": 38.7,
+        "Pass Yds": 275.8,
+        "Pass Tds": 1.7,
+        "Pass Ints": 0.8,
+        "Rush Att": 2,
+        "Rush Yds": 4.8,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.3,
+        "Points": 17.7
+    },
+    "JoshAllen": {
+        "position": "QB",
+        "team": "BUF",
+        "salary": 7000,
+        "Pass Cmp": 23.5,
+        "Pass Att": 37.5,
+        "Pass Yds": 263.8,
+        "Pass Tds": 1.7,
+        "Pass Ints": 0.7,
+        "Rush Att": 6.7,
+        "Rush Yds": 33.1,
+        "Rush Tds": 0.5,
+        "Fumbles": 0.4,
+        "Points": 22.2
+    },
+    "JustinHerbert": {
+        "position": "QB",
+        "team": "LAC",
+        "salary": 6500,
+        "Pass Cmp": 25.6,
+        "Pass Att": 38.4,
+        "Pass Yds": 296.1,
+        "Pass Tds": 1.9,
+        "Pass Ints": 0.8,
+        "Rush Att": 3.3,
+        "Rush Yds": 14.2,
+        "Rush Tds": 0.2,
+        "Fumbles": 0.3,
+        "Points": 20.9
+    },
+    "TuaTagovailoa": {
+        "position": "QB",
+        "team": "MIA",
+        "salary": 5300,
+        "Pass Cmp": 25,
+        "Pass Att": 38.7,
+        "Pass Yds": 276.3,
+        "Pass Tds": 1.3,
+        "Pass Ints": 0.8,
+        "Rush Att": 3.3,
+        "Rush Yds": 12.1,
+        "Rush Tds": 0.2,
+        "Fumbles": 0.2,
+        "Points": 17.4
+    },
+    "JoeBurrow": {
+        "position": "QB",
+        "team": "CIN",
+        "salary": 5500,
+        "Pass Cmp": 24.4,
+        "Pass Att": 37.5,
+        "Pass Yds": 261.5,
+        "Pass Tds": 1.2,
+        "Pass Ints": 0.8,
+        "Rush Att": 2.5,
+        "Rush Yds": 10.3,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 15.8
+    },
+    "MacJones": {
+        "position": "QB",
+        "team": "NE",
+        "salary": 5100,
+        "Pass Cmp": 23.4,
+        "Pass Att": 35,
+        "Pass Yds": 248.2,
+        "Pass Tds": 1,
+        "Pass Ints": 0.7,
+        "Rush Att": 1.9,
+        "Rush Yds": 6.1,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.3,
+        "Points": 13.8
+    },
+    "MitchellTrubisky": {
+        "position": "QB",
+        "team": "BUF",
+        "salary": 4600
+    },
+    "JarrettStidham": {
+        "position": "QB",
+        "team": "NE",
+        "salary": 4000
+    },
+    "TrevorLawrence": {
+        "position": "QB",
+        "team": "JAC",
+        "salary": 5500,
+        "Pass Cmp": 24.3,
+        "Pass Att": 38.9,
+        "Pass Yds": 275,
+        "Pass Tds": 1.6,
+        "Pass Ints": 1,
+        "Rush Att": 2.6,
+        "Rush Yds": 11.3,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 17.3
+    },
+    "JameisWinston": {
+        "position": "QB",
+        "team": "NO",
+        "salary": 5600,
+        "Pass Cmp": 19.3,
+        "Pass Att": 29.8,
+        "Pass Yds": 218,
+        "Pass Tds": 1.4,
+        "Pass Ints": 1,
+        "Rush Att": 3.8,
+        "Rush Yds": 17.3,
+        "Rush Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 15.1
+    },
+    "RyanFitzpatrick": {
+        "position": "QB",
+        "team": "WAS",
+        "salary": 4700
+    },
+    "CamNewton": {
+        "position": "QB",
+        "team": "NE",
+        "salary": 4000
+    },
+    "AlexanderMattison": {
+        "position": "RB",
+        "team": "MIN",
+        "salary": 6000,
+        "Rush Att": 3.3,
+        "Rush Yds": 14.1,
+        "Rush Tds": 0.1,
+        "Recs": 0.8,
+        "Rec Yds": 6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 2.7
+    },
+    "CordarrellePatterson": {
+        "position": "RB",
+        "team": "ATL",
+        "salary": 4600,
+        "Rush Att": 8.6,
+        "Rush Yds": 40.3,
+        "Rush Tds": 0.2,
+        "Recs": 2.5,
+        "Rec Yds": 21.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 8.1
+    },
+    "ChaseEdmonds": {
+        "position": "RB",
+        "team": "ARI",
+        "salary": 5700,
+        "Rush Att": 12,
+        "Rush Yds": 53.8,
+        "Rush Tds": 0.3,
+        "Recs": 3.3,
+        "Rec Yds": 25.5,
+        "Rec Tds": 0.2,
+        "Fumbles": 0.1,
+        "Points": 10.9
+    },
+    "TySonWilliams": {
+        "position": "RB",
+        "team": "BAL",
+        "salary": 5800,
+        "Rush Att": 10.9,
+        "Rush Yds": 51.8,
+        "Rush Tds": 0.5,
+        "Recs": 1.8,
+        "Rec Yds": 14.8,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 10.1
+    },
+    "KenyanDrake": {
+        "position": "RB",
+        "team": "LV",
+        "salary": 5500,
+        "Rush Att": 7.7,
+        "Rush Yds": 33.7,
+        "Rush Tds": 0.3,
+        "Recs": 3.2,
+        "Rec Yds": 24.3,
+        "Rec Tds": 0.2,
+        "Fumbles": 0.1,
+        "Points": 8.5
+    },
+    "JamesConner": {
+        "position": "RB",
+        "team": "ARI",
+        "salary": 5000,
+        "Rush Att": 11.7,
+        "Rush Yds": 49.4,
+        "Rush Tds": 0.4,
+        "Recs": 0.5,
+        "Rec Yds": 4.1,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 8
+    },
+    "JavonteWilliams": {
+        "position": "RB",
+        "team": "DEN",
+        "salary": 4900,
+        "Rush Att": 12.3,
+        "Rush Yds": 51.8,
+        "Rush Tds": 0.3,
+        "Recs": 1,
+        "Rec Yds": 7.5,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 7.7
+    },
+    "LataviusMurray": {
+        "position": "RB",
+        "team": "BAL",
+        "salary": 5300,
+        "Rush Att": 9.3,
+        "Rush Yds": 42.4,
+        "Rush Tds": 0.4,
+        "Recs": 0.4,
+        "Rec Yds": 3.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 7.1
+    },
+    "DemetricFelton": {
+        "position": "RB",
+        "team": "CLE",
+        "salary": 4500
+    },
+    "MichaelCarter": {
+        "position": "RB",
+        "team": "NYJ",
+        "salary": 4600,
+        "Rush Att": 8.5,
+        "Rush Yds": 34.9,
+        "Rush Tds": 0.2,
+        "Recs": 1.8,
+        "Rec Yds": 13,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 6.2
+    },
+    "MalcolmBrown": {
+        "position": "RB",
+        "team": "MIA",
+        "salary": 4400,
+        "Rush Att": 4.5,
+        "Rush Yds": 18.9,
+        "Rush Tds": 0.2,
+        "Recs": 0.3,
+        "Rec Yds": 2.1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 3.1
+    },
+    "JDMcKissic": {
+        "position": "RB",
+        "team": "WAS",
+        "salary": 5200,
+        "Rush Att": 4.4,
+        "Rush Yds": 18.9,
+        "Rush Tds": 0.1,
+        "Recs": 3.5,
+        "Rec Yds": 26.3,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 5.7
+    },
+    "JamesWhite": {
+        "position": "RB",
+        "team": "NE",
+        "salary": 4900,
+        "Rush Att": 4.1,
+        "Rush Yds": 16.1,
+        "Rush Tds": 0.2,
+        "Recs": 4.2,
+        "Rec Yds": 33.6,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 6.8
+    },
+    "DerrickHenry": {
+        "position": "RB",
+        "team": "TEN",
+        "salary": 8600,
+        "Rush Att": 24.1,
+        "Rush Yds": 110.4,
+        "Rush Tds": 1,
+        "Recs": 1.8,
+        "Rec Yds": 13.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 18.3
+    },
+    "PeytonBarber": {
+        "position": "RB",
+        "team": "LV",
+        "salary": 4300
+    },
+    "ChrisCarson": {
+        "position": "RB",
+        "team": "SEA",
+        "salary": 6400,
+        "Rush Att": 16.3,
+        "Rush Yds": 72,
+        "Rush Tds": 0.7,
+        "Recs": 2.6,
+        "Rec Yds": 20.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 14.1
+    },
+    "NajeeHarris": {
+        "position": "RB",
+        "team": "PIT",
+        "salary": 6600,
+        "Rush Att": 17.4,
+        "Rush Yds": 74.5,
+        "Rush Tds": 0.6,
+        "Recs": 3.3,
+        "Rec Yds": 24.3,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 14.2
+    },
+    "JeremyMcNichols": {
+        "position": "RB",
+        "team": "TEN",
+        "salary": 4800,
+        "Rush Att": 4.2,
+        "Rush Yds": 17,
+        "Rush Tds": 0.1,
+        "Recs": 1.4,
+        "Rec Yds": 10.2,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 3.6
+    },
+    "MarlonMack": {
+        "position": "RB",
+        "team": "IND",
+        "salary": 4200,
+        "Rush Att": 2,
+        "Rush Yds": 9,
+        "Rush Tds": 0.1,
+        "Recs": 0.2,
+        "Rec Yds": 1.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "DamienHarris": {
+        "position": "RB",
+        "team": "NE",
+        "salary": 5600,
+        "Rush Att": 16,
+        "Rush Yds": 63.4,
+        "Rush Tds": 0.6,
+        "Recs": 1.6,
+        "Rec Yds": 11.9,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 11.1
+    },
+    "ZackMoss": {
+        "position": "RB",
+        "team": "BUF",
+        "salary": 4700,
+        "Rush Att": 7.3,
+        "Rush Yds": 29.6,
+        "Rush Tds": 0.3,
+        "Recs": 1.1,
+        "Rec Yds": 7.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 5.5
+    },
+    "DarrellHendersonJr": {
+        "position": "RB",
+        "team": "LAR",
+        "salary": 5900,
+        "Rush Att": 12.4,
+        "Rush Yds": 47.2,
+        "Rush Tds": 0.6,
+        "Recs": 2.8,
+        "Rec Yds": 22,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 11.4
+    },
+    "JoshJacobs": {
+        "position": "RB",
+        "team": "LV",
+        "salary": 6200,
+        "Rush Att": 16.5,
+        "Rush Yds": 69.3,
+        "Rush Tds": 0.7,
+        "Recs": 1.8,
+        "Rec Yds": 13.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 12.9
+    },
+    "DAndreSwift": {
+        "position": "RB",
+        "team": "DET",
+        "salary": 5800,
+        "Rush Att": 10.5,
+        "Rush Yds": 43.2,
+        "Rush Tds": 0.4,
+        "Recs": 4.3,
+        "Rec Yds": 32.3,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 10.5
+    },
+    "DevontaFreeman": {
+        "position": "RB",
+        "team": "BAL",
+        "salary": 4400,
+        "Rush Att": 3.5,
+        "Rush Yds": 15.1,
+        "Rush Tds": 0.1,
+        "Recs": 0.6,
+        "Rec Yds": 4.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.9
+    },
+    "JamaalWilliams": {
+        "position": "RB",
+        "team": "DET",
+        "salary": 5100,
+        "Rush Att": 9.4,
+        "Rush Yds": 37.8,
+        "Rush Tds": 0.2,
+        "Recs": 2.4,
+        "Rec Yds": 16.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 7.1
+    },
+    "WayneGallmanJr": {
+        "position": "RB",
+        "team": "ATL",
+        "salary": 4400
+    },
+    "DarrelWilliams": {
+        "position": "RB",
+        "team": "KC",
+        "salary": 4700,
+        "Rush Att": 3.5,
+        "Rush Yds": 15.2,
+        "Rush Tds": 0.2,
+        "Recs": 1,
+        "Rec Yds": 7.8,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.6
+    },
+    "SalvonAhmed": {
+        "position": "RB",
+        "team": "MIA",
+        "salary": 4100,
+        "Rush Att": 4.3,
+        "Rush Yds": 17.6,
+        "Rush Tds": 0.1,
+        "Recs": 1.6,
+        "Rec Yds": 13.4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 4.1
+    },
+    "AlexArmahJr": {
+        "position": "RB",
+        "team": "NO",
+        "salary": 4000
+    },
+    "BenMason": {
+        "position": "RB",
+        "team": "NE",
+        "salary": 4000
+    },
+    "DeonJackson": {
+        "position": "RB",
+        "team": "IND",
+        "salary": 4000
+    },
+    "LarryRountreeIII": {
+        "position": "RB",
+        "team": "LAC",
+        "salary": 4000,
+        "Rush Att": 4.3,
+        "Rush Yds": 18.9,
+        "Rush Tds": 0.1,
+        "Recs": 0.6,
+        "Rec Yds": 4.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 3.2
+    },
+    "CalebHuntley": {
+        "position": "RB",
+        "team": "ATL",
+        "salary": 4000
+    },
+    "GaryBrightwell": {
+        "position": "RB",
+        "team": "NYG",
+        "salary": 4000,
+        "Rush Att": 1.7,
+        "Rush Yds": 7.5,
+        "Rush Tds": 0.1,
+        "Recs": 0.3,
+        "Rec Yds": 2.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.6
+    },
+    "PeteGuerriero": {
+        "position": "RB",
+        "team": "PIT",
+        "salary": 4000
+    },
+    "DarwinThompson": {
+        "position": "RB",
+        "team": "TB",
+        "salary": 4000
+    },
+    "JaretPatterson": {
+        "position": "RB",
+        "team": "WAS",
+        "salary": 4000,
+        "Rush Att": 1.7,
+        "Rush Yds": 6.9,
+        "Rush Tds": 0.1,
+        "Recs": 0.2,
+        "Rec Yds": 1.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "JavianHawkins": {
+        "position": "RB",
+        "team": "TEN",
+        "salary": 4000
+    },
+    "PookaWilliamsJr": {
+        "position": "RB",
+        "team": "CIN",
+        "salary": 4000
+    },
+    "StevieScottIII": {
+        "position": "RB",
+        "team": "DEN",
+        "salary": 4000
+    },
+    "JermarJefferson": {
+        "position": "RB",
+        "team": "DET",
+        "salary": 4000
+    },
+    "MekhiSargent": {
+        "position": "RB",
+        "team": "TEN",
+        "salary": 4000
+    },
+    "ChristianWade": {
+        "position": "RB",
+        "team": "BUF",
+        "salary": 4000
+    },
+    "CraigReynolds": {
+        "position": "RB",
+        "team": "DET",
+        "salary": 4000
+    },
+    "RhamondreStevenson": {
+        "position": "RB",
+        "team": "NE",
+        "salary": 4000,
+        "Rush Att": 1.9,
+        "Rush Yds": 7.1,
+        "Rush Tds": 0.1,
+        "Recs": 0.1,
+        "Rec Yds": 0.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.4
+    },
+    "SandroPlatzgummer": {
+        "position": "RB",
+        "team": "NYG",
+        "salary": 4000
+    },
+    "NateMcCrary": {
+        "position": "RB",
+        "team": "DEN",
+        "salary": 4000,
+        "Rush Att": 2,
+        "Rush Yds": 8.1,
+        "Rush Tds": 0.1,
+        "Recs": 0.2,
+        "Rec Yds": 2.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.6
+    },
+    "NickBellore": {
+        "position": "RB",
+        "team": "SEA",
+        "salary": 4000
+    },
+    "TaiwanJones": {
+        "position": "RB",
+        "team": "BUF",
+        "salary": 4000,
+        "Rush Att": 0.6,
+        "Rush Yds": 2.3,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.7,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.4
+    },
+    "BrandonBolden": {
+        "position": "RB",
+        "team": "NE",
+        "salary": 4000,
+        "Rush Att": 1.1,
+        "Rush Yds": 5.1,
+        "Rush Tds": 0.2,
+        "Recs": 0.2,
+        "Rec Yds": 2.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 2
+    },
+    "GiovaniBernard": {
+        "position": "RB",
+        "team": "TB",
+        "salary": 4200,
+        "Rush Att": 1,
+        "Rush Yds": 4,
+        "Rush Tds": 0,
+        "Recs": 1.6,
+        "Rec Yds": 10.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.9
+    },
+    "MichaelBurton": {
+        "position": "RB",
+        "team": "KC",
+        "salary": 4000
+    },
+    "KeithSmith": {
+        "position": "RB",
+        "team": "ATL",
+        "salary": 4000,
+        "Rush Att": 1.5,
+        "Rush Yds": 6,
+        "Rush Tds": 0,
+        "Recs": 0.9,
+        "Rec Yds": 6.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "JerickMcKinnon": {
+        "position": "RB",
+        "team": "KC",
+        "salary": 4000,
+        "Rush Att": 0.7,
+        "Rush Yds": 3,
+        "Rush Tds": 0,
+        "Recs": 0.8,
+        "Rec Yds": 6.3,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.4
+    },
+    "AmeerAbdullah": {
+        "position": "RB",
+        "team": "MIN",
+        "salary": 4000,
+        "Rush Att": 1.1,
+        "Rush Yds": 5.3,
+        "Rush Tds": 0,
+        "Recs": 0.5,
+        "Rec Yds": 3.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.9
+    },
+    "DerekWatt": {
+        "position": "RB",
+        "team": "PIT",
+        "salary": 4000,
+        "Rush Att": 0.4,
+        "Rush Yds": 0.5,
+        "Rush Tds": 0.1,
+        "Recs": 0.1,
+        "Rec Yds": 1.4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.8
+    },
+    "ElijhaaPenny": {
+        "position": "RB",
+        "team": "NYG",
+        "salary": 4000
+    },
+    "AndyJanovich": {
+        "position": "RB",
+        "team": "CLE",
+        "salary": 4000,
+        "Rush Att": 0.6,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0.2,
+        "Recs": 0.3,
+        "Rec Yds": 2.7,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "PatrickRicard": {
+        "position": "RB",
+        "team": "BAL",
+        "salary": 4000,
+        "Rush Att": 0.2,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 1.1,
+        "Rec Yds": 8.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "TreyEdmunds": {
+        "position": "RB",
+        "team": "PIT",
+        "salary": 4000
+    },
+    "JalenRichard": {
+        "position": "RB",
+        "team": "LV",
+        "salary": 4000
+    },
+    "JonathanWilliams": {
+        "position": "RB",
+        "team": "WAS",
+        "salary": 4000
+    },
+    "CJProsise": {
+        "position": "RB",
+        "team": "TB",
+        "salary": 4000
+    },
+    "TroymainePope": {
+        "position": "RB",
+        "team": "TB",
+        "salary": 4000
+    },
+    "DareOgunbowale": {
+        "position": "RB",
+        "team": "JAC",
+        "salary": 4000
+    },
+    "DwayneWashington": {
+        "position": "RB",
+        "team": "NO",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "JohnnyStanton": {
+        "position": "RB",
+        "team": "CLE",
+        "salary": 4000
+    },
+    "GusEdwards": {
+        "position": "RB",
+        "team": "BAL",
+        "salary": 4000
+    },
+    "GodwinIgwebuike": {
+        "position": "RB",
+        "team": "DET",
+        "salary": 4000
+    },
+    "AlexCollins": {
+        "position": "RB",
+        "team": "SEA",
+        "salary": 4000,
+        "Rush Att": 2.3,
+        "Rush Yds": 13.1,
+        "Rush Tds": 0.1,
+        "Recs": 0.4,
+        "Rec Yds": 3.4,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 2.3
+    },
+    "KhalfaniMuhammad": {
+        "position": "RB",
+        "team": "ARI",
+        "salary": 4000
+    },
+    "JordanWilkins": {
+        "position": "RB",
+        "team": "IND",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "TarikCohen": {
+        "position": "RB",
+        "team": "CHI",
+        "salary": 4000
+    },
+    "KalenBallage": {
+        "position": "RB",
+        "team": "PIT",
+        "salary": 4000,
+        "Rush Att": 0.8,
+        "Rush Yds": 2.2,
+        "Rush Tds": 0.1,
+        "Recs": 0.1,
+        "Rec Yds": 0.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.6
+    },
+    "JakobJohnson": {
+        "position": "RB",
+        "team": "NE",
+        "salary": 4000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.3,
+        "Rush Tds": 0,
+        "Recs": 0.4,
+        "Rec Yds": 1.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 0.8
+    },
+    "BrianHill": {
+        "position": "RB",
+        "team": "TEN",
+        "salary": 4000
+    },
+    "JustinJackson": {
+        "position": "RB",
+        "team": "LAC",
+        "salary": 4000,
+        "Rush Att": 3.8,
+        "Rush Yds": 19.5,
+        "Rush Tds": 0.1,
+        "Recs": 0.8,
+        "Rec Yds": 4.9,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 3.2
+    },
+    "JaylenSamuels": {
+        "position": "RB",
+        "team": "PIT",
+        "salary": 4000
+    },
+    "QadreeOllison": {
+        "position": "RB",
+        "team": "ATL",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "BuddyHowell": {
+        "position": "RB",
+        "team": "LAR",
+        "salary": 4000
+    },
+    "ItoSmith": {
+        "position": "RB",
+        "team": "MIN",
+        "salary": 4000
+    },
+    "DOntaForeman": {
+        "position": "RB",
+        "team": "ATL",
+        "salary": 4000
+    },
+    "PatrickLaird": {
+        "position": "RB",
+        "team": "MIA",
+        "salary": 4000
+    },
+    "TonyBrooksJames": {
+        "position": "RB",
+        "team": "PIT",
+        "salary": 4000
+    },
+    "BoScarbrough": {
+        "position": "RB",
+        "team": "LV",
+        "salary": 4000
+    },
+    "CullenGillaspia": {
+        "position": "RB",
+        "team": "NYG",
+        "salary": 4000,
+        "Rush Att": 0.4,
+        "Rush Yds": 1.1,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "KhariBlasingame": {
+        "position": "RB",
+        "team": "TEN",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "JasonCabinda": {
+        "position": "RB",
+        "team": "DET",
+        "salary": 4000
+    },
+    "RyanNall": {
+        "position": "RB",
+        "team": "CHI",
+        "salary": 4000
+    },
+    "DErnestJohnson": {
+        "position": "RB",
+        "team": "CLE",
+        "salary": 4000,
+        "Rush Att": 0.3,
+        "Rush Yds": 0.8,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "AustinWalter": {
+        "position": "RB",
+        "team": "NYJ",
+        "salary": 4000
+    },
+    "RashaadPenny": {
+        "position": "RB",
+        "team": "SEA",
+        "salary": 4000
+    },
+    "MikeBoone": {
+        "position": "RB",
+        "team": "DEN",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "CarlTucker": {
+        "position": "RB",
+        "team": "MIA",
+        "salary": 4000
+    },
+    "JakeBargas": {
+        "position": "RB",
+        "team": "MIN",
+        "salary": 4000
+    },
+    "DevineOzigbo": {
+        "position": "RB",
+        "team": "JAC",
+        "salary": 4000
+    },
+    "KerrithWhyteJr": {
+        "position": "RB",
+        "team": "BUF",
+        "salary": 4000
+    },
+    "JacquesPatrick": {
+        "position": "RB",
+        "team": "CIN",
+        "salary": 4000
+    },
+    "NathanCottrell": {
+        "position": "RB",
+        "team": "JAC",
+        "salary": 4000
+    },
+    "KeShawnVaughn": {
+        "position": "RB",
+        "team": "TB",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "XavierJones": {
+        "position": "RB",
+        "team": "LAR",
+        "salary": 4000
+    },
+    "JoshuaKelley": {
+        "position": "RB",
+        "team": "LAC",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "JordanScarlett": {
+        "position": "RB",
+        "team": "MIA",
+        "salary": 4000
+    },
+    "JohnKelly": {
+        "position": "RB",
+        "team": "CLE",
+        "salary": 4000
+    },
+    "RonaldJonesII": {
+        "position": "RB",
+        "team": "TB",
+        "salary": 4800,
+        "Rush Att": 9.3,
+        "Rush Yds": 37.1,
+        "Rush Tds": 0.3,
+        "Recs": 0.8,
+        "Rec Yds": 6,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 6.1
+    },
+    "AlecIngold": {
+        "position": "RB",
+        "team": "LV",
+        "salary": 4000,
+        "Rush Att": 0.2,
+        "Rush Yds": 0.8,
+        "Rush Tds": 0,
+        "Recs": 0.8,
+        "Rec Yds": 6.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1
+    },
+    "DerrickGore": {
+        "position": "RB",
+        "team": "KC",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "JoshAdams": {
+        "position": "RB",
+        "team": "NYJ",
+        "salary": 4000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "DexterWilliams": {
+        "position": "RB",
+        "team": "NYG",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "CameronScarlett": {
+        "position": "RB",
+        "team": "SEA",
+        "salary": 4000
+    },
+    "LeVanteBellamy": {
+        "position": "RB",
+        "team": "DEN",
+        "salary": 4000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.3,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "AdamPrentice": {
+        "position": "RB",
+        "team": "NO",
+        "salary": 4000
+    },
+    "TrayveonWilliams": {
+        "position": "RB",
+        "team": "CIN",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "GerridDoaks": {
+        "position": "RB",
+        "team": "MIA",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "AntonioWilliams": {
+        "position": "RB",
+        "team": "BUF",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "DariusBradwell": {
+        "position": "RB",
+        "team": "LAC",
+        "salary": 4000
+    },
+    "JonathanWard": {
+        "position": "RB",
+        "team": "ARI",
+        "salary": 4000
+    },
+    "CJMarable": {
+        "position": "RB",
+        "team": "CHI",
+        "salary": 4000
+    },
+    "TreHarbison": {
+        "position": "RB",
+        "team": "CLE",
+        "salary": 4000
+    },
+    "DariusAnderson": {
+        "position": "RB",
+        "team": "IND",
+        "salary": 4000
+    },
+    "TavienFeaster": {
+        "position": "RB",
+        "team": "ARI",
+        "salary": 4000
+    },
+    "DedrickMills": {
+        "position": "RB",
+        "team": "DET",
+        "salary": 4000
+    },
+    "JakeFunk": {
+        "position": "RB",
+        "team": "LAR",
+        "salary": 4000,
+        "Rush Att": 1.5,
+        "Rush Yds": 5.6,
+        "Rush Tds": 0,
+        "Recs": 0.5,
+        "Rec Yds": 2.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.9
+    },
+    "ReggieGilliam": {
+        "position": "RB",
+        "team": "BUF",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "CJHam": {
+        "position": "RB",
+        "team": "MIN",
+        "salary": 4000,
+        "Rush Att": 0.3,
+        "Rush Yds": 1,
+        "Rush Tds": 0,
+        "Recs": 0.7,
+        "Rec Yds": 6.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1
+    },
+    "DevinSingletary": {
+        "position": "RB",
+        "team": "BUF",
+        "salary": 4900,
+        "Rush Att": 11.1,
+        "Rush Yds": 50,
+        "Rush Tds": 0.2,
+        "Recs": 2.6,
+        "Rec Yds": 18.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 8.6
+    },
+    "AJRoseJr": {
+        "position": "RB",
+        "team": "MIN",
+        "salary": 4000
+    },
+    "DamareaCrockett": {
+        "position": "RB",
+        "team": "DEN",
+        "salary": 4000,
+        "Rush Att": 0.5,
+        "Rush Yds": 2.1,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "LaMicalPerine": {
+        "position": "RB",
+        "team": "NYJ",
+        "salary": 4000,
+        "Rush Att": 0.6,
+        "Rush Yds": 6.5,
+        "Rush Tds": 0.1,
+        "Recs": 0.3,
+        "Rec Yds": 1.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.2
+    },
+    "TravisHomer": {
+        "position": "RB",
+        "team": "SEA",
+        "salary": 4000,
+        "Rush Att": 1.6,
+        "Rush Yds": 6.9,
+        "Rush Tds": 0,
+        "Recs": 1.1,
+        "Rec Yds": 6.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.7
+    },
+    "JusticeHill": {
+        "position": "RB",
+        "team": "BAL",
+        "salary": 4000
+    },
+    "ArtavisPierce": {
+        "position": "RB",
+        "team": "CHI",
+        "salary": 4000
+    },
+    "GarrettGroshek": {
+        "position": "RB",
+        "team": "LV",
+        "salary": 4000
+    },
+    "MalcolmPerry": {
+        "position": "RB",
+        "team": "NE",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "CoreyTaylorII": {
+        "position": "RB",
+        "team": "CLE",
+        "salary": 4000
+    },
+    "TreyRagas": {
+        "position": "RB",
+        "team": "LV",
+        "salary": 4000,
+        "Rush Att": 3.3,
+        "Rush Yds": 14,
+        "Rush Tds": 0.1,
+        "Recs": 1.1,
+        "Rec Yds": 13,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.9
+    },
+    "BJEmmons": {
+        "position": "RB",
+        "team": "LV",
+        "salary": 4000
+    },
+    "JJTaylor": {
+        "position": "RB",
+        "team": "NE",
+        "salary": 4000,
+        "Rush Att": 2.4,
+        "Rush Yds": 9.6,
+        "Rush Tds": 0,
+        "Recs": 0.4,
+        "Rec Yds": 2.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "KhalilHerbert": {
+        "position": "RB",
+        "team": "CHI",
+        "salary": 4000,
+        "Rush Att": 0.4,
+        "Rush Yds": 2,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "GabeNabers": {
+        "position": "RB",
+        "team": "LAC",
+        "salary": 4000,
+        "Rush Att": 0.4,
+        "Rush Yds": 1.2,
+        "Rush Tds": 0,
+        "Recs": 0.2,
+        "Rec Yds": 1.4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.4
+    },
+    "AdrianKillinsJr": {
+        "position": "RB",
+        "team": "DEN",
+        "salary": 4000
+    },
+    "BennyLeMay": {
+        "position": "RB",
+        "team": "IND",
+        "salary": 4000
+    },
+    "ChrisEvans": {
+        "position": "RB",
+        "team": "CIN",
+        "salary": 4000,
+        "Rush Att": 0.6,
+        "Rush Yds": 2.8,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 2.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.7
+    },
+    "DavidMontgomery": {
+        "position": "RB",
+        "team": "CHI",
+        "salary": 6100,
+        "Rush Att": 15.5,
+        "Rush Yds": 63.3,
+        "Rush Tds": 0.5,
+        "Recs": 2.9,
+        "Rec Yds": 22.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 11.9
+    },
+    "EnoBenjamin": {
+        "position": "RB",
+        "team": "ARI",
+        "salary": 4000,
+        "Rush Att": 0.7,
+        "Rush Yds": 3.3,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.6
+    },
+    "CamAkers": {
+        "position": "RB",
+        "team": "LAR",
+        "salary": 4000
+    },
+    "DeeJayDallas": {
+        "position": "RB",
+        "team": "SEA",
+        "salary": 4000,
+        "Rush Att": 2.9,
+        "Rush Yds": 10.4,
+        "Rush Tds": 0,
+        "Recs": 1,
+        "Rec Yds": 6.7,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 2.1
+    },
+    "AnthonyMcFarlandJr": {
+        "position": "RB",
+        "team": "PIT",
+        "salary": 4000
+    },
+    "JKDobbins": {
+        "position": "RB",
+        "team": "BAL",
+        "salary": 4000
+    },
+    "ToryCarter": {
+        "position": "RB",
+        "team": "TEN",
+        "salary": 4000
+    },
+    "OtisAndersonJr": {
+        "position": "RB",
+        "team": "LAR",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "TravisEtienneJr": {
+        "position": "RB",
+        "team": "JAC",
+        "salary": 4000
+    },
+    "DukeJohnsonJr": {
+        "position": "RB",
+        "team": "JAC",
+        "salary": 4100,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "DevontaeBooker": {
+        "position": "RB",
+        "team": "NYG",
+        "salary": 4600,
+        "Rush Att": 3.7,
+        "Rush Yds": 16.3,
+        "Rush Tds": 0.1,
+        "Recs": 1,
+        "Rec Yds": 7.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 3.3
+    },
+    "AustinEkeler": {
+        "position": "RB",
+        "team": "LAC",
+        "salary": 7200,
+        "Rush Att": 12,
+        "Rush Yds": 55,
+        "Rush Tds": 0.3,
+        "Recs": 4.9,
+        "Rec Yds": 42.3,
+        "Rec Tds": 0.2,
+        "Fumbles": 0.1,
+        "Points": 12.7
+    },
+    "LeonardFournette": {
+        "position": "RB",
+        "team": "TB",
+        "salary": 5000,
+        "Rush Att": 12.2,
+        "Rush Yds": 46.3,
+        "Rush Tds": 0.3,
+        "Recs": 3,
+        "Rec Yds": 20,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 9
+    },
+    "SonyMichel": {
+        "position": "RB",
+        "team": "LAR",
+        "salary": 4900,
+        "Rush Att": 7.6,
+        "Rush Yds": 29.6,
+        "Rush Tds": 0.1,
+        "Recs": 0.8,
+        "Rec Yds": 6.1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 4.4
+    },
+    "NyheimHines": {
+        "position": "RB",
+        "team": "IND",
+        "salary": 4600,
+        "Rush Att": 4.5,
+        "Rush Yds": 19.4,
+        "Rush Tds": 0.2,
+        "Recs": 3.4,
+        "Rec Yds": 27.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 6.3
+    },
+    "LeVeonBell": {
+        "position": "RB",
+        "team": "BAL",
+        "salary": 4000,
+        "Rush Att": 0.4,
+        "Rush Yds": 1.4,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "TevinColeman": {
+        "position": "RB",
+        "team": "NYJ",
+        "salary": 4500,
+        "Rush Att": 4.7,
+        "Rush Yds": 18.8,
+        "Rush Tds": 0.1,
+        "Recs": 0.3,
+        "Rec Yds": 1.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 2.8
+    },
+    "KareemHunt": {
+        "position": "RB",
+        "team": "CLE",
+        "salary": 5600,
+        "Rush Att": 8.5,
+        "Rush Yds": 36.1,
+        "Rush Tds": 0.4,
+        "Recs": 2.2,
+        "Rec Yds": 19.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 8.8
+    },
+    "MattBreida": {
+        "position": "RB",
+        "team": "BUF",
+        "salary": 4100,
+        "Rush Att": 2.6,
+        "Rush Yds": 11.2,
+        "Rush Tds": 0,
+        "Recs": 0.6,
+        "Rec Yds": 3.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.7
+    },
+    "SamajePerine": {
+        "position": "RB",
+        "team": "CIN",
+        "salary": 4000,
+        "Rush Att": 2.2,
+        "Rush Yds": 9.2,
+        "Rush Tds": 0.1,
+        "Recs": 1.1,
+        "Rec Yds": 7.7,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 2.2
+    },
+    "NickChubb": {
+        "position": "RB",
+        "team": "CLE",
+        "salary": 7600,
+        "Rush Att": 16.1,
+        "Rush Yds": 76.5,
+        "Rush Tds": 0.9,
+        "Recs": 1.9,
+        "Rec Yds": 15.8,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 14.8
+    },
+    "TyJohnson": {
+        "position": "RB",
+        "team": "NYJ",
+        "salary": 4300,
+        "Rush Att": 6.2,
+        "Rush Yds": 26.7,
+        "Rush Tds": 0.1,
+        "Recs": 1.6,
+        "Rec Yds": 11,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 4.3
+    },
+    "BennySnellJr": {
+        "position": "RB",
+        "team": "PIT",
+        "salary": 4000,
+        "Rush Att": 2.9,
+        "Rush Yds": 10.7,
+        "Rush Tds": 0.1,
+        "Recs": 0.5,
+        "Rec Yds": 1.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.6
+    },
+    "AntonioGibson": {
+        "position": "RB",
+        "team": "WAS",
+        "salary": 5900,
+        "Rush Att": 16.4,
+        "Rush Yds": 71.4,
+        "Rush Tds": 0.6,
+        "Recs": 2.9,
+        "Rec Yds": 20.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 12.6
+    },
+    "CarlosHyde": {
+        "position": "RB",
+        "team": "JAC",
+        "salary": 4000,
+        "Rush Att": 7.8,
+        "Rush Yds": 30.5,
+        "Rush Tds": 0.1,
+        "Recs": 1.3,
+        "Rec Yds": 7.2,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 4.5
+    },
+    "MelvinGordonIII": {
+        "position": "RB",
+        "team": "DEN",
+        "salary": 5500,
+        "Rush Att": 12.6,
+        "Rush Yds": 54.3,
+        "Rush Tds": 0.5,
+        "Recs": 2.3,
+        "Rec Yds": 16.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 10.3
+    },
+    "MikeDavis": {
+        "position": "RB",
+        "team": "ATL",
+        "salary": 5100,
+        "Rush Att": 11.7,
+        "Rush Yds": 48.9,
+        "Rush Tds": 0.3,
+        "Recs": 3.9,
+        "Rec Yds": 26.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 9.9
+    },
+    "TonyJonesJr": {
+        "position": "RB",
+        "team": "NO",
+        "salary": 4000,
+        "Rush Att": 6.3,
+        "Rush Yds": 27.4,
+        "Rush Tds": 0.1,
+        "Recs": 0.9,
+        "Rec Yds": 7.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 4.5
+    },
+    "JonathanTaylor": {
+        "position": "RB",
+        "team": "IND",
+        "salary": 6700,
+        "Rush Att": 16.2,
+        "Rush Yds": 72.1,
+        "Rush Tds": 0.7,
+        "Recs": 2.8,
+        "Rec Yds": 22.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 13.9
+    },
+    "MylesGaskin": {
+        "position": "RB",
+        "team": "MIA",
+        "salary": 5400,
+        "Rush Att": 9.3,
+        "Rush Yds": 41.7,
+        "Rush Tds": 0.2,
+        "Recs": 3.8,
+        "Rec Yds": 28.3,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 8.7
+    },
+    "SaquonBarkley": {
+        "position": "RB",
+        "team": "NYG",
+        "salary": 6500,
+        "Rush Att": 16.5,
+        "Rush Yds": 73.7,
+        "Rush Tds": 0.6,
+        "Recs": 2.9,
+        "Rec Yds": 22.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 14
+    },
+    "ClydeEdwardsHelaire": {
+        "position": "RB",
+        "team": "KC",
+        "salary": 4800,
+        "Rush Att": 15.1,
+        "Rush Yds": 67.2,
+        "Rush Tds": 0.5,
+        "Recs": 2.3,
+        "Rec Yds": 18.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 12.3
+    },
+    "DamienWilliams": {
+        "position": "RB",
+        "team": "CHI",
+        "salary": 4300,
+        "Rush Att": 6.2,
+        "Rush Yds": 22.7,
+        "Rush Tds": 0.1,
+        "Recs": 2.2,
+        "Rec Yds": 14.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 5
+    },
+    "AlvinKamara": {
+        "position": "RB",
+        "team": "NO",
+        "salary": 8200,
+        "Rush Att": 14.8,
+        "Rush Yds": 65.4,
+        "Rush Tds": 0.5,
+        "Recs": 4.7,
+        "Rec Yds": 38.8,
+        "Rec Tds": 0.2,
+        "Fumbles": 0.1,
+        "Points": 14.3
+    },
+    "JoeMixon": {
+        "position": "RB",
+        "team": "CIN",
+        "salary": 6300,
+        "Rush Att": 18,
+        "Rush Yds": 69.7,
+        "Rush Tds": 0.5,
+        "Recs": 3.4,
+        "Rec Yds": 23,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 12.6
+    },
+    "DalvinCook": {
+        "position": "RB",
+        "team": "MIN",
+        "salary": 8400,
+        "Rush Att": 24.3,
+        "Rush Yds": 108.2,
+        "Rush Tds": 0.9,
+        "Recs": 3.5,
+        "Rec Yds": 26.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.2,
+        "Points": 19
+    },
+    "JamesRobinson": {
+        "position": "RB",
+        "team": "JAC",
+        "salary": 5700,
+        "Rush Att": 11.9,
+        "Rush Yds": 52.1,
+        "Rush Tds": 0.2,
+        "Recs": 3.7,
+        "Rec Yds": 27.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 9.9
+    },
+    "MichaelWarrenII": {
+        "position": "RB",
+        "team": "DET",
+        "salary": 4000
+    },
+    "LamarMiller": {
+        "position": "RB",
+        "team": "WAS",
+        "salary": 4000
+    },
+    "ElijahMcGuire": {
+        "position": "RB",
+        "team": "KC",
+        "salary": 4000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "MichaelPittmanJr": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 5500,
+        "Rush Att": 0.3,
+        "Rush Yds": 1.6,
+        "Rush Tds": 0,
+        "Recs": 4.8,
+        "Rec Yds": 62.5,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 8.3
+    },
+    "HenryRuggsIII": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 5200,
+        "Rush Att": 0.8,
+        "Rush Yds": 4.2,
+        "Rush Tds": 0,
+        "Recs": 3.5,
+        "Rec Yds": 64.4,
+        "Rec Tds": 0.4,
+        "Fumbles": 0.1,
+        "Points": 9.4
+    },
+    "RondaleMoore": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 5000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 4.3,
+        "Rec Yds": 54.5,
+        "Rec Tds": 0.5,
+        "Fumbles": 0,
+        "Points": 8.1
+    },
+    "AJGreen": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 4500,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 2.7,
+        "Rec Yds": 36.3,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 6.2
+    },
+    "CooperKupp": {
+        "position": "WR",
+        "team": "LAR",
+        "salary": 6800,
+        "Rush Att": 0.2,
+        "Rush Yds": 0.8,
+        "Rush Tds": 0,
+        "Recs": 6.2,
+        "Rec Yds": 79.7,
+        "Rec Tds": 0.7,
+        "Fumbles": 0.1,
+        "Points": 12.1
+    },
+    "CourtlandSutton": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 6000,
+        "Rush Att": 0.3,
+        "Rush Yds": 1.6,
+        "Rush Tds": 0,
+        "Recs": 4.6,
+        "Rec Yds": 68.1,
+        "Rec Tds": 0.5,
+        "Fumbles": 0,
+        "Points": 10
+    },
+    "DevinDuvernay": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 3900,
+        "Rush Att": 0.1,
+        "Rush Yds": 1.3,
+        "Rush Tds": 0,
+        "Recs": 0.9,
+        "Rec Yds": 10.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.4
+    },
+    "TerryMcLaurin": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 6900,
+        "Rush Att": 0.2,
+        "Rush Yds": 1.4,
+        "Rush Tds": 0,
+        "Recs": 5.7,
+        "Rec Yds": 75,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 9.6
+    },
+    "DemarcusRobinson": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 4100,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 2.4,
+        "Rec Yds": 28.4,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 4
+    },
+    "JamesWashington": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 1.3,
+        "Rec Yds": 18.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.5
+    },
+    "DariusSlayton": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 4600,
+        "Rush Att": 0.2,
+        "Rush Yds": 0.7,
+        "Rush Tds": 0,
+        "Recs": 3.1,
+        "Rec Yds": 48.9,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 7.2
+    },
+    "FreddieSwain": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 4000,
+        "Rush Att": 0.2,
+        "Rush Yds": 1.1,
+        "Rush Tds": 0,
+        "Recs": 1.9,
+        "Rec Yds": 24.3,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 3.5
+    },
+    "DyamiBrown": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3600,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.4,
+        "Rush Tds": 0,
+        "Recs": 3.3,
+        "Rec Yds": 40.9,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 5.1
+    },
+    "JaMarrChase": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 5400,
+        "Rush Att": 0.2,
+        "Rush Yds": 1.2,
+        "Rush Tds": 0,
+        "Recs": 5.2,
+        "Rec Yds": 67.8,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 8.6
+    },
+    "AdamHumphries": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3700,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 3.7,
+        "Rec Yds": 35.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 4.3
+    },
+    "ZachPascal": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 4800,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 3.6,
+        "Rec Yds": 47.2,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6.7
+    },
+    "SterlingShepard": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 5900,
+        "Rush Att": 0.3,
+        "Rush Yds": 1.6,
+        "Rush Tds": 0,
+        "Recs": 5.3,
+        "Rec Yds": 59.9,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 8.4
+    },
+    "HunterRenfrow": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 4000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 3.9,
+        "Rec Yds": 44.7,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6.3
+    },
+    "ChristianKirk": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 5400,
+        "Rush Att": 0.3,
+        "Rush Yds": 1.9,
+        "Rush Tds": 0,
+        "Recs": 2.3,
+        "Rec Yds": 29.9,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 4.8
+    },
+    "ElijahMoore": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3800,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.7,
+        "Rush Tds": 0,
+        "Recs": 3.6,
+        "Rec Yds": 46.2,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 5.7
+    },
+    "TyrellWilliams": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 4200,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 3.7,
+        "Rec Yds": 53.7,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6.9
+    },
+    "MikeWilliams": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 6400,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 5.4,
+        "Rec Yds": 67,
+        "Rec Tds": 0.5,
+        "Fumbles": 0,
+        "Points": 9.4
+    },
+    "RashardHiggins": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 4200,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 1.5,
+        "Rec Yds": 23.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.9
+    },
+    "BraxtonBerrios": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3900,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.7,
+        "Rush Tds": 0,
+        "Recs": 0.9,
+        "Rec Yds": 9.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.2
+    },
+    "JuJuSmithSchuster": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 6000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.7,
+        "Rush Tds": 0,
+        "Recs": 5.7,
+        "Rec Yds": 61.4,
+        "Rec Tds": 0.4,
+        "Fumbles": 0.1,
+        "Points": 8.9
+    },
+    "TimPatrick": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 4900,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 3.3,
+        "Rec Yds": 42.6,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6
+    },
+    "OlamideZaccheaus": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3500,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 1.5,
+        "Rec Yds": 21,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.5
+    },
+    "QuintezCephus": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3900,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 3.2,
+        "Rec Yds": 43.2,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 5.5
+    },
+    "EmmanuelSanders": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 4200,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 4,
+        "Rec Yds": 49.9,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6.8
+    },
+    "JulioJones": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 6500,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 4.5,
+        "Rec Yds": 65.1,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 9
+    },
+    "ColeBeasley": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 4800,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 4.7,
+        "Rec Yds": 54.6,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 7.9
+    },
+    "MarvinJonesJr": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 4900,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 5.1,
+        "Rec Yds": 68.5,
+        "Rec Tds": 0.5,
+        "Fumbles": 0,
+        "Points": 9.6
+    },
+    "DeAndreHopkins": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 8200,
+        "Rush Att": 0,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 7.3,
+        "Rec Yds": 93.9,
+        "Rec Tds": 1,
+        "Fumbles": 0.1,
+        "Points": 15
+    },
+    "MikeEvans": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 6300,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 4.8,
+        "Rec Yds": 68.4,
+        "Rec Tds": 0.5,
+        "Fumbles": 0,
+        "Points": 9.9
+    },
+    "TylerLockett": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 7400,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.6,
+        "Rush Tds": 0,
+        "Recs": 6,
+        "Rec Yds": 82.5,
+        "Rec Tds": 0.6,
+        "Fumbles": 0,
+        "Points": 11.7
+    },
+    "KalifRaymond": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 4000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.4,
+        "Rush Tds": 0,
+        "Recs": 1.9,
+        "Rec Yds": 27.8,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.4
+    },
+    "KJOsborn": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3500,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 3.9,
+        "Rec Yds": 48.3,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 6.9
+    },
+    "LilJordanHumphrey": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3200,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.9,
+        "Rush Tds": 0,
+        "Recs": 1.5,
+        "Rec Yds": 21,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.9
+    },
+    "ChaseClaypool": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 5800,
+        "Rush Att": 0.5,
+        "Rush Yds": 2.4,
+        "Rush Tds": 0,
+        "Recs": 4.5,
+        "Rec Yds": 62.1,
+        "Rec Tds": 0.5,
+        "Fumbles": 0,
+        "Points": 9.3
+    },
+    "JaylenWaddle": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 4600,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 4.6,
+        "Rec Yds": 55.1,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 7
+    },
+    "AlbertWilson": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3100,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.6,
+        "Rush Tds": 0,
+        "Recs": 1.5,
+        "Rec Yds": 16.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.1
+    },
+    "ChrisHogan": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3100,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 1.5,
+        "Rec Yds": 20.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.7
+    },
+    "OdellBeckhamJr": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 5300,
+        "Rush Att": 0.3,
+        "Rush Yds": 1.8,
+        "Rush Tds": 0,
+        "Recs": 4,
+        "Rec Yds": 54.6,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 7.9
+    },
+    "JakeemGrantSr": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3200,
+        "Rush Att": 0.6,
+        "Rush Yds": 2.2,
+        "Rush Tds": 0,
+        "Recs": 1.3,
+        "Rec Yds": 12.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.9
+    },
+    "TyreekHill": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 8400,
+        "Rush Att": 0.9,
+        "Rush Yds": 6.4,
+        "Rush Tds": 0.1,
+        "Recs": 5.9,
+        "Rec Yds": 84.4,
+        "Rec Tds": 0.8,
+        "Fumbles": 0.1,
+        "Points": 14
+    },
+    "JalenGuyton": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3200,
+        "Rush Att": 0.2,
+        "Rush Yds": 1,
+        "Rush Tds": 0,
+        "Recs": 2,
+        "Rec Yds": 29.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.6
+    },
+    "BryanEdwards": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 3800,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 2.5,
+        "Rec Yds": 33.1,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 4.7
+    },
+    "DarnellMooney": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 4300,
+        "Rush Att": 0.2,
+        "Rush Yds": 1.4,
+        "Rush Tds": 0,
+        "Recs": 4.4,
+        "Rec Yds": 51.1,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 6.7
+    },
+    "JeremiahHaydel": {
+        "position": "WR",
+        "team": "LAR",
+        "salary": 3000
+    },
+    "DavidMoore": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 3000
+    },
+    "TarikBlack": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3000
+    },
+    "DonovanPeoplesJones": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 2.1,
+        "Rec Yds": 34.1,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 4.5
+    },
+    "AlexanderHollins": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 3000
+    },
+    "BlakeProehl": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3000
+    },
+    "IsaiahCoulter": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "JaelonDarden": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.5,
+        "Rush Tds": 0,
+        "Recs": 0.6,
+        "Rec Yds": 7.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.1
+    },
+    "AustinTrammell": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000
+    },
+    "TimJones": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000
+    },
+    "CodyWhite": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 3000
+    },
+    "KhalilMcClain": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3000
+    },
+    "IhmirSmithMarsette": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 2.1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "JoshuaPalmer": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.4,
+        "Rush Tds": 0,
+        "Recs": 1.3,
+        "Rec Yds": 15.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.7
+    },
+    "ConnorWedington": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000
+    },
+    "TylanWallace": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 0.5,
+        "Rec Yds": 6.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.8
+    },
+    "TreWalker": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 3000
+    },
+    "DJMontgomery": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3000
+    },
+    "WhopPhilyor": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3000
+    },
+    "LynnBowdenJr": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3000
+    },
+    "JeffCotton": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000
+    },
+    "JoshPearson": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 3000
+    },
+    "TutuAtwell": {
+        "position": "WR",
+        "team": "LAR",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.3,
+        "Rush Tds": 0,
+        "Recs": 0.7,
+        "Rec Yds": 8.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1
+    },
+    "RashodBateman": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 3000
+    },
+    "IsaiahMcKoy": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 3000
+    },
+    "SethWilliams": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000
+    },
+    "JuwanGreen": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000
+    },
+    "AmonRaStBrown": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3300,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 2.6,
+        "Rec Yds": 32.5,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 4.2
+    },
+    "JoJoWard": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 3000
+    },
+    "DeMichaelHarris": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "DaxMilne": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 3.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.4
+    },
+    "TrinityBenson": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 1.5,
+        "Rec Yds": 17.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.2
+    },
+    "AshtonDulin": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.3,
+        "Rush Tds": 0,
+        "Recs": 0.5,
+        "Rec Yds": 6.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.8
+    },
+    "MyronMitchell": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3000
+    },
+    "JasonMooreJr": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3000
+    },
+    "MikeStrachan": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.3,
+        "Rush Tds": 0,
+        "Recs": 1.2,
+        "Rec Yds": 14.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2
+    },
+    "JohnHurst": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3000
+    },
+    "MasonKinsey": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000
+    },
+    "DareceRobersonJr": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000
+    },
+    "MatthewSlater": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 2.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "TavonAustin": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.4,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "AllenHurns": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3000
+    },
+    "RobertWoods": {
+        "position": "WR",
+        "team": "LAR",
+        "salary": 5700,
+        "Rush Att": 1.1,
+        "Rush Yds": 6.6,
+        "Rush Tds": 0.1,
+        "Recs": 5.4,
+        "Rec Yds": 63.6,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 9.5
+    },
+    "JustinHardy": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "JJNelson": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3000
+    },
+    "JakeKumerow": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 4.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.7
+    },
+    "DiontaeSpencer": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.4,
+        "Rush Tds": 0,
+        "Recs": 0.2,
+        "Rec Yds": 2.1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "JoshDoctson": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 3000
+    },
+    "PhillipDorsettII": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "JamisonCrowder": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 4500,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 3.1,
+        "Rec Yds": 35.8,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 4.4
+    },
+    "SammyWatkins": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 5500,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.4,
+        "Rush Tds": 0,
+        "Recs": 3.5,
+        "Rec Yds": 47.8,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 6.3
+    },
+    "MarkenMichel": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3000
+    },
+    "DevinSmith": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "MarvinHall": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 3000
+    },
+    "TommyleeLewis": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3000
+    },
+    "AllenRobinsonII": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 6200,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 6,
+        "Rec Yds": 70.7,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 9.2
+    },
+    "DeAndreCarter": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.3,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.4
+    },
+    "TevinJones": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000
+    },
+    "TrevorDavis": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000
+    },
+    "GehrigDieter": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "FredBrown": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000
+    },
+    "MarcusJohnson": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "JoJoNatson": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 3000
+    },
+    "JaydonMickens": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "CJBoard": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 2.1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "AmaraDarboh": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000
+    },
+    "CodyHollister": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000
+    },
+    "MackHollins": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.2,
+        "Rec Yds": 2.7,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "TajaeSharpe": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 3.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.4
+    },
+    "ReeceHorn": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 3000
+    },
+    "KevinWhite": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3000
+    },
+    "RyanSwitzer": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "TannerGentry": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "TrentTaylor": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 3000
+    },
+    "TylerBoyd": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 4700,
+        "Rush Att": 0.2,
+        "Rush Yds": 1.5,
+        "Rush Tds": 0,
+        "Recs": 5.7,
+        "Rec Yds": 61.8,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 7.6
+    },
+    "JesterWeah": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "DarvinKidsy": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000
+    },
+    "JMonMoore": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000
+    },
+    "PharohCooper": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000
+    },
+    "MarcellAteman": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 3000
+    },
+    "MarcusKemp": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "RodneyAdams": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "JeffBadet": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000
+    },
+    "DevinRoss": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 3000
+    },
+    "LaquonTreadwell": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.8,
+        "Rec Yds": 8.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.2
+    },
+    "DaeSeanHamilton": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000
+    },
+    "JamalAgnew": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.8,
+        "Rush Tds": 0,
+        "Recs": 0.4,
+        "Rec Yds": 4.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.6
+    },
+    "JakeLampman": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3000
+    },
+    "KhaDarelHodge": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.7,
+        "Rec Yds": 8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.9
+    },
+    "KeelanColeSr": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 1.4,
+        "Rec Yds": 18.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.3
+    },
+    "BrandonPowell": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "JoshMalone": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3000
+    },
+    "GeronimoAllison": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3000
+    },
+    "DeMornayPiersonEl": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000
+    },
+    "CurtisSamuel": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3000
+    },
+    "TreyQuinn": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 3000
+    },
+    "JoshReynolds": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 1.2,
+        "Rec Yds": 14.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.9
+    },
+    "AustinProehl": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3000
+    },
+    "AJRichardson": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 3000
+    },
+    "DukeWilliams": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 3000
+    },
+    "CamSims": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0.7,
+        "Rec Yds": 10,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.2
+    },
+    "NsimbaWebster": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 2.4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "KeelanDoss": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "ReeceFountain": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 3000
+    },
+    "DarriusShepherd": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 3000
+    },
+    "JustinWatson": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 3000
+    },
+    "JonVeaJohnson": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "CodyThompson": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000
+    },
+    "MikeThomas": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.4,
+        "Rec Yds": 4.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.6
+    },
+    "ChrisLacy": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "IsaiahFord": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3000
+    },
+    "TomKennedy": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.5,
+        "Rec Yds": 6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.6
+    },
+    "ChristianBlake": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.5
+    },
+    "DantePettis": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "CameronBatson": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "VyncintSmith": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3000
+    },
+    "IsaacWhitney": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 3000
+    },
+    "AndreBaccellia": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 3000
+    },
+    "DedeWestbrook": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 3.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.4
+    },
+    "AnthonyRatliffWilliams": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000
+    },
+    "KendallHinton": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000,
+        "Rush Att": 0.2,
+        "Rush Yds": 1.2,
+        "Rush Tds": 0,
+        "Recs": 0.4,
+        "Rec Yds": 3.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.7
+    },
+    "StanleyMorganJr": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "DavidSillsV": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000
+    },
+    "BisiJohnson": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3000
+    },
+    "RayRayMcCloud": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.3,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 3.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.4
+    },
+    "TravisJonsen": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 3000
+    },
+    "ThomasIves": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "KristianWilkerson": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 3000
+    },
+    "JaylonMoore": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 3000
+    },
+    "PrestonWilliams": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.9,
+        "Rec Yds": 12.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.7
+    },
+    "StevenSimsJr": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 3200,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.3,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "GaryJenningsJr": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3000
+    },
+    "JamesProcheII": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 2.1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "KJHillJr": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3000
+    },
+    "AndyIsabella": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.2,
+        "Rec Yds": 2.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "PennyHart": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "TerryGodwin": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "DaltonSchoen": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3000
+    },
+    "KirkMerritt": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3000
+    },
+    "LawrenceCager": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3000
+    },
+    "JalenMcCleskey": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3000
+    },
+    "NickWestbrookIkhine": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.6,
+        "Rec Yds": 7.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1
+    },
+    "JeffSmith": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.7,
+        "Rec Yds": 8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.9
+    },
+    "AudenTate": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.4,
+        "Rec Yds": 5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.5
+    },
+    "KaiLocksley": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 3000
+    },
+    "ScottyWashington": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 3000
+    },
+    "MilesBoykin": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 3000
+    },
+    "TrentonIrwin": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "JaMarcusBradley": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 3000
+    },
+    "JohnUrsua": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000
+    },
+    "JJKoski": {
+        "position": "WR",
+        "team": "LAR",
+        "salary": 3000
+    },
+    "DiontaeJohnson": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 6400,
+        "Rush Att": 0.2,
+        "Rush Yds": 1.1,
+        "Rush Tds": 0,
+        "Recs": 5.5,
+        "Rec Yds": 60.6,
+        "Rec Tds": 0.4,
+        "Fumbles": 0.1,
+        "Points": 8.5
+    },
+    "DavionDavis": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 3000
+    },
+    "JoshHammond": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000
+    },
+    "NKealHarry": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 3000
+    },
+    "DezmonPatmon": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3000
+    },
+    "LandenAkers": {
+        "position": "WR",
+        "team": "LAR",
+        "salary": 3000
+    },
+    "GregDortch": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 3000
+    },
+    "DevinGray": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 3000
+    },
+    "TylerJohnson": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0.2,
+        "Rec Yds": 3.4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.5
+    },
+    "JoshImatorbhebhe": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3000
+    },
+    "CollinJohnson": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0.5,
+        "Rec Yds": 6.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.6
+    },
+    "MathewSexton": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 3000
+    },
+    "CornellPowell": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 3000
+    },
+    "ByronPringle": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 1.5,
+        "Rec Yds": 19.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.3
+    },
+    "RileyRidley": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "CadeJohnson": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000
+    },
+    "EliStove": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3000
+    },
+    "FrankDarby": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "TylerVaughns": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 3000
+    },
+    "MichaelBandy": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3000
+    },
+    "ManassehBailey": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3000
+    },
+    "RileyLees": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 3000
+    },
+    "BenSkowronek": {
+        "position": "WR",
+        "team": "LAR",
+        "salary": 3000
+    },
+    "MarquezStevenson": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 3000
+    },
+    "KalijaLipscomb": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000
+    },
+    "TyrieCleveland": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000
+    },
+    "TylerSimmons": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 3000
+    },
+    "JavonWims": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "QuartneyDavis": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3000
+    },
+    "MauriceFfrench": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3000
+    },
+    "AntonioGandyGolden": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3000
+    },
+    "DillonStoner": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 3000
+    },
+    "ChrisRowland": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000
+    },
+    "DJTurner": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 3000
+    },
+    "DezFitzpatrick": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000
+    },
+    "AaronFuller": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000
+    },
+    "JoeReed": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 3000
+    },
+    "RicoBussey": {
+        "position": "WR",
+        "team": "PIT",
+        "salary": 3000
+    },
+    "AntoineWesley": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 3000
+    },
+    "DWayneEskridge": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000,
+        "Rush Att": 0.5,
+        "Rush Yds": 2.6,
+        "Rush Tds": 0,
+        "Recs": 0.8,
+        "Rec Yds": 9.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.7
+    },
+    "TrishtonJackson": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3000
+    },
+    "BrandenMack": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000
+    },
+    "RicoGafford": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000
+    },
+    "AntonioNunn": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 3000
+    },
+    "AlevaHifo": {
+        "position": "WR",
+        "team": "ARI",
+        "salary": 3000
+    },
+    "TreNixon": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 3000
+    },
+    "JavonMcKinley": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3000
+    },
+    "TravisToivonen": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 3000
+    },
+    "BinjimenVictor": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 3000
+    },
+    "DeVontresDukes": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3000
+    },
+    "KawaanBaker": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3000
+    },
+    "RysenJohn": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000
+    },
+    "JerryJeudy": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 5100
+    },
+    "IsaiahHodgins": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 3000
+    },
+    "EasopWinstonJr": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3000
+    },
+    "WarrenJackson": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3000
+    },
+    "DazzNewsome": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000
+    },
+    "RaceyMcMath": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "SageSurratt": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3000
+    },
+    "DamionWillis": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000
+    },
+    "CyrilGraysonJr": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 3000
+    },
+    "AnthonySchwartz": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 3200,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.6,
+        "Rush Tds": 0,
+        "Recs": 1.7,
+        "Rec Yds": 21.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.7
+    },
+    "GunnerOlszewski": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 3000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.4,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "TYHilton": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 4400
+    },
+    "WillieSneadIV": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 3300,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.5,
+        "Rec Yds": 6.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.8
+    },
+    "DeVanteParker": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 5400,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 4.7,
+        "Rec Yds": 59.5,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 7.4
+    },
+    "StefonDiggs": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 7600,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.7,
+        "Rush Tds": 0,
+        "Recs": 6.7,
+        "Rec Yds": 87,
+        "Rec Tds": 0.6,
+        "Fumbles": 0.1,
+        "Points": 12.4
+    },
+    "KennyGolladay": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 5600,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 4.3,
+        "Rec Yds": 64.5,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 8.6
+    },
+    "ZayJones": {
+        "position": "WR",
+        "team": "LV",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.7,
+        "Rec Yds": 9.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.6
+    },
+    "ChadBeebe": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 3000
+    },
+    "WillFullerV": {
+        "position": "WR",
+        "team": "MIA",
+        "salary": 4700,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 4.3,
+        "Rec Yds": 58.1,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 7.2
+    },
+    "IsaiahMcKenzie": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 3100,
+        "Rush Att": 0.4,
+        "Rush Yds": 2.2,
+        "Rush Tds": 0,
+        "Recs": 0.7,
+        "Rec Yds": 7.8,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.4
+    },
+    "JakobiMeyers": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 5000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.5,
+        "Rush Tds": 0,
+        "Recs": 5.2,
+        "Rec Yds": 62.7,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 7.6
+    },
+    "VanJefferson": {
+        "position": "WR",
+        "team": "LAR",
+        "salary": 3400,
+        "Rush Att": 0,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 3.2,
+        "Rec Yds": 41.7,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 5.9
+    },
+    "MarquezCallaway": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 4100,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.8,
+        "Rush Tds": 0,
+        "Recs": 4.1,
+        "Rec Yds": 53.5,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 6.9
+    },
+    "KadariusToney": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000,
+        "Rush Att": 0.2,
+        "Rush Yds": 1.3,
+        "Rush Tds": 0,
+        "Recs": 1.1,
+        "Rec Yds": 13.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.6
+    },
+    "JustinJefferson": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 7200,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 5.4,
+        "Rec Yds": 76.3,
+        "Rec Tds": 0.5,
+        "Fumbles": 0,
+        "Points": 10.5
+    },
+    "DamiereByrd": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 1.9,
+        "Rec Yds": 21.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.6
+    },
+    "BreshadPerriman": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3100,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0.1,
+        "Rec Yds": 1.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "NelsonAgholor": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 4600,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.4,
+        "Rush Tds": 0,
+        "Recs": 3.7,
+        "Rec Yds": 50.2,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6.9
+    },
+    "ChesterRogers": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 1.8,
+        "Rec Yds": 19.3,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.6
+    },
+    "MecoleHardman": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 3900,
+        "Rush Att": 0.3,
+        "Rush Yds": 2.2,
+        "Rush Tds": 0,
+        "Recs": 3.5,
+        "Rec Yds": 47.7,
+        "Rec Tds": 0.3,
+        "Fumbles": 0.1,
+        "Points": 6.8
+    },
+    "KJHamler": {
+        "position": "WR",
+        "team": "DEN",
+        "salary": 3600,
+        "Rush Att": 0.4,
+        "Rush Yds": 3,
+        "Rush Tds": 0,
+        "Recs": 3.1,
+        "Rec Yds": 38.6,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 5.3
+    },
+    "GabrielDavis": {
+        "position": "WR",
+        "team": "BUF",
+        "salary": 3700,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 1.9,
+        "Rec Yds": 30.6,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 4.5
+    },
+    "DeSeanJackson": {
+        "position": "WR",
+        "team": "LAR",
+        "salary": 3000,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.5,
+        "Rush Tds": 0,
+        "Recs": 1.8,
+        "Rec Yds": 28.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.7
+    },
+    "MarquiseGoodwin": {
+        "position": "WR",
+        "team": "CHI",
+        "salary": 3200,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.7,
+        "Rush Tds": 0,
+        "Recs": 1.3,
+        "Rec Yds": 19.6,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.5
+    },
+    "CoreyDavis": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 5000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 4.5,
+        "Rec Yds": 59.7,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 7.2
+    },
+    "DJCharkJr": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 5300,
+        "Rush Att": 0,
+        "Rush Yds": 0.3,
+        "Rush Tds": 0,
+        "Recs": 4.2,
+        "Rec Yds": 58.1,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 7.9
+    },
+    "ParrisCampbell": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3300,
+        "Rush Att": 0.3,
+        "Rush Yds": 1.6,
+        "Rush Tds": 0,
+        "Recs": 2,
+        "Rec Yds": 27.5,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 3.8
+    },
+    "ScottyMiller": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 3100,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.5,
+        "Rush Tds": 0,
+        "Recs": 0.5,
+        "Rec Yds": 6.7,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.8
+    },
+    "DKMetcalf": {
+        "position": "WR",
+        "team": "SEA",
+        "salary": 7300,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 5.5,
+        "Rec Yds": 82.8,
+        "Rec Tds": 0.6,
+        "Fumbles": 0,
+        "Points": 12
+    },
+    "MarquiseBrown": {
+        "position": "WR",
+        "team": "BAL",
+        "salary": 5600,
+        "Rush Att": 0.2,
+        "Rush Yds": 1,
+        "Rush Tds": 0,
+        "Recs": 4.6,
+        "Rec Yds": 64.4,
+        "Rec Tds": 0.6,
+        "Fumbles": 0,
+        "Points": 9.9
+    },
+    "TeeHiggins": {
+        "position": "WR",
+        "team": "CIN",
+        "salary": 5100,
+        "Rush Att": 0.2,
+        "Rush Yds": 0.8,
+        "Rush Tds": 0,
+        "Recs": 5.4,
+        "Rec Yds": 71.8,
+        "Rec Tds": 0.5,
+        "Fumbles": 0.1,
+        "Points": 9.9
+    },
+    "KeenanAllen": {
+        "position": "WR",
+        "team": "LAC",
+        "salary": 6600,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.8,
+        "Rush Tds": 0,
+        "Recs": 6.9,
+        "Rec Yds": 81.5,
+        "Rec Tds": 0.5,
+        "Fumbles": 0.1,
+        "Points": 11.2
+    },
+    "AdamThielen": {
+        "position": "WR",
+        "team": "MIN",
+        "salary": 6700,
+        "Rush Att": 0.2,
+        "Rush Yds": 0.7,
+        "Rush Tds": 0,
+        "Recs": 5.6,
+        "Rec Yds": 67.8,
+        "Rec Tds": 0.6,
+        "Fumbles": 0.1,
+        "Points": 10.5
+    },
+    "TreQuanSmith": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 4400
+    },
+    "TyronJohnson": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 3200,
+        "Rush Att": 0,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 1,
+        "Rec Yds": 14.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.1
+    },
+    "KekeCoutee": {
+        "position": "WR",
+        "team": "IND",
+        "salary": 3000
+    },
+    "DenzelMims": {
+        "position": "WR",
+        "team": "NYJ",
+        "salary": 3000,
+        "Rush Att": 0,
+        "Rush Yds": 0,
+        "Rush Tds": 0,
+        "Recs": 0,
+        "Rec Yds": 0.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "AJBrown": {
+        "position": "WR",
+        "team": "TEN",
+        "salary": 6500,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.8,
+        "Rush Tds": 0,
+        "Recs": 5.3,
+        "Rec Yds": 80.9,
+        "Rec Tds": 0.7,
+        "Fumbles": 0,
+        "Points": 12.3
+    },
+    "LaviskaShenaultJr": {
+        "position": "WR",
+        "team": "JAC",
+        "salary": 4400,
+        "Rush Att": 1.1,
+        "Rush Yds": 5.8,
+        "Rush Tds": 0,
+        "Recs": 5,
+        "Rec Yds": 53,
+        "Rec Tds": 0.4,
+        "Fumbles": 0.1,
+        "Points": 8.1
+    },
+    "JarvisLandry": {
+        "position": "WR",
+        "team": "CLE",
+        "salary": 5800,
+        "Rush Att": 0.3,
+        "Rush Yds": 2,
+        "Rush Tds": 0,
+        "Recs": 4.3,
+        "Rec Yds": 51.7,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 7.3
+    },
+    "RussellGage": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 4300,
+        "Rush Att": 0.2,
+        "Rush Yds": 1,
+        "Rush Tds": 0,
+        "Recs": 4.1,
+        "Rec Yds": 40.7,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 5.4
+    },
+    "ChrisGodwin": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 6100,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 5.3,
+        "Rec Yds": 71.2,
+        "Rec Tds": 0.5,
+        "Fumbles": 0.1,
+        "Points": 10
+    },
+    "CalvinRidley": {
+        "position": "WR",
+        "team": "ATL",
+        "salary": 7000,
+        "Rush Att": 0.3,
+        "Rush Yds": 1.3,
+        "Rush Tds": 0,
+        "Recs": 6.2,
+        "Rec Yds": 86.1,
+        "Rec Tds": 0.6,
+        "Fumbles": 0.1,
+        "Points": 12.2
+    },
+    "DeonteHarris": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3300,
+        "Rush Att": 0.5,
+        "Rush Yds": 3.3,
+        "Rush Tds": 0,
+        "Recs": 2.2,
+        "Rec Yds": 27.6,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 4
+    },
+    "MichaelThomas": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 5900
+    },
+    "KendrickBourne": {
+        "position": "WR",
+        "team": "NE",
+        "salary": 3400,
+        "Rush Att": 0,
+        "Rush Yds": 0.2,
+        "Rush Tds": 0,
+        "Recs": 2.2,
+        "Rec Yds": 28.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.6
+    },
+    "AntonioBrown": {
+        "position": "WR",
+        "team": "TB",
+        "salary": 5200,
+        "Rush Att": 0.1,
+        "Rush Yds": 0.6,
+        "Rush Tds": 0,
+        "Recs": 4.3,
+        "Rec Yds": 50.9,
+        "Rec Tds": 0.4,
+        "Fumbles": 0,
+        "Points": 7.6
+    },
+    "TyMontgomery": {
+        "position": "WR",
+        "team": "NO",
+        "salary": 3100,
+        "Rush Att": 0.6,
+        "Rush Yds": 5.5,
+        "Rush Tds": 0,
+        "Recs": 0.8,
+        "Rec Yds": 6.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.6
+    },
+    "VictorBoldenJr": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3000
+    },
+    "ChadHansen": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3000
+    },
+    "DerrickDillon": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000
+    },
+    "DamionRatley": {
+        "position": "WR",
+        "team": "DET",
+        "salary": 3000
+    },
+    "AntonioCallaway": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 3000
+    },
+    "TonyBrown": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3000
+    },
+    "AlexBachman": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000
+    },
+    "ChrisFinke": {
+        "position": "WR",
+        "team": "KC",
+        "salary": 3000
+    },
+    "AustinMack": {
+        "position": "WR",
+        "team": "NYG",
+        "salary": 3000
+    },
+    "KelvinHarmon": {
+        "position": "WR",
+        "team": "WAS",
+        "salary": 3000
+    },
+    "RobGronkowski": {
+        "position": "TE",
+        "team": "TB",
+        "salary": 5500,
+        "Recs": 4.2,
+        "Rec Yds": 50.2,
+        "Rec Tds": 0.5,
+        "Fumbles": 0,
+        "Points": 7.9
+    },
+    "NoahFant": {
+        "position": "TE",
+        "team": "DEN",
+        "salary": 4800,
+        "Recs": 4.7,
+        "Rec Yds": 54.3,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 7.4
+    },
+    "MaxxWilliams": {
+        "position": "TE",
+        "team": "ARI",
+        "salary": 3200,
+        "Recs": 2,
+        "Rec Yds": 22.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3
+    },
+    "PatFreiermuth": {
+        "position": "TE",
+        "team": "PIT",
+        "salary": 3000,
+        "Recs": 2,
+        "Rec Yds": 21,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.9
+    },
+    "JackDoyle": {
+        "position": "TE",
+        "team": "IND",
+        "salary": 3400,
+        "Recs": 2.7,
+        "Rec Yds": 28,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 3.8
+    },
+    "MyColePruitt": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 2800,
+        "Recs": 0.7,
+        "Rec Yds": 8.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.3
+    },
+    "HarrisonBryant": {
+        "position": "TE",
+        "team": "CLE",
+        "salary": 2800,
+        "Recs": 1.8,
+        "Rec Yds": 20.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0.1,
+        "Points": 2.5
+    },
+    "JamesOShaughnessy": {
+        "position": "TE",
+        "team": "JAC",
+        "salary": 2900,
+        "Recs": 3.1,
+        "Rec Yds": 31.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.7
+    },
+    "KadenSmith": {
+        "position": "TE",
+        "team": "NYG",
+        "salary": 2700,
+        "Recs": 0.9,
+        "Rec Yds": 7.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.1
+    },
+    "TravisKelce": {
+        "position": "TE",
+        "team": "KC",
+        "salary": 8200,
+        "Recs": 6.9,
+        "Rec Yds": 87.8,
+        "Rec Tds": 0.7,
+        "Fumbles": 0.1,
+        "Points": 13.1
+    },
+    "KyleRudolph": {
+        "position": "TE",
+        "team": "NYG",
+        "salary": 3000,
+        "Recs": 1.2,
+        "Rec Yds": 11.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.9
+    },
+    "FosterMoreau": {
+        "position": "TE",
+        "team": "LV",
+        "salary": 3100,
+        "Recs": 0.9,
+        "Rec Yds": 10,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.4
+    },
+    "AlbertOkwuegbunam": {
+        "position": "TE",
+        "team": "DEN",
+        "salary": 3000,
+        "Recs": 2.3,
+        "Rec Yds": 23.6,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 3.7
+    },
+    "HunterBryant": {
+        "position": "TE",
+        "team": "DET",
+        "salary": 2500,
+        "Recs": 0.1,
+        "Rec Yds": 0.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "AdamShaheen": {
+        "position": "TE",
+        "team": "MIA",
+        "salary": 2500,
+        "Recs": 0.5,
+        "Rec Yds": 5.4,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 0.6
+    },
+    "NoahGray": {
+        "position": "TE",
+        "team": "KC",
+        "salary": 2500,
+        "Recs": 0.8,
+        "Rec Yds": 8.3,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.1
+    },
+    "QuintinMorris": {
+        "position": "TE",
+        "team": "BUF",
+        "salary": 2500
+    },
+    "ColbyParkinson": {
+        "position": "TE",
+        "team": "SEA",
+        "salary": 2500,
+        "Recs": 0.1,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "HunterLong": {
+        "position": "TE",
+        "team": "MIA",
+        "salary": 2500,
+        "Recs": 1.1,
+        "Rec Yds": 10,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 1.1
+    },
+    "ProWells": {
+        "position": "TE",
+        "team": "CIN",
+        "salary": 2500
+    },
+    "CamSutton": {
+        "position": "TE",
+        "team": "SEA",
+        "salary": 2500
+    },
+    "BrandonDillon": {
+        "position": "TE",
+        "team": "MIN",
+        "salary": 2500,
+        "Recs": 0.1,
+        "Rec Yds": 0.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "JodyFortson": {
+        "position": "TE",
+        "team": "KC",
+        "salary": 2500,
+        "Rush Att": 0,
+        "Rush Yds": 0.1,
+        "Rush Tds": 0,
+        "Recs": 0.3,
+        "Rec Yds": 3.6,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.5
+    },
+    "ZachDavidson": {
+        "position": "TE",
+        "team": "MIN",
+        "salary": 2500
+    },
+    "BernhardSeikovits": {
+        "position": "TE",
+        "team": "ARI",
+        "salary": 2500
+    },
+    "ShaneZylstra": {
+        "position": "TE",
+        "team": "DET",
+        "salary": 2500
+    },
+    "ClarkHarris": {
+        "position": "TE",
+        "team": "CIN",
+        "salary": 2500
+    },
+    "JaredCook": {
+        "position": "TE",
+        "team": "LAC",
+        "salary": 3900,
+        "Recs": 3.6,
+        "Rec Yds": 45.3,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6.5
+    },
+    "AndrewDePaola": {
+        "position": "TE",
+        "team": "MIN",
+        "salary": 2500
+    },
+    "LeeSmith": {
+        "position": "TE",
+        "team": "ATL",
+        "salary": 2500,
+        "Recs": 0.3,
+        "Rec Yds": 2.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "LukeStocker": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 2500
+    },
+    "PatrickScales": {
+        "position": "TE",
+        "team": "CHI",
+        "salary": 2500
+    },
+    "JamesWinchester": {
+        "position": "TE",
+        "team": "KC",
+        "salary": 2500
+    },
+    "LevineToilolo": {
+        "position": "TE",
+        "team": "NYG",
+        "salary": 2500
+    },
+    "GabeHolmes": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 2500
+    },
+    "BlakeBell": {
+        "position": "TE",
+        "team": "KC",
+        "salary": 2500,
+        "Recs": 0.5,
+        "Rec Yds": 5.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.8
+    },
+    "TylerOtt": {
+        "position": "TE",
+        "team": "SEA",
+        "salary": 2500
+    },
+    "EricTomlinson": {
+        "position": "TE",
+        "team": "BAL",
+        "salary": 2500,
+        "Recs": 0.2,
+        "Rec Yds": 2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "DanielBrown": {
+        "position": "TE",
+        "team": "NYJ",
+        "salary": 2500,
+        "Recs": 0.1,
+        "Rec Yds": 0.7,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "RossTravis": {
+        "position": "TE",
+        "team": "ARI",
+        "salary": 2500
+    },
+    "DemetriusHarris": {
+        "position": "TE",
+        "team": "ARI",
+        "salary": 2500,
+        "Recs": 0.6,
+        "Rec Yds": 5.8,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 0.9
+    },
+    "MattLaCosse": {
+        "position": "TE",
+        "team": "NE",
+        "salary": 2500
+    },
+    "NickVannett": {
+        "position": "TE",
+        "team": "NO",
+        "salary": 2500
+    },
+    "ZachWood": {
+        "position": "TE",
+        "team": "NO",
+        "salary": 2500
+    },
+    "StephenAnderson": {
+        "position": "TE",
+        "team": "LAC",
+        "salary": 2500,
+        "Recs": 0.8,
+        "Rec Yds": 7.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1
+    },
+    "NickBoyle": {
+        "position": "TE",
+        "team": "BAL",
+        "salary": 2500
+    },
+    "DerekCarrier": {
+        "position": "TE",
+        "team": "LV",
+        "salary": 2500,
+        "Recs": 0.7,
+        "Rec Yds": 7.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.8
+    },
+    "JPHoltz": {
+        "position": "TE",
+        "team": "CHI",
+        "salary": 2500,
+        "Recs": 0.3,
+        "Rec Yds": 2.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "MasonSchreck": {
+        "position": "TE",
+        "team": "CIN",
+        "salary": 2500
+    },
+    "EricSaubert": {
+        "position": "TE",
+        "team": "DEN",
+        "salary": 2500,
+        "Recs": 0.8,
+        "Rec Yds": 7.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1
+    },
+    "JacobHollister": {
+        "position": "TE",
+        "team": "JAC",
+        "salary": 2600,
+        "Recs": 0.8,
+        "Rec Yds": 8.1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1
+    },
+    "ConnorDavis": {
+        "position": "TE",
+        "team": "CLE",
+        "salary": 2500
+    },
+    "GarrettGriffin": {
+        "position": "TE",
+        "team": "NO",
+        "salary": 2500,
+        "Recs": 0.2,
+        "Rec Yds": 2.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "GeoffSwaim": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 2500,
+        "Recs": 1.3,
+        "Rec Yds": 12,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.6
+    },
+    "BugHoward": {
+        "position": "TE",
+        "team": "BUF",
+        "salary": 2500
+    },
+    "CethanCarter": {
+        "position": "TE",
+        "team": "MIA",
+        "salary": 2500,
+        "Recs": 0.2,
+        "Rec Yds": 2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.4
+    },
+    "MarcusBaugh": {
+        "position": "TE",
+        "team": "PIT",
+        "salary": 2500
+    },
+    "JohnnyMundt": {
+        "position": "TE",
+        "team": "LAR",
+        "salary": 2500,
+        "Recs": 0.5,
+        "Rec Yds": 4.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.5
+    },
+    "TroyFumagalli": {
+        "position": "TE",
+        "team": "NE",
+        "salary": 2500
+    },
+    "RickySealsJones": {
+        "position": "TE",
+        "team": "WAS",
+        "salary": 2500,
+        "Recs": 0.6,
+        "Rec Yds": 8.4,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 1
+    },
+    "DavidWells": {
+        "position": "TE",
+        "team": "ATL",
+        "salary": 2500
+    },
+    "DarrellDaniels": {
+        "position": "TE",
+        "team": "ARI",
+        "salary": 2500,
+        "Recs": 0.4,
+        "Rec Yds": 4.3,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.4
+    },
+    "DylanCantrell": {
+        "position": "TE",
+        "team": "WAS",
+        "salary": 2500
+    },
+    "DurhamSmythe": {
+        "position": "TE",
+        "team": "MIA",
+        "salary": 2500,
+        "Recs": 1.2,
+        "Rec Yds": 10.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "DeonYelder": {
+        "position": "TE",
+        "team": "TB",
+        "salary": 2500,
+        "Recs": 0,
+        "Rec Yds": 0.4,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0
+    },
+    "CarsonMeier": {
+        "position": "TE",
+        "team": "MIA",
+        "salary": 2500
+    },
+    "EthanWolf": {
+        "position": "TE",
+        "team": "NO",
+        "salary": 2500
+    },
+    "AustinFort": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 2500
+    },
+    "MattSokol": {
+        "position": "TE",
+        "team": "JAC",
+        "salary": 2500
+    },
+    "AndrewBeck": {
+        "position": "TE",
+        "team": "DEN",
+        "salary": 2500,
+        "Recs": 0.5,
+        "Rec Yds": 5.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.1
+    },
+    "NateBecker": {
+        "position": "TE",
+        "team": "BUF",
+        "salary": 2500
+    },
+    "JaedenGraham": {
+        "position": "TE",
+        "team": "ATL",
+        "salary": 2500
+    },
+    "RyanIzzo": {
+        "position": "TE",
+        "team": "NYG",
+        "salary": 2500
+    },
+    "KendallBlanton": {
+        "position": "TE",
+        "team": "LAR",
+        "salary": 2500
+    },
+    "TommySweeney": {
+        "position": "TE",
+        "team": "BUF",
+        "salary": 2500,
+        "Recs": 0.5,
+        "Rec Yds": 5.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.7
+    },
+    "ChrisMyarick": {
+        "position": "TE",
+        "team": "NYG",
+        "salary": 2500
+    },
+    "JordanFranks": {
+        "position": "TE",
+        "team": "CLE",
+        "salary": 2500
+    },
+    "KevinRader": {
+        "position": "TE",
+        "team": "PIT",
+        "salary": 2500
+    },
+    "DonnieErnsberger": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 2500
+    },
+    "ParkerHesse": {
+        "position": "TE",
+        "team": "ATL",
+        "salary": 2500,
+        "Recs": 0.2,
+        "Rec Yds": 1.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "DeShonWilliams": {
+        "position": "TE",
+        "team": "SEA",
+        "salary": 2500
+    },
+    "SammisReyes": {
+        "position": "TE",
+        "team": "WAS",
+        "salary": 2500
+    },
+    "KalifJackson": {
+        "position": "TE",
+        "team": "MIA",
+        "salary": 2500
+    },
+    "TommyHudson": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 2500,
+        "Recs": 0.9,
+        "Rec Yds": 9.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "TylerDavis": {
+        "position": "TE",
+        "team": "IND",
+        "salary": 2500
+    },
+    "CharlieTaumoepeau": {
+        "position": "TE",
+        "team": "DET",
+        "salary": 2500
+    },
+    "JaredPinkney": {
+        "position": "TE",
+        "team": "DET",
+        "salary": 2500
+    },
+    "BrycenHopkins": {
+        "position": "TE",
+        "team": "LAR",
+        "salary": 2500,
+        "Recs": 0.5,
+        "Rec Yds": 4.3,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 0.7
+    },
+    "TylerMabry": {
+        "position": "TE",
+        "team": "SEA",
+        "salary": 2500,
+        "Recs": 0.2,
+        "Rec Yds": 2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.2
+    },
+    "MattSeybert": {
+        "position": "TE",
+        "team": "LAC",
+        "salary": 2500
+    },
+    "GrahamAdomitis": {
+        "position": "TE",
+        "team": "IND",
+        "salary": 2500
+    },
+    "StephenCarlson": {
+        "position": "TE",
+        "team": "CLE",
+        "salary": 2500
+    },
+    "JesperHorsted": {
+        "position": "TE",
+        "team": "CHI",
+        "salary": 2500,
+        "Recs": 0.1,
+        "Rec Yds": 0.5,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "JoshOliver": {
+        "position": "TE",
+        "team": "BAL",
+        "salary": 2500,
+        "Recs": 0.7,
+        "Rec Yds": 6.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.9
+    },
+    "KyleMarkway": {
+        "position": "TE",
+        "team": "CLE",
+        "salary": 2500
+    },
+    "CheyenneOGrady": {
+        "position": "TE",
+        "team": "CIN",
+        "salary": 2500
+    },
+    "MichaelJacobson": {
+        "position": "TE",
+        "team": "SEA",
+        "salary": 2500
+    },
+    "ZachGentry": {
+        "position": "TE",
+        "team": "PIT",
+        "salary": 2500,
+        "Recs": 0.5,
+        "Rec Yds": 3.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.6
+    },
+    "NickBowers": {
+        "position": "TE",
+        "team": "LV",
+        "salary": 2500
+    },
+    "FarrodGreen": {
+        "position": "TE",
+        "team": "IND",
+        "salary": 2500
+    },
+    "AlizeMack": {
+        "position": "TE",
+        "team": "DET",
+        "salary": 2500
+    },
+    "NakiaGriffinStewart": {
+        "position": "TE",
+        "team": "NYG",
+        "salary": 2500
+    },
+    "NoahTogiai": {
+        "position": "TE",
+        "team": "IND",
+        "salary": 2500
+    },
+    "MitchellWilcox": {
+        "position": "TE",
+        "team": "CIN",
+        "salary": 2500,
+        "Recs": 0.1,
+        "Rec Yds": 1,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.1
+    },
+    "DaxRaymond": {
+        "position": "TE",
+        "team": "PIT",
+        "salary": 2500
+    },
+    "JacobHarris": {
+        "position": "TE",
+        "team": "LAR",
+        "salary": 2500,
+        "Recs": 0.5,
+        "Rec Yds": 5.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 0.9
+    },
+    "KahaleWarring": {
+        "position": "TE",
+        "team": "BUF",
+        "salary": 2500
+    },
+    "BenEllefson": {
+        "position": "TE",
+        "team": "MIN",
+        "salary": 2500,
+        "Recs": 0.4,
+        "Rec Yds": 3.8,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 0.7
+    },
+    "JibriBlount": {
+        "position": "TE",
+        "team": "MIA",
+        "salary": 2500
+    },
+    "CodeyMcElroy": {
+        "position": "TE",
+        "team": "TB",
+        "salary": 2500
+    },
+    "HunterKampmoyer": {
+        "position": "TE",
+        "team": "LAC",
+        "salary": 2500
+    },
+    "BrunoLabelle": {
+        "position": "TE",
+        "team": "ARI",
+        "salary": 2500
+    },
+    "TonyPoljan": {
+        "position": "TE",
+        "team": "BAL",
+        "salary": 2500
+    },
+    "JoshPederson": {
+        "position": "TE",
+        "team": "NO",
+        "salary": 2500
+    },
+    "MillerForristall": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 2500
+    },
+    "JohnRaine": {
+        "position": "TE",
+        "team": "ATL",
+        "salary": 2500
+    },
+    "TrevonWesco": {
+        "position": "TE",
+        "team": "NYJ",
+        "salary": 2500,
+        "Recs": 0.3,
+        "Rec Yds": 3.2,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "RyanBecker": {
+        "position": "TE",
+        "team": "ATL",
+        "salary": 2500
+    },
+    "ThaddeusMoss": {
+        "position": "TE",
+        "team": "CIN",
+        "salary": 2500
+    },
+    "KylenGranson": {
+        "position": "TE",
+        "team": "IND",
+        "salary": 2500,
+        "Recs": 0.7,
+        "Rec Yds": 7.7,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.8
+    },
+    "BrileyMooreMcKinney": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 2500
+    },
+    "JordanThomas": {
+        "position": "TE",
+        "team": "IND",
+        "salary": 2500
+    },
+    "ScooterHarrington": {
+        "position": "TE",
+        "team": "CHI",
+        "salary": 2500
+    },
+    "ShaunBeyer": {
+        "position": "TE",
+        "team": "DEN",
+        "salary": 2500
+    },
+    "KennyYeboah": {
+        "position": "TE",
+        "team": "NYJ",
+        "salary": 2500
+    },
+    "JohnBates": {
+        "position": "TE",
+        "team": "WAS",
+        "salary": 2500,
+        "Recs": 0.6,
+        "Rec Yds": 5.3,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 0.6
+    },
+    "IrvSmithJr": {
+        "position": "TE",
+        "team": "MIN",
+        "salary": 2500
+    },
+    "DevinAsiasi": {
+        "position": "TE",
+        "team": "NE",
+        "salary": 2500
+    },
+    "JakeHausmann": {
+        "position": "TE",
+        "team": "NYG",
+        "salary": 2500
+    },
+    "LukeFarrell": {
+        "position": "TE",
+        "team": "JAC",
+        "salary": 2500,
+        "Recs": 1,
+        "Rec Yds": 9.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "DylanSoehner": {
+        "position": "TE",
+        "team": "NO",
+        "salary": 2500
+    },
+    "CarsonWilliams": {
+        "position": "TE",
+        "team": "LV",
+        "salary": 2500
+    },
+    "MarkVitalJr": {
+        "position": "TE",
+        "team": "KC",
+        "salary": 2500
+    },
+    "TreMcKitty": {
+        "position": "TE",
+        "team": "LAC",
+        "salary": 2500,
+        "Recs": 0.8,
+        "Rec Yds": 8.5,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.5
+    },
+    "SalCannella": {
+        "position": "TE",
+        "team": "MIA",
+        "salary": 2500
+    },
+    "DaltonKeene": {
+        "position": "TE",
+        "team": "NE",
+        "salary": 2500
+    },
+    "BrockWright": {
+        "position": "TE",
+        "team": "DET",
+        "salary": 2500
+    },
+    "MattBushman": {
+        "position": "TE",
+        "team": "LV",
+        "salary": 2500
+    },
+    "DarrenFells": {
+        "position": "TE",
+        "team": "DET",
+        "salary": 2500,
+        "Recs": 0.9,
+        "Rec Yds": 8.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.2
+    },
+    "TylerHigbee": {
+        "position": "TE",
+        "team": "LAR",
+        "salary": 4000,
+        "Recs": 4,
+        "Rec Yds": 44,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6.1
+    },
+    "JesseJames": {
+        "position": "TE",
+        "team": "CHI",
+        "salary": 2500,
+        "Recs": 0.4,
+        "Rec Yds": 2.9,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 0.3
+    },
+    "MoAlieCox": {
+        "position": "TE",
+        "team": "IND",
+        "salary": 2600,
+        "Recs": 1.8,
+        "Rec Yds": 20.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.6
+    },
+    "MarkAndrews": {
+        "position": "TE",
+        "team": "BAL",
+        "salary": 5000,
+        "Recs": 4.8,
+        "Rec Yds": 58.8,
+        "Rec Tds": 0.5,
+        "Fumbles": 0,
+        "Points": 9
+    },
+    "DavidNjoku": {
+        "position": "TE",
+        "team": "CLE",
+        "salary": 3500,
+        "Recs": 2.2,
+        "Rec Yds": 27.3,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 3.7
+    },
+    "WillDissly": {
+        "position": "TE",
+        "team": "SEA",
+        "salary": 2900,
+        "Recs": 1.8,
+        "Rec Yds": 20,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.8
+    },
+    "AdamTrautman": {
+        "position": "TE",
+        "team": "NO",
+        "salary": 2900,
+        "Recs": 2.5,
+        "Rec Yds": 28.1,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.7
+    },
+    "DonaldParhamJr": {
+        "position": "TE",
+        "team": "LAC",
+        "salary": 2800,
+        "Recs": 1.4,
+        "Rec Yds": 15.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2
+    },
+    "DawsonKnox": {
+        "position": "TE",
+        "team": "BUF",
+        "salary": 3400,
+        "Recs": 2.5,
+        "Rec Yds": 29.1,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 4.4
+    },
+    "TJHockenson": {
+        "position": "TE",
+        "team": "DET",
+        "salary": 5200,
+        "Recs": 5.2,
+        "Rec Yds": 58.4,
+        "Rec Tds": 0.4,
+        "Fumbles": 0.1,
+        "Points": 8.2
+    },
+    "TylerKroft": {
+        "position": "TE",
+        "team": "NYJ",
+        "salary": 2700,
+        "Recs": 2.2,
+        "Rec Yds": 21.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3
+    },
+    "DarrenWaller": {
+        "position": "TE",
+        "team": "LV",
+        "salary": 7400,
+        "Recs": 6.8,
+        "Rec Yds": 81.8,
+        "Rec Tds": 0.5,
+        "Fumbles": 0.1,
+        "Points": 11.3
+    },
+    "EricEbron": {
+        "position": "TE",
+        "team": "PIT",
+        "salary": 3300,
+        "Recs": 2.5,
+        "Rec Yds": 26.8,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 3.8
+    },
+    "OJHoward": {
+        "position": "TE",
+        "team": "TB",
+        "salary": 2800,
+        "Recs": 1.2,
+        "Rec Yds": 17.2,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 2.1
+    },
+    "AustinHooper": {
+        "position": "TE",
+        "team": "CLE",
+        "salary": 3600,
+        "Recs": 3.6,
+        "Rec Yds": 36.6,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 5.1
+    },
+    "MikeGesicki": {
+        "position": "TE",
+        "team": "MIA",
+        "salary": 3800,
+        "Recs": 3.1,
+        "Rec Yds": 37.9,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 5.1
+    },
+    "DrewSample": {
+        "position": "TE",
+        "team": "CIN",
+        "salary": 2500,
+        "Recs": 1.1,
+        "Rec Yds": 9.7,
+        "Rec Tds": 0,
+        "Fumbles": 0.1,
+        "Points": 1
+    },
+    "KylePitts": {
+        "position": "TE",
+        "team": "ATL",
+        "salary": 4900,
+        "Recs": 4.5,
+        "Rec Yds": 50.2,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6.7
+    },
+    "JimmyGraham": {
+        "position": "TE",
+        "team": "CHI",
+        "salary": 2900,
+        "Recs": 1.2,
+        "Rec Yds": 12.4,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.6
+    },
+    "ChrisManhertz": {
+        "position": "TE",
+        "team": "JAC",
+        "salary": 2700,
+        "Recs": 1.2,
+        "Rec Yds": 13.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.8
+    },
+    "CJUzomah": {
+        "position": "TE",
+        "team": "CIN",
+        "salary": 2700,
+        "Recs": 2.6,
+        "Rec Yds": 25,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.2
+    },
+    "JerellAdams": {
+        "position": "TE",
+        "team": "TB",
+        "salary": 2500
+    },
+    "EvanEngram": {
+        "position": "TE",
+        "team": "NYG",
+        "salary": 3600,
+        "Recs": 2.5,
+        "Rec Yds": 25.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.3
+    },
+    "AnthonyFirkser": {
+        "position": "TE",
+        "team": "TEN",
+        "salary": 3100,
+        "Recs": 2.8,
+        "Rec Yds": 30.5,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 4.1
+    },
+    "ChrisHerndonIV": {
+        "position": "TE",
+        "team": "MIN",
+        "salary": 2600,
+        "Recs": 0.9,
+        "Rec Yds": 9.8,
+        "Rec Tds": 0,
+        "Fumbles": 0,
+        "Points": 1.2
+    },
+    "TylerConklin": {
+        "position": "TE",
+        "team": "MIN",
+        "salary": 2900,
+        "Recs": 2.8,
+        "Rec Yds": 29.7,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.8
+    },
+    "JuwanJohnson": {
+        "position": "TE",
+        "team": "NO",
+        "salary": 3300,
+        "Recs": 1.9,
+        "Rec Yds": 22.9,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 3.1
+    },
+    "LoganThomas": {
+        "position": "TE",
+        "team": "WAS",
+        "salary": 4700,
+        "Recs": 4.4,
+        "Rec Yds": 42.8,
+        "Rec Tds": 0.3,
+        "Fumbles": 0,
+        "Points": 6
+    },
+    "CameronBrate": {
+        "position": "TE",
+        "team": "TB",
+        "salary": 2500,
+        "Recs": 1,
+        "Rec Yds": 9.8,
+        "Rec Tds": 0.1,
+        "Fumbles": 0,
+        "Points": 1.4
+    },
+    "JonnuSmith": {
+        "position": "TE",
+        "team": "NE",
+        "salary": 4100,
+        "Recs": 3.3,
+        "Rec Yds": 35.4,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 5
+    },
+    "ColeKmet": {
+        "position": "TE",
+        "team": "CHI",
+        "salary": 3200,
+        "Recs": 3.6,
+        "Rec Yds": 34.3,
+        "Rec Tds": 0.2,
+        "Fumbles": 0.1,
+        "Points": 4.6
+    },
+    "HunterHenry": {
+        "position": "TE",
+        "team": "NE",
+        "salary": 3700,
+        "Recs": 2.9,
+        "Rec Yds": 33.2,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 4.4
+    },
+    "GeraldEverett": {
+        "position": "TE",
+        "team": "SEA",
+        "salary": 3000,
+        "Recs": 2.8,
+        "Rec Yds": 30.5,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 4.3
+    },
+    "HaydenHurst": {
+        "position": "TE",
+        "team": "ATL",
+        "salary": 2800,
+        "Recs": 2.7,
+        "Rec Yds": 28.4,
+        "Rec Tds": 0.2,
+        "Fumbles": 0,
+        "Points": 3.8
+    },
+    "TimTebow": {
+        "position": "TE",
+        "team": "JAC",
+        "salary": 2500
+    },
+    "TemarrickHemingway": {
+        "position": "TE",
+        "team": "WAS",
+        "salary": 2500
+    },
+    "EvanBaylis": {
+        "position": "TE",
+        "team": "KC",
+        "salary": 2500
+    }
+}
