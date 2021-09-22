@@ -1009,21 +1009,6 @@
         "points": 6.8,
         "ratio": 0.0013877551020408162
     },
-    "DerrickHenry": {
-        "position": "RB",
-        "team": "TEN",
-        "salary": 8600,
-        "Rush Att": 24.1,
-        "Rush Yds": 110.4,
-        "Rush Tds": 1,
-        "Recs": 1.8,
-        "Rec Yds": 13.4,
-        "Rec Tds": 0.1,
-        "Fumbles": 0.1,
-        "Points": 18.3,
-        "points": 18.3,
-        "ratio": 0.002127906976744186
-    },
     "PeytonBarber": {
         "position": "RB",
         "team": "LV",

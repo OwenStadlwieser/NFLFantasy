@@ -174,7 +174,7 @@ const knapSack = (quarterBacks, runningBacks, wideRecievers, tightEnds, defenses
     });
     console.log('done')
     let prefferedLineups = knapSack(quarterBacks, runningBacks, wideRecievers, tightEnds, defenses)
-    fs.writeFileSync("json/allQbsOptimizedWeek3.json", JSON.stringify(prefferedLineups), function (err) {
+    fs.writeFileSync("json/allQbsOptimizedWeek3WithoutDerrickHenry.json", JSON.stringify(prefferedLineups), function (err) {
         if (err) {
             console.log(err);
         }
