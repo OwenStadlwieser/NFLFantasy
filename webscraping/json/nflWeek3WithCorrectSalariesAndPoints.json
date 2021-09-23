@@ -1120,21 +1120,6 @@
         "points": 11.4,
         "ratio": 0.0019322033898305085
     },
-    "JoshJacobs": {
-        "position": "RB",
-        "team": "LV",
-        "salary": 6200,
-        "Rush Att": 16.5,
-        "Rush Yds": 69.3,
-        "Rush Tds": 0.7,
-        "Recs": 1.8,
-        "Rec Yds": 13.7,
-        "Rec Tds": 0.1,
-        "Fumbles": 0.1,
-        "Points": 12.9,
-        "points": 12.9,
-        "ratio": 0.0020806451612903226
-    },
     "DAndreSwift": {
         "position": "RB",
         "team": "DET",
