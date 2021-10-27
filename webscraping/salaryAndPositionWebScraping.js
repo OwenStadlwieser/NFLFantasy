@@ -82,7 +82,7 @@ import AdblockerPlugin from 'puppeteer-extra-plugin-adblocker'
             }
         }
     }
-    fs.writeFile("json/nflWeek4WithProjectedPoints.json", JSON.stringify(players), function (err) {
+    fs.writeFile("json/nflWeek7WithProjectedPoints.json", JSON.stringify(players), function (err) {
         if (err) {
             console.log(err);
         }

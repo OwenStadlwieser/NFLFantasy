@@ -95,9 +95,9 @@ const knapSack = (quarterBacks, runningBacks, wideRecievers, tightEnds, defenses
 }
 
 (async () => {
-    let rawdata = fs.readFileSync('json/nflWeek3WithCorrectSalariesAndPoints.json');
+    let rawdata = fs.readFileSync('json/nflweek4WithCorrectSalariesAndPoints.json');
     let players = JSON.parse(rawdata);
-    let rawdataDefenses = fs.readFileSync('json/nflWeek3DefensesWithCorrectSalariesAndPoints.json');
+    let rawdataDefenses = fs.readFileSync('json/nflweek4DefensesWithCorrectSalariesAndPoints.json');
     let defensesObject = JSON.parse(rawdataDefenses);
     let quarterBacks = []
     let runningBacks = []
@@ -151,30 +151,30 @@ const knapSack = (quarterBacks, runningBacks, wideRecievers, tightEnds, defenses
     runningBacks = runningBacks.slice(0, 25)
     wideRecievers = wideRecievers.slice(0, 30)
     tightEnds = tightEnds.slice(0, 15)
-    fs.writeFileSync("json/Week3RBS.json", JSON.stringify(runningBacks), function (err) {
+    fs.writeFileSync("json/week4RBS.json", JSON.stringify(runningBacks), function (err) {
         console.log('here')
         if (err) {
             console.log(err);
         }
     });
-    fs.writeFileSync("json/Week3QBS.json", JSON.stringify(quarterBacks), function (err) {
+    fs.writeFileSync("json/week4QBS.json", JSON.stringify(quarterBacks), function (err) {
         if (err) {
             console.log(err);
         }
     });
-    fs.writeFileSync("json/Week3TES.json", JSON.stringify(tightEnds), function (err) {
+    fs.writeFileSync("json/week4TES.json", JSON.stringify(tightEnds), function (err) {
         if (err) {
             console.log(err);
         }
     });
-    fs.writeFileSync("json/Week3WRS.json", JSON.stringify(wideRecievers), function (err) {
+    fs.writeFileSync("json/week4WRS.json", JSON.stringify(wideRecievers), function (err) {
         if (err) {
             console.log(err);
         }
     });
     console.log('done')
     let prefferedLineups = knapSack(quarterBacks, runningBacks, wideRecievers, tightEnds, defenses)
-    fs.writeFileSync("json/allQbsOptimizedWeek3WithoutDerrickHenryAndJoshJacobs.json", JSON.stringify(prefferedLineups), function (err) {
+    fs.writeFileSync("json/allQbsOptimizedweek4WithoutDerrickHenryAndJoshJacobs.json", JSON.stringify(prefferedLineups), function (err) {
         if (err) {
             console.log(err);
         }

@@ -17,8 +17,8 @@ function calculatePlayerPoints(player) {
 }
 
 (async () => {
-    let rawdata = fs.readFileSync('json/nflWeek3WithProjectedPoints.json');
-    let defenseRawData = fs.readFileSync('json/nflWeek3Defenses.json')
+    let rawdata = fs.readFileSync('json/nflWeek4WithProjectedPoints.json');
+    let defenseRawData = fs.readFileSync('json/nflWeek4Defenses.json')
     let players = JSON.parse(rawdata);
     let defenses = JSON.parse(defenseRawData);
     for (let key in defenses) {
@@ -34,12 +34,12 @@ function calculatePlayerPoints(player) {
             player.ratio = player.points / player.salary
         }
     }
-    fs.writeFile("json/nflWeek3WithCorrectSalariesAndPoints.json", JSON.stringify(players), function (err) {
+    fs.writeFile("json/nflWeek4WithCorrectSalariesAndPoints.json", JSON.stringify(players), function (err) {
         if (err) {
             console.log(err);
         }
     });
-    fs.writeFile("json/nflWeek3DefensesWithCorrectSalariesAndPoints.json", JSON.stringify(defenses), function (err) {
+    fs.writeFile("json/nflWeek4DefensesWithCorrectSalariesAndPoints.json", JSON.stringify(defenses), function (err) {
         if (err) {
             console.log(err);
         }
